@@ -1,0 +1,59 @@
+name: Deploy to Alibaba Cloud OSS
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '22'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Build site
+      run: npm run quartz build
+      
+    - name: Install ossutil
+      run: |
+        # 下载并安装 ossutil
+        wget http://gosspublic.alicdn.com/ossutil/1.7.7/ossutil64
+        chmod 755 ossutil64
+        sudo mv ossutil64 /usr/local/bin/ossutil
+        
+    - name: Configure Alibaba Cloud credentials
+      uses: alibaba-cloud-toolkit/configure-aliyun-cli-credentials@v1
+      with:
+        access-key-id: ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_ID }}
+        access-key-secret: ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_SECRET }}
+        region-id: ${{ secrets.ALIBABA_CLOUD_REGION_ID }}
+        
+    - name: Deploy to OSS
+      env:
+        OSS_BUCKET_NAME: ${{ secrets.OSS_BUCKET_NAME }}
+        OSS_ENDPOINT: ${{ secrets.OSS_ENDPOINT }}
+        ALIBABA_CLOUD_ACCESS_KEY_ID: ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_ID }}
+        ALIBABA_CLOUD_ACCESS_KEY_SECRET: ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_SECRET }}
+        ALIBABA_CLOUD_REGION_ID: ${{ secrets.ALIBABA_CLOUD_REGION_ID }}
+        SITE_URL: ${{ secrets.SITE_URL }}
+      run: |
+        chmod +x scripts/deploy.sh
+        ./scripts/deploy.sh
+        
+    - name: Deploy status
+      run: |
+        echo "✅ Site deployed to Alibaba Cloud OSS"
+        echo "🌐 Site URL: ${{ secrets.SITE_URL }}"
+        echo "🪣 Bucket: ${{ secrets.OSS_BUCKET_NAME }}" 

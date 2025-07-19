@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          Created by 云南米源科技有限公司 © {year}
+          Created by <a href="https://www.tuo-la.com">云南米源科技有限公司</a> © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
