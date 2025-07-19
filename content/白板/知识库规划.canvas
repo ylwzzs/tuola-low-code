@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"e782252e41a17780","type":"text","text":"知识库规划","x":-520,"y":-620,"width":250,"height":60,"color":"5"},
+		{"id":"3fdd7c7b7a0d8b0e","x":-820,"y":-540,"width":260,"height":240,"color":"1","type":"file","file":"时间戳笔记/20250619 待办.md"}
+	],
+	"edges":[]
+}
