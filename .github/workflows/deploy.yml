@@ -23,6 +23,12 @@ jobs:
     - name: Install dependencies
       run: npm ci
       
+    - name: Clean previous build
+      run: |
+        # 确保清理之前的构建文件
+        rm -rf public/
+        rm -rf .quartz-cache/
+      
     - name: Build site
       run: npm run quartz build
       
