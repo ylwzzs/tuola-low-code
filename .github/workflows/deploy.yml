@@ -40,11 +40,23 @@ jobs:
         sudo mv ossutil64 /usr/local/bin/ossutil
         
     - name: Configure Alibaba Cloud credentials
-      uses: alibaba-cloud-toolkit/configure-aliyun-cli-credentials@v1
-      with:
-        access-key-id: ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_ID }}
-        access-key-secret: ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_SECRET }}
-        region-id: ${{ secrets.ALIBABA_CLOUD_REGION_ID }}
+      run: |
+        # 配置阿里云CLI凭据
+        mkdir -p ~/.aliyun
+        cat > ~/.aliyun/config.json << EOF
+        {
+          "current": "default",
+          "profiles": [
+            {
+              "name": "default",
+              "mode": "AK",
+              "access_key_id": "${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_ID }}",
+              "access_key_secret": "${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_SECRET }}",
+              "region_id": "${{ secrets.ALIBABA_CLOUD_REGION_ID }}"
+            }
+          ]
+        }
+        EOF
         
     - name: Deploy to OSS
       env:
