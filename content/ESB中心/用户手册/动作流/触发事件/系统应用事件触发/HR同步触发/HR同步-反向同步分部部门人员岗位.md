@@ -1,8 +1,8 @@
 ---
 aliases: ["1970554482663302237"]
 title: HR同步-反向同步分部/部门/人员/岗位
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -11,4 +11,4 @@ theme: ESB中心
 
 当进行反向同步操作后，即可触发该类型动作流：
 
-![](2ad156f94437d3ef199b435cf1e6f1e4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2ad156f94437d3ef199b435cf1e6f1e4.jpg)

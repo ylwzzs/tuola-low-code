@@ -1,8 +1,8 @@
 ---
 aliases: ["1974158510706391748"]
 title: GETATTACHMENTNAME
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -23,10 +23,9 @@ GETATTACHMENTNAME(attachmentid)
 
 GETATTACHMENTNAME(表单附件字段)
 
-![](038ab840c947857805c9a3a2af3fbc74.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/038ab840c947857805c9a3a2af3fbc74.jpg)
 
 返回：
 
 对应附件的名称：
 
-![](2390ee73739da08d5a846938b39d3146.jpg)

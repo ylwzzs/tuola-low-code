@@ -50,7 +50,7 @@ theme: 知识文档
 
 > 哪会怕有一天只你共我
 
-![](804760fdbbb263bf43f3d8dd08d52dc0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/804760fdbbb263bf43f3d8dd08d52dc0.jpg)
 
 ## **有序列表**
 
@@ -105,4 +105,3 @@ theme: 知识文档
 | - | 短横线（减号） |
 | . | 点 |
 | ! | 感叹号 |
-| | | 竖线（管道符号） |

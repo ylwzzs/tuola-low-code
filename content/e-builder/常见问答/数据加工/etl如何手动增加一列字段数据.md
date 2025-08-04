@@ -27,4 +27,4 @@ theme: e-builder
 
 分布式雪花模型生成(默认Long类型)：字段值是Long类型的数值，单调递增
 
-![](5c037fcfa66ce8630a5a895769405bda.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5c037fcfa66ce8630a5a895769405bda.jpg)

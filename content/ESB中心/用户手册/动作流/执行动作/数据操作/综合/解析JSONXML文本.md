@@ -1,8 +1,8 @@
 ---
 aliases: ["1974012524215694562"]
 title: 解析JSON/XML文本
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -17,8 +17,7 @@ theme: ESB中心
 
 1：将json/xml字符串映射到被解析数据字段上作为数据来源
 
-![](f5943c3a7c6b7c57b52340371a92052d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f5943c3a7c6b7c57b52340371a92052d.jpg)
 
 2：在数据解析结果中设置json/xml的实际结构，点击设置按钮
 
-###

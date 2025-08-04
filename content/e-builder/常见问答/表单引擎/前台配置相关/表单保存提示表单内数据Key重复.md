@@ -11,10 +11,9 @@ theme: e-builder
 
 表单设计器保存时，提示报错：数据Key 表单内不能重复。
 
-![](3c92a50455d51445d12d0c3d5b7ad90c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3c92a50455d51445d12d0c3d5b7ad90c.jpg)
 
 **解决方式：**
 
 选中提示报错的字段 → 右侧属性区查看数据key名称 → 修改数据key名称，两个字段数据key名称不相同即可
 
-![](4897043332d72ef221b3235aa17b2d68.jpg)

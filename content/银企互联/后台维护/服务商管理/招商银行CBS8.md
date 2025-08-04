@@ -15,42 +15,42 @@ theme: 银企互联
 
 1、设置--->服务商管理--->点击“新建”--->在弹窗内选择“招商银行cbs8.0”
 
-![](5666173dbcd300d30e60ecfc0341855e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5666173dbcd300d30e60ecfc0341855e.jpg)
 
 点击“保存并进入详细设置”按钮，如下图所示，分为基本信息、通用设置、接口注册3个tab页。
 
-![](68d33b4f97da0838c390a4d1d0904532.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/68d33b4f97da0838c390a4d1d0904532.jpg)
 
 **基本信息：**可设置服务商卡片的维护者，除系统管理员外，谁能维护这个服务商卡片的信息；
 
 **通用设置：**设置CBS8系统环境域名、应用id、秘钥等信息（如下图）；还可以配置通用设置记录的所属机构，则只有该机构下的用户才能在前台选择到这个通用设置信息；
 
-![](0650541e13106ed0b671ced1ce84f533.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0650541e13106ed0b671ced1ce84f533.jpg)
 
 **接口注册：**可设置转账、查询接口与流程表单的关联关系
 
-![](b7139a62f2eaeefbc7964b3f2491c740.jpg)  
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b7139a62f2eaeefbc7964b3f2491c740.jpg)  
 说明：接口中有个联行号同步接口，是个定时任务，抓取CBS8中的联行号信息，存在OA联行号表中，可使用表单设计器中的关联浏览-联行号浏览按钮选择数据；
 
 2、如图所示，权限设置页面的服务商类型中增加招商银行CBS8选项，可按部门或付款账号进行权限设置，当选择招商银行CBS8时，付款账号是文本，需要手动填写付款账号。
 
-![](922e07da452df3b4a6cb86cd3037f648.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/922e07da452df3b4a6cb86cd3037f648.jpg)
 
-3、当有多个服务商时在支付信息复核页面需要先选择服务商，再选对应服务商下的接口，才会进入到对应接口产生的复核信息页面查看复核数据![](7a44fe337a771ed18ea0e25511350a2f.jpg)
+3、当有多个服务商时在支付信息复核页面需要先选择服务商，再选对应服务商下的接口，才会进入到对应接口产生的复核信息页面查看复核数据![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7a44fe337a771ed18ea0e25511350a2f.jpg)
 
 4、当有多个服务商时在支付结果查询页面需要先选择服务商，再选对应服务商下的接口，才会进入到对应接口产生的支付结果页面查看支付结果数据。页面展示效果同支付信息复核页面，只不过没有操作权限，只能查看数据。
 
 5、进入回单查询页面也是要先选服务商，选择服务商后直接进入回单查询页面。选择配置名称、查询范围进行查询，这里的配置名称是服务商管理页面-通用设置中的数据。
 
-![](a3d6ce2adb33fcfd67841a69b40ee587.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a3d6ce2adb33fcfd67841a69b40ee587.jpg)
 
 6、进入银行流水查询页面也是要先选服务商，选择服务商后直接进入查询页面（如下图），选择配置名称、查询范围进行查询。
 
-![](f400e3fc86b1db63354dcd16fd51eca8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f400e3fc86b1db63354dcd16fd51eca8.jpg)
 
 7、进入余额查询页面时无需选择服务商，默认进入查询招商银行cbs8的余额查询页面（目前仅支持招行cbs8，因此无需选择服务商）
 
-![](137019ccd15ea66b8dece16c18c2b04e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/137019ccd15ea66b8dece16c18c2b04e.jpg)
 
 8、使用过程描述
 
@@ -70,4 +70,3 @@ theme: 银企互联
 
 （8）上述设置好之后，可以在前台发起流程，触发动作流之后，会产生支付记录；
 
-（9）如果需要复核，点击支付后推送支付请求，OA要查询支付状态，需要在编辑服务商-接口注册中，再注册对应的查询接口，关联与转账接口相同的流程，设置定时任务时间，定时任务执行后会去查支付状态。

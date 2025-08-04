@@ -1,8 +1,8 @@
 ---
 aliases: ["1968595310302621048"]
 title: 内置MQ监听
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -11,7 +11,7 @@ theme: ESB中心
 
 2、设置触发组件时，需指定队列名称与模式，当前仅支持广播模式
 
-![](a45c6b910161c5ef7d74e174ceae6e90.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a45c6b910161c5ef7d74e174ceae6e90.jpg)
 
 3、支持设置系统消息队列的参数
 
@@ -45,4 +45,3 @@ theme: ESB中心
 
 **内置mq监听接收参数配置：**
 
-![](https://wpstest.e-cology.com.cn/weboffice/api/v3/office/copy/bkRTSzJRd2h3emNPZnkyT3hUV1dPY2tkbUl5S3hWbUZFYUpRMVJSbzN0VzVvWnhzdld3cHRMVUJCdldrY3JXbE9YejJKdm9QalFydThKZStBeTIvblRZT0FmOElVZ29BcUVUVzAxQ0FPbFVhMjdjL1FObmxqOGdpKzE4OVQ3RzNBcDFVOE82dmhBeER0bzZhTlBDTlVYUnR6a0JLRmgwdDFzMjlTREd0eTZwcEd1TkFpTFdRUDZNUnRyV3lIMEZ4Y1pjZmU2T21GckpVSGNSZzNRNHJ1M1ZXV1A3QTFyVU9ZSWdKbGtPclFCUXFEQmJvelU1NU9JbjZWSkJ2K0JsUXZnL2NuNHh4czBtQXk1bkQ5RHZEdDNQWE9IYU56ZFEzelFRaXhra0sxd3UvMXh4WmlVc1ZyWEYxNUVDM0xQTmZzcWs9/attach/object/1703fb79317cc5a498740b4f22ec64571cf75459?__doc_route_key=0)

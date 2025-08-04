@@ -15,8 +15,7 @@ theme: e-builder
 
 表单数据的导出除了常用的excel批量导出数据之外，还支持以下几种导出方式：
 
-![](fbabc802bcb6243824c926dc22caf062.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fbabc802bcb6243824c926dc22caf062.jpg)
 
 在这其中，导出为word详情或者excel详情时，可以自定义数据的布局。数据布局的设置需要现在表单【打印】功能出上传word或者excel模板，之后就可以在导出时选择对应的模板：
 
-![](69cee6ec606b3fb2c49c91e5abf2d5db.jpg)

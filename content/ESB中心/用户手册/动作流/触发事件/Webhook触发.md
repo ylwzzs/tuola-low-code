@@ -1,8 +1,8 @@
 ---
 aliases: ["1970546257702501756"]
 title: Webhook触发
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -13,28 +13,27 @@ theme: ESB中心
 
 点击查看[[Webhook接收第三方数据推送|webhook触发使用案例]]
 
-![](9477d5c796216dd2598ae7dd8e87ca95.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9477d5c796216dd2598ae7dd8e87ca95.jpg)
 
 **使用方式：**
 
 **请求参数设置：**根据第三方的推送数据示例格式配置请求参数数据格式
 
-![](a23147e207b5401aa9fc6e95f594e17b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a23147e207b5401aa9fc6e95f594e17b.jpg)
 
 **响应参数设置：**可以将下文执行动作的执行状态作为响应参数返回给第三方
 
-![](b35f6e37f4d6fc5c54c7188e66449ec0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b35f6e37f4d6fc5c54c7188e66449ec0.jpg)
 
 **认证应用：**选择开放平台认证应用，获取认证参数；发送请求时需要在请求地址后添加认证参数（不同认证应用认证方式不同提供的认证参数也不同，图中示例的**无认证令牌对应的参数就是access\_token**）
 
-![](f57435e1904d6e6022b776c7464c8187.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f57435e1904d6e6022b776c7464c8187.jpg)
 
-![](e77dae713599bdd7f5c78dbfddbaf600.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e77dae713599bdd7f5c78dbfddbaf600.jpg)
 
-![](a67f0a4400346388ebf2ff1dca3adae4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a67f0a4400346388ebf2ff1dca3adae4.jpg)
 
 **添加执行动作：**执行组件可以通过**动态赋值从上下文-webhook触发-Body**中获取到第三方推送的实际请求数据
 
-![](e842e2679990460b0678a962bb3d7763.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e842e2679990460b0678a962bb3d7763.jpg)
 
-![](275e362124c18949ba4bd0e702a6f6b1.jpg)

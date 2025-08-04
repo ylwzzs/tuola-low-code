@@ -1,8 +1,8 @@
 ---
 aliases: ["1969882973091284852"]
 title: 如何获取动作流id
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -15,6 +15,5 @@ theme: ESB中心
 
 点击动作流尾部三个点，选择设计，进入页面后顶部导航栏内即可获取，见图2
 
-![](cd1d1b4dd859f18b04b20ff6070eea83.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/cd1d1b4dd859f18b04b20ff6070eea83.jpg)
 
-![](cf4763c10a12114bae0f81245ad67dda.jpg)

@@ -15,4 +15,4 @@ theme: e-builder
 
 属性-图表功能-坐标轴下配置x轴，y轴标题即可
 
-![](4cab7ea1f5e081feb812d8533ac4dcd8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4cab7ea1f5e081feb812d8533ac4dcd8.jpg)

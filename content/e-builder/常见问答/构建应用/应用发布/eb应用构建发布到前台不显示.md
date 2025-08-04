@@ -19,4 +19,4 @@ EB应用已经构建并发布到前台，但是前台搜不到。
 
 2.应用发布到前台需要注意所属机构，如果账号不在对应的组织架构下，也无法使用该应用：
 
-![](b2cce930fe61e5503333ce2e10770560.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b2cce930fe61e5503333ce2e10770560.jpg)

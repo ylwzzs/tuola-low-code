@@ -1,8 +1,8 @@
 ---
 aliases: ["1973027828182264444"]
 title: 通过esb消息提醒将信息推送到企业微信中
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -11,7 +11,7 @@ theme: ESB中心
 
 在日常办公过程中，许多公司会使用e10，并搭配企微、钉钉等进行协同办公。此时在系统中发送通知，希望该用户的em、企微等办公软件都接收到消息推送。例如市场部会定期举办产品营销体验活动，需要将活动信息发送到对应人员的企微中，展示效果如下图所示
 
-![](6083f4f7f4dfb8a7f91c0923e0462e91.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6083f4f7f4dfb8a7f91c0923e0462e91.jpg)
 
 **2.** **思路分析**
 
@@ -23,7 +23,7 @@ theme: ESB中心
 
 该表单主要记录活动标题、内容、通知人员等信息。其中，“计划发布日期”字段可以使用年月日时分秒格式，方便后面动作流以此时间定时触发；此外，如果像场景中一样，有封面图片，请上传对应图片的url链接：
 
-![](2c2fab4ba55a999ae99a2b1d249f8c4a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2c2fab4ba55a999ae99a2b1d249f8c4a.jpg)
 
 **3.2**设置定时触发动作流**
 
@@ -31,36 +31,35 @@ theme: ESB中心
 
 在动作流中添加触发动作，定时或指定时间触发-按日期字段触发：
 
-![](88de5b515188659820de0294d4b3b586.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/88de5b515188659820de0294d4b3b586.jpg)
 
 之后选择数据源为3.1中搭建的“市场活动通知”表单；查询字段就是下面执行动作中需要使用的字段；选择表单的“计划发布日期”字段为指定日期，此时由于日期中包含时分秒，就可以按照该时间点准时触发；操作人可以设置为系统管理员或指定人员：
 
-![](dee24471a3af66fdd523953904cdce2f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/dee24471a3af66fdd523953904cdce2f.jpg)
 
 **3.2.2**设置执行动作-消息提醒**
 
 选择消息提醒执行组件，勾选云桥：
 
-![](c332b9cad577563345f05391887faebb.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c332b9cad577563345f05391887faebb.jpg)
 
 点击上图中云桥右侧的设置按钮，新建推送渠道，注意这里的推送目标，就是云桥集成企业微信后设置的应用，云桥集成企微可以[[待下载-未知ID_1968932497207841036|点击链接]]查看：
 
-![](3d21b7578ea5a7e1f6b1b965192cc2c5.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3d21b7578ea5a7e1f6b1b965192cc2c5.jpg)
 
-![](79e5c783b95e46ddc00f14ce3b909f31.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/79e5c783b95e46ddc00f14ce3b909f31.jpg)
 
 设置好推送目标之后，点击确定即可。注意云桥设置按钮里面的提醒内容不需要设置，采用外面的设置项。首先设置推送的标题、内容、图片，对应的就是表单当中的标题、内容、图片url字段，设置动态赋值，选择对应的参数即可：
 
-![](b4e3b7a5a852f2109fe0d3e1506ca7ff.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b4e3b7a5a852f2109fe0d3e1506ca7ff.jpg)
 
 之后如果想要用户收到消息提醒，点击能查看表单详情，则可以配置pc端与移动端链接。先从表单的布局视图中复制显示布局地址：
 
-![](1b5f4630e19c7e9ece3a99297c26f2eb.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1b5f4630e19c7e9ece3a99297c26f2eb.jpg)
 
 粘贴在动作流中，拼接上动态赋值：数据ID，移动端直接将前面的sp换成mobile即可：
 
-![](a9581039cc67a5bdf167e1439500c16d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a9581039cc67a5bdf167e1439500c16d.jpg)
 
 最后配置提醒对象，可以选择表单字段“通知人员”，如果该人员选择字段是多选，系统会自动通知多个人员：
 
-![](7b80855afad2100ddb808a72936fbabc.jpg)

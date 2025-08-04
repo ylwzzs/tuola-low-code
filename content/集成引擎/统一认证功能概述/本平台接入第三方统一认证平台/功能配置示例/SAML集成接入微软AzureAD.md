@@ -9,7 +9,7 @@ theme: 集成引擎
 
 本文档介绍E10系统通过SAML集成方式接入微软AzureAD。
 
-![](6e66e6200a97f1e767090ea354f6834c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6e66e6200a97f1e767090ea354f6834c.jpg)
 
 **配置前提**
 
@@ -21,9 +21,9 @@ theme: 集成引擎
 
 1、企业应用程序中创建你自己的应用程序
 
-默认勾选“集成未在库中找到的任何其他应用程序(非库)”![](52a5b877404c88041ad4f36368fd6e9d.jpg)
+默认勾选“集成未在库中找到的任何其他应用程序(非库)”![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/52a5b877404c88041ad4f36368fd6e9d.jpg)
 
-2、单一登录-设置SAML单一登录中，在SAML证书中通过应用联合元数据URL保存IDP元数据文件或直接点击“下载”联合元数据XML。![](f97ff2e7d6d321c1e791633196a61054.jpg)
+2、单一登录-设置SAML单一登录中，在SAML证书中通过应用联合元数据URL保存IDP元数据文件或直接点击“下载”联合元数据XML。![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f97ff2e7d6d321c1e791633196a61054.jpg)
 
 （备注：可通过“应用联合元数据URL”，将内容复制出来，存为一个.xml文档）
 
@@ -51,19 +51,19 @@ theme: 集成引擎
 
 **微软AzureAD中导入SP元数据文件**
 
-单一登录-设置SAML单一登录中，点击“上载元数据文件”，上传E10提供的SP元数据文件：![](8b2d12ae15b8c176c7f32d4e1d03bb6f.jpg)
+单一登录-设置SAML单一登录中，点击“上载元数据文件”，上传E10提供的SP元数据文件：![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8b2d12ae15b8c176c7f32d4e1d03bb6f.jpg)
 
-点击“添加”后，配置会自动加载，无需调整，直接保存即可。![](5dc6056e4af4a57d22049f5aeae1ecb1.jpg)
+点击“添加”后，配置会自动加载，无需调整，直接保存即可。![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5dc6056e4af4a57d22049f5aeae1ecb1.jpg)
 
 **维护微软AzureAD以及OA系统人员**
 
-1、进入创建的应用，“用户和组”中添加用户/组![](b8ac4f66159225fe9374ad9d96b73ab7.jpg)
+1、进入创建的应用，“用户和组”中添加用户/组![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b8ac4f66159225fe9374ad9d96b73ab7.jpg)
 
 2、单一登录，属性和索赔里面唯一用户标识符默认是“user.userprincipalname”，即对应人员的“用户主体名称”
 
-默认“user.userprincipalname”：![](c58b6b015ac62eac3e8dc1879077c8d6.jpg)
+默认“user.userprincipalname”：![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c58b6b015ac62eac3e8dc1879077c8d6.jpg)
 
-对应人员“用户主体名称”：![](5f68879558790c839ab311fad2760343.jpg)
+对应人员“用户主体名称”：![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5f68879558790c839ab311fad2760343.jpg)
 
 唯一用户标识符保持默认“user.userprincipalname”，需要维护用户主体名称，即E10系统这边获取到的信息是用户主体名称信息，将与SAML集成中设置的账号规则进行匹配：
 
@@ -83,13 +83,13 @@ theme: 集成引擎
 
 2、全局基础-界面配置中心-登录页设置-PC端登录页中维护PC端自定义登录地址：
 
-![](fc8b7a7c1691a5adbd43a2b092c086c6.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fc8b7a7c1691a5adbd43a2b092c086c6.jpg)
 
 访问自定义登录地址可跳转到微软登录页面进行认证登录：
 
-![](b5c8c785c2cbb02b544943a3f3bff365.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b5c8c785c2cbb02b544943a3f3bff365.jpg)
 
-微软登录后可回调登录E10系统：![](7c94c2e169b67b9bb83247e39abd2f21.jpg)
+微软登录后可回调登录E10系统：![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7c94c2e169b67b9bb83247e39abd2f21.jpg)
 
 **集成效果：移动端**
 
@@ -99,7 +99,7 @@ theme: 集成引擎
 
 2、全局基础-界面配置中心-登录页设置-移动端设计中维护自定义登录地址：
 
-![](232284b1ac4bb98ad9d026f1f062572d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/232284b1ac4bb98ad9d026f1f062572d.jpg)
 
 3、配置移动端服务器地址
 
@@ -125,7 +125,7 @@ https://passport.yunteams.cn/customlogin/mobilezzz
 
 https://passport.yunteams.cn/release/second/customlogin/mobilezzz
 
-![](eae89bd0d3ed4f9c58cfbebf0b661f96.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/eae89bd0d3ed4f9c58cfbebf0b661f96.jpg)
 
 由于移动端APP本身无法识别，移动端服务器地址需讲移动端个性化地址的二级域名修改成后端接口的二级域名releaseWeaver，即：
 
@@ -137,12 +137,11 @@ https://passport.yunteams.cn/releaseWeaver/customlogin/mobilezzz
 
 https://passport.yunteams.cn/customlogin/mobilezzz
 
-![](a8a4d20b3b2b0c4cceb5284608c5482c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a8a4d20b3b2b0c4cceb5284608c5482c.jpg)
 
 进入认证登录页（适配H5页面）：
 
-![](cf299a9a4ef7aaf4f3cab27e79cc5f8c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/cf299a9a4ef7aaf4f3cab27e79cc5f8c.jpg)
 
 输入账号密码后，可登录E10，进入E10移动端登录后页面：
 
-![](21c3189cc5439adb51e0ae952065e85c.jpg)

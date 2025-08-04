@@ -26,19 +26,19 @@ theme: 知识文档
 
 点击新建按钮，插件类型选择Filez，插件信息包含插件名称，启用状态，可应用于，可应用端，插件服务地址，预览格式，编辑格式。设置好相应信息后点击保存即可新建成功。
 
-![](265c9d6594acef6732f10f7b59ca96f1.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/265c9d6594acef6732f10f7b59ca96f1.jpg)
 
 ### 3.1.2. 设置
 
 点击Filez后编辑按钮，弹窗打开Filez设置页面，可在此修改插件相关设置，修改完成后点击保存完成设置
 
-![](71b502062a334abe4ccb59262eb39324.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/71b502062a334abe4ccb59262eb39324.jpg)
 
 ### 3.1.3. 应用范围
 
 点击Filez后应用范围按钮，弹窗打开应用范围设置页面，可在此控制插件应用范围，调整各个租户的使用情况。
 
-![](64736585a761cbe82a62694ca5a60668.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/64736585a761cbe82a62694ca5a60668.jpg)
 
 ### 3.1.4. 删除
 
@@ -52,7 +52,7 @@ theme: 知识文档
 
 应用范围默认不设置，此时所有用户可以使用插件，添加共享对象后，仅共享列表中的对象可以使用该插件。
 
-![](8b21f11852b2bd964af4d46a5f3435e0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8b21f11852b2bd964af4d46a5f3435e0.jpg)
 
 ### 3.2.2. 优先级设置
 
@@ -92,4 +92,3 @@ Filez支持模板功能，可以新建编辑模板，显示模板，并在预览
 
 ### 3.3.8. 移动端
 
-Filez插件支持移动设备，可以在手机，平板等设备上使用Filez插件对文件进行新建，预览，编辑等操作。

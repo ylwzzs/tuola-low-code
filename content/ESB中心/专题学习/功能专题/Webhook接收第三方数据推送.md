@@ -1,8 +1,8 @@
 ---
 aliases: ["1969113858587441287"]
 title: Webhook接收第三方数据推送
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -13,7 +13,7 @@ theme: ESB中心
 
 展示效果如下：
 
-![](9ae9d712779d77c7cb298469656e36a4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9ae9d712779d77c7cb298469656e36a4.jpg)
 
 2、功能介绍
 
@@ -23,11 +23,11 @@ theme: ESB中心
 
 1）开放平台新建应用用于授权外部系统访问本系统
 
-![](0e40ba4c01afed6796d1e10095053bf2.jpg)图1 新建开放平台应用设置外部访问授权范围即认证方式
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0e40ba4c01afed6796d1e10095053bf2.jpg)图1 新建开放平台应用设置外部访问授权范围即认证方式
 
 2）在人事招聘管理应用下新建动作流，触发方式为webhook触发，并选择认证应用为上一步创建的应用
 
-![](dfb84deb8308cd99cf9ae1a591e17178.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/dfb84deb8308cd99cf9ae1a591e17178.jpg)
 
 图2 新建动作流触发类型为webhook触发
 
@@ -35,19 +35,19 @@ theme: ESB中心
 
 a.当认证应用为通用认证无认证时，第三方调用webhook请求地址时请求参数除了推送的内容还要加上access\_token，具体的**token值就是认证应用中的无认证令牌**
 
-![](d084a7d64ae9db474e405d9d6ab8537b.jpg)图3 webhook触发请求参数配置
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d084a7d64ae9db474e405d9d6ab8537b.jpg)图3 webhook触发请求参数配置
 
-![](575fda0d6f4d9e44636480baf2e54851.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/575fda0d6f4d9e44636480baf2e54851.jpg)
 
 图4 金数据请求消息的推送数据结构
 
-![](03dd9a6d21a675e691ecac054ab367d4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/03dd9a6d21a675e691ecac054ab367d4.jpg)
 
 图5 将webhook生成的请求地址提供给金数据
 
 4）添加执行动作新建表单数据，将金数据推送的请求参数和人事招聘管理的应聘人员表单字段匹配对应，将外部数据保存到本系统中
 
-![](fed5b5cd9e1022770930c8d0b455b192.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fed5b5cd9e1022770930c8d0b455b192.jpg)
 
 图6 将外部数据保存到本系统表单中
 
@@ -57,10 +57,9 @@ a.选择新建表单数据组件的执行说明作为响应参数msg的内容
 
 b.根据新建表单数据组件的执行状态设置执行参数的状态值，如当新建表单数据执行成功的时候，新建表单数据组件的执行状态为success，返回响应状态值0
 
-![](a9019a41c28f2ca808d52eca91c7c898.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a9019a41c28f2ca808d52eca91c7c898.jpg)
 
 图7 将新建表单数据组件的执行说明作为响应说明
 
-![](ae828a61c10071b7bc04f8ee1c3ff5f0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ae828a61c10071b7bc04f8ee1c3ff5f0.jpg)
 
-图8 根据新建表单数据组件执行结果配置响应状态码

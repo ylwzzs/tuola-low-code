@@ -15,4 +15,4 @@ theme: e-builder
 
 eb流程是基于表单构建的，流程的发起就是对应表单的新建保存，表单新建保存后即为离开了流程的发起节点。
 
-![](6d750fa721c9ea0a219b2810ccc2efdc.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6d750fa721c9ea0a219b2810ccc2efdc.jpg)

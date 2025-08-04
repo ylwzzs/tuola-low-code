@@ -21,68 +21,67 @@ eteams支持企业微信应用授权，方便企业接入企业微信，只需�
 
 1. 在企业微信官网：<https://work.weixin.qq.com/>，点击“立即注册”，完成企业团队注册；
 
-![](a734d22e314ad6b35dfbb276954ff821.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a734d22e314ad6b35dfbb276954ff821.jpg)
 
 2. 管理员使用企业微信扫码[登录eteams](https://passport.eteams.cn/login?service=https%3A%2F%2Fwww.eteams.cn)，在后台管理中心-基础设置-企业微信，鼠标移至“通讯录套件”，点击添加，如下图：
 
-![](327f65e96cee4b61b58fc0248f089852.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/327f65e96cee4b61b58fc0248f089852.jpg)
 
-![](67e2fc48592dea38a285293b464a9041.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/67e2fc48592dea38a285293b464a9041.jpg)
 
 3. 使用微信扫码，选择企业点击登录，如下图：
 
-![](7dd9c136270464124b2eca9398fed65d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7dd9c136270464124b2eca9398fed65d.jpg)
 
-![](3f48dd629999743b0a51e653bd595761.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3f48dd629999743b0a51e653bd595761.jpg)
 
 4. 添加通讯录应用套件，点击授权管理通讯录，如下图：
 
-![](9e31663bad89761ef2fe13cb3ff15df1.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9e31663bad89761ef2fe13cb3ff15df1.jpg)
 
 5. 完成后，点击需要授权的其他应用，鼠标移入后，点击“+”，如下图所示：
 
-![](3482a16f5be036e55f4a9eb8b5936270.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3482a16f5be036e55f4a9eb8b5936270.jpg)
 
 6. 点击需要授权的应用，进入企业微信管理员登录授权界面，使用微信扫描二维码，如下图所示：
 
-**![](e0268c102b6f7381f47923f477e33c6e.jpg)**
+**![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e0268c102b6f7381f47923f477e33c6e.jpg)**
 
-**![](c52de638de8e48c1ed3174731e740831.jpg)**
+**![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c52de638de8e48c1ed3174731e740831.jpg)**
 
 7. 选择需要登录的企业微信，点击登录，如下图所示：
 
-**![](f817d658973589261ecad72a11bf4939.jpg)**
+**![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f817d658973589261ecad72a11bf4939.jpg)**
 
 8. 选择需要授权的应用，如下图所示：
 
-![](34e887736dec2d84f8842499e5e4f154.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/34e887736dec2d84f8842499e5e4f154.jpg)
 
 9. 点击下一步，设置授权应用的可见范围，可批量设置或者单独设置，如下图：
 
-![](d33e0859cbe6f37e3339271174080ce9.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d33e0859cbe6f37e3339271174080ce9.jpg)
 
 10. 在弹出的界面中，勾选可见范围，可以选择标签，如下图所示：
 
-![](3330162e41d3554f1de434aaea70b504.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3330162e41d3554f1de434aaea70b504.jpg)
 
 11. 设置好授权应用的可见范围后，点击左下角的“同意以上授权并添加”按钮，系统会提示添加成功，如下图：
 
-![](16dd09d57891c59d3cba197ae51c079a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/16dd09d57891c59d3cba197ae51c079a.jpg)
 
 12. 在企业微信app-工作台中即可使用添加的应用，如下图：
 
-![](d64c1fd5d95e7be5be68b43b7b8e801f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d64c1fd5d95e7be5be68b43b7b8e801f.jpg)
 
 **企业微信的管理员可以进行以下操作：**
 
 1. 企业微信号管理员进入到企业微信管理后台页面，有三种方式让成员加入企业：（1）分享链接；（2）发送短信/邮件；（3）成员相互要求加入；
 
-![](d6aeb6729fb07a2887af4a2c16838fed.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d6aeb6729fb07a2887af4a2c16838fed.jpg)
 
 2. 在企业微信后台，我的企业-微信插件，邀请关注，如下图：
 
-![](be17553dd2c9667cf8fdfec91a66d875.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/be17553dd2c9667cf8fdfec91a66d875.jpg)
 
 3. 微信扫描二维码时，即可关注企业，进行办公，如下图：
 
-![](70269a7ae554debed6c38e7095f5b5ba.jpg) ![](7b5f6e2436bdcf0df9b912f93d895ee7.jpg)

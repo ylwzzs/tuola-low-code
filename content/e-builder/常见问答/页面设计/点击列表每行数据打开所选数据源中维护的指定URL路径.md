@@ -15,4 +15,4 @@ theme: e-builder
 
 列表组件事件动作中配置，单击每一条数据，动作为选择打开页面，类型：选择字段，然后选择指定数据源中维护URL的字段即可。
 
-![](07c9cccf2617afe25c3f35b06850d40b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/07c9cccf2617afe25c3f35b06850d40b.jpg)

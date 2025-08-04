@@ -15,4 +15,4 @@ theme: e-builder
 
 在后台管理中心，全局设置-界面配置中心-其他logo设置，可以上传客户自己的企业logo
 
-![](27b0dc9ce44715e38e1347b13cd1c1e2.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/27b0dc9ce44715e38e1347b13cd1c1e2.jpg)

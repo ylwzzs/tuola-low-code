@@ -15,4 +15,4 @@ theme: e-builder
 
 可以使用etl内自带的数据过滤组件配置数据过滤条件，对输入数据进行第二次数据过滤
 
-![](d3d3f18d980168e33f6c7ced7b61eaf7.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d3d3f18d980168e33f6c7ced7b61eaf7.jpg)

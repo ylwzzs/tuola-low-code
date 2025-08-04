@@ -17,15 +17,15 @@ theme: 集成引擎
 
 1.新建集成登录设置，应用类型选择：E10(token认证)，带出默认配置参数：
 
-![](4dabd4acb31ceb913f87f2c0763941c6.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4dabd4acb31ceb913f87f2c0763941c6.jpg)
 
 2.E10(token认证)套件默认带出参数说明
 
-![](5e17b56122af4a12646f3e6f043234af.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5e17b56122af4a12646f3e6f043234af.jpg)
 
 3.点击进入详细设置
 
-![](c434d0eecbbebd984a87d61e56202439.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c434d0eecbbebd984a87d61e56202439.jpg)
 
 基本信息：
 
@@ -48,7 +48,7 @@ theme: 集成引擎
 
 自定义参数：
 
-![](41fdff93014b6a4ae6ceff0a4a7eb1a3.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/41fdff93014b6a4ae6ceff0a4a7eb1a3.jpg)
 
 |  |  |
 | --- | --- |
@@ -64,7 +64,7 @@ theme: 集成引擎
 
 3）app\_key、app\_security只支持注册该应用租户单点使用；
 
-![](3a974ae838af3a8fff3acdbbd0b3ca5f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3a974ae838af3a8fff3acdbbd0b3ca5f.jpg)
 
 1）account参数值为用户参数时，支持手机号、工号、邮箱、用户名（登录名）；
 
@@ -76,11 +76,11 @@ theme: 集成引擎
 
 选中对应人员，获取到token，可预览单点登录地址
 
-![](408d2b87c55d4726b3bd9b6d5fcd5e2c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/408d2b87c55d4726b3bd9b6d5fcd5e2c.jpg)
 
 点击测试，单点至单点方E10
 
-![](b97fa3938236fcbb02b30ea20f36b689.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b97fa3938236fcbb02b30ea20f36b689.jpg)
 
 用户录入：
 
@@ -90,8 +90,7 @@ theme: 集成引擎
 
 点击预览，获取到token，可预览单点登录地址：
 
-![](6bd7102931d55288ec40c3056ec39c36.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6bd7102931d55288ec40c3056ec39c36.jpg)
 
 点击测试，单点至单点方e10
 
-![](4bc2735ce7cdc870b4f219042e1b6006.jpg)

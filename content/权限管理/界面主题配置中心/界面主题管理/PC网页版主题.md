@@ -11,7 +11,7 @@ theme: 权限管理
 
 “PC网页版主题”用于配置PC网页版系统主题，如图1所示，系统提供标准的深色导航风格主题25个、浅色导航风格主题12个：
 
-![](4d06e2c4dd250ddaf5ab6ef4a485b17f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4d06e2c4dd250ddaf5ab6ef4a485b17f.jpg)
 
 图 1
 
@@ -19,7 +19,7 @@ theme: 权限管理
 
 新建方式有：直接【新建】、【从本地导入】和【从云商店导入】，三种方式。
 
-![](1d6f1426c39429fe9790fe10f046550a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1d6f1426c39429fe9790fe10f046550a.jpg)
 
 图 2
 
@@ -31,13 +31,13 @@ theme: 权限管理
 
 点击新建主题，打开如图 3所示操作窗口，主题风格可选“深色主题风格”或“浅色导航风格”，点击【保存并进入样式设置】，可在选择的主题风格基础上进行进行样式：
 
-![](7af4e2b6bbfcec1f45dfe61c9d720585.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7af4e2b6bbfcec1f45dfe61c9d720585.jpg)
 
 图3
 
 【浏览器窗口标题】：默认格式为：【应用名称】-【组织名称】-【浏览器窗口标题】，其中【浏览器窗口标题】为“浏览器窗口标题”字段填写的内容；点击显示格式链接可打开格式设置如图3-1所示，可调整为仅显示【浏览器窗口标题】还是搭配【应用名称】、【组织名称】显示：
 
-![](8f4e130a13eed556862a5aa7b0c899e9.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8f4e130a13eed556862a5aa7b0c899e9.jpg)
 
 图3-1
 
@@ -45,15 +45,15 @@ theme: 权限管理
 
 样式设置页签如图4、图5、图5-1所示，包含【导航栏】、【侧边栏】、【快捷搜索栏】和【其他】：
 
-![](48475d0fb3b4e096f565a6efeb81f270.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/48475d0fb3b4e096f565a6efeb81f270.jpg)
 
 图 4
 
-![](70635576fa508269314049eceb0e6dd6.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/70635576fa508269314049eceb0e6dd6.jpg)
 
 图 5
 
-![](9b99bbd8650374a72a7770345ae52559.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9b99bbd8650374a72a7770345ae52559.jpg)
 
 图5-1
 
@@ -67,7 +67,7 @@ theme: 权限管理
 
 样式设置可通过【预览】按钮查看预览效果，如图 6所示：
 
-![](3eb8b716bfb6efc663d9947c1eb2d6c8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3eb8b716bfb6efc663d9947c1eb2d6c8.jpg)
 
 图 6
 
@@ -75,13 +75,13 @@ theme: 权限管理
 
 鼠标移入主题卡片，显示操作按钮：编辑、另存为、下载、更多（启用/禁用、设为默认主题、指定、删除、上传至云商店、操作日志）,如图 7所示：
 
-![](7dab12dc07bc35db5e5ba1719574fa3e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7dab12dc07bc35db5e5ba1719574fa3e.jpg)
 
 图 7
 
 【编辑】：点击打开编辑窗口，如图 8所示，对于标准主题只能启用/禁用、和设置使用范围，支持在使用范围内设置禁用范围：
 
-![](8681e75b52fb020c23e3f60f4ba0296d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8681e75b52fb020c23e3f60f4ba0296d.jpg)
 
 图 8
 
@@ -89,7 +89,7 @@ theme: 权限管理
 
 【另存为】：即复制主题，对于系统主题可通过【另存为】操作存为自定义主题，如图 9所示：
 
-![](f4d14bf7de0e7c0efd87c2dc7234c5b7.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f4d14bf7de0e7c0efd87c2dc7234c5b7.jpg)
 
 图 9
 
@@ -103,13 +103,13 @@ theme: 权限管理
 
 【永久指定】或【定时指定】时，可设置是否允许用户自行切换，启用时，允许前台用户在指定主题下切换其他主题。
 
-![](d1cab44cbadd231834924dd93e4ecbbe.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d1cab44cbadd231834924dd93e4ecbbe.jpg)
 
 图 10
 
 【上传至云商店】：点击后可将主题上传至云商店，如图 11所示：
 
-![](188172a04855c9d6c359b795e2a07a12.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/188172a04855c9d6c359b795e2a07a12.jpg)
 
 图 11
 
@@ -119,7 +119,7 @@ theme: 权限管理
 
 如果系统对接了E-Builder，可以通过“页面设计器”的方式配置样式；未对接的情况下只有ecode代码方式，如图 12所示：
 
-![](c9e5c1ded223850d2c7c7fe8cb9607c5.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c9e5c1ded223850d2c7c7fe8cb9607c5.jpg)
 
 图 12
 
@@ -127,7 +127,7 @@ theme: 权限管理
 
 开发方式选择“ecode代码”时，可选择ecode或新建ecode，如图 13所示：
 
-![](59b23bac05807bd5eec0ec936dcfd289.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/59b23bac05807bd5eec0ec936dcfd289.jpg)
 
 图 13
 
@@ -135,14 +135,13 @@ theme: 权限管理
 
 用户可在【个人设置】-【显示设置】页面自行切换主题，如图14所示：
 
-![](cdad846c623e4368378cadb906142dfc.jpg)图14
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/cdad846c623e4368378cadb906142dfc.jpg)图14
 
 如果管理员指定了主题，在指定时间范围内， 前台用户将无法自行切换主题，如图15所示：
 
 如指定主题时，启用了【允许用户自行切换】，前台用户可在指定主题下切换其他主题，如图16所示：
 
-![](2abf2639fe37ecf00da358b6915c6fc6.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2abf2639fe37ecf00da358b6915c6fc6.jpg)
 
 图15
 
-![aae7d5a3-b615-435f-9a03-c887b3315153](b4c562f0a7965bbff38f8b3dffbe493e.jpg)

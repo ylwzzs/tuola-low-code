@@ -17,6 +17,5 @@ theme: e-builder
 
 第二步：在e10流程设置中，找到应用设置-聚合设置，选择需要聚合展示的模块，勾选e-builder即可在提交流程是获取到eb流程。
 
-![](a9b4c12fba59f8438e4cd467d2cd1939.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a9b4c12fba59f8438e4cd467d2cd1939.jpg',)
 
-![](e0db7c1df31581e4807df6b767aa2eed.jpg)

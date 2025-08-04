@@ -1,8 +1,8 @@
 ---
 aliases: ["1970282059107857662"]
 title: 在oralce环境，DML语句从报文中看是查出了数据，但是上下文赋值却拿不到数据
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---

@@ -1,14 +1,13 @@
 ---
 aliases: ["1974158756680791784"]
 title: 自定义JS脚本函数
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
 
 自定义JS脚本函数对应的就是动作流中的函数列表功能，用户可以自己定义函数并进行使用，详细配置方式可以[[待下载-未知ID_1965191392367196488|点击链接]]查看：
 
-![](e29bbcf067dec1410912e89baba2423f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e29bbcf067dec1410912e89baba2423f.jpg)
 
-![](5128d080a8100ec51464175ac065fb83.jpg)

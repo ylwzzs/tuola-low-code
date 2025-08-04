@@ -17,4 +17,4 @@ theme: e-builder
 
 在选择数据源时可以切换eb数据源类型为流程，即可获取指定应用下的流程相关数据：如待办、已办等
 
-![](e5591e4b599025000ecb4fa3e1c83bed.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e5591e4b599025000ecb4fa3e1c83bed.jpg)

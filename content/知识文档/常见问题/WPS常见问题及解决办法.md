@@ -11,7 +11,7 @@ theme: 知识文档
 
 1. **WPS在线预览或者在线编辑报错，如下图所示：**
 
-![](77d8cde85f8dc3b6c5708fc70729c101.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/77d8cde85f8dc3b6c5708fc70729c101.jpg)
 
 l 问题原因：本地存储源文件不存在或者本地存储配置不正确
 
@@ -19,7 +19,7 @@ l 解决办法：检查服务器路径文件是否存在，附件是否可以正
 
 2. **WPS编辑或者预览报错 {"result":"csrf error"}，如下图所示：**
 
-![](a5653b055a3d21846d54b993ddc3213a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a5653b055a3d21846d54b993ddc3213a.jpg)
 
 l 问题原因：WPS白名单未配置
 
@@ -27,7 +27,7 @@ l 解决办法：登录WPS应用管理平台－跨域白名单页面，设置增
 
 3. **预览或者编辑报错如下所示：**
 
-![](5bdf46819bc758b083f44d2f2ede167b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5bdf46819bc758b083f44d2f2ede167b.jpg)
 
 l 问题原因：WPS授权到期
 
@@ -77,4 +77,3 @@ file.online.wps.preview.view[all]=0000000
 
 # 例如设置租户key=ta5wskkpzz的租户全部都不显示
 
-file.online.wps.preview.view[ta5wskkpzz]=0000000

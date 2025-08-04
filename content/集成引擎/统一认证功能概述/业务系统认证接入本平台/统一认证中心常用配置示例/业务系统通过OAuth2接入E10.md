@@ -96,7 +96,7 @@ theme: 集成引擎
 
 流程图：
 
-![](1af801029a8a4aa67674e29898f2b4e3.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1af801029a8a4aa67674e29898f2b4e3.jpg)
 
 二、认证集成
 
@@ -104,7 +104,7 @@ theme: 集成引擎
 
 统一认证中心-认证应用管理，注册应用系统的OAuth2认证应用。
 
-![](48c4ff47210e7d4f629d80cda2ff26d9.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/48c4ff47210e7d4f629d80cda2ff26d9.jpg)
 
 其中，应用标识以及应用密钥则是对应的client\_id和client\_secret参数值。
 
@@ -118,7 +118,7 @@ theme: 集成引擎
 
 统一认证中心-认证协议管理-OAuth2认证，直接开启认证，提供OAuth2认证接口地址。
 
-![](c33b4dfde3ee8fa9d08437628b264e51.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c33b4dfde3ee8fa9d08437628b264e51.jpg)
 
 3、获取Authorization Code
 
@@ -164,7 +164,7 @@ theme: 集成引擎
 
 会跳转提示页面。可能跳转的提示页面可参考[[#附录1|附录1：提示页面信息]]。
 
-![](29bd21bc4d2c45adcc4e1caa779a34ee.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/29bd21bc4d2c45adcc4e1caa779a34ee.jpg)
 
 4、获取Access Token
 
@@ -303,7 +303,7 @@ theme: 集成引擎
 
 维护应用系统与E10系统之间的人员关系。
 
-访问应用系统，调用E10系统授权接口进行登录授权（应用系统自行实现），E10认证登录授权后，携带code回调应用系统， 应用系统进行登录。![](968560148b52d6e9371f0923fff63002.jpg)
+访问应用系统，调用E10系统授权接口进行登录授权（应用系统自行实现），E10认证登录授权后，携带code回调应用系统， 应用系统进行登录。![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/968560148b52d6e9371f0923fff63002.jpg)
 
 **附录1：提示信息页面**
 
@@ -362,4 +362,3 @@ theme: 集成引擎
 | 1022 | 参数grant\_type值错误 |
 | 2022 | 参数clientId未注册 |
 | 9090 | service不存在 |
-| 80021 | 超时异常,请重试 |

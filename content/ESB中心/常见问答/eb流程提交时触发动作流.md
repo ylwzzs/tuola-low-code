@@ -1,8 +1,8 @@
 ---
 aliases: ["1967686409336965252"]
 title: eb流程提交时触发动作流
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -15,4 +15,4 @@ theme: ESB中心
 
 动作流触发事件中选择标准应用--流程--选择工作流类型为e-Builder即可。
 
-![](9ef79e483c67559ea50fe59b069977c8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9ef79e483c67559ea50fe59b069977c8.jpg)

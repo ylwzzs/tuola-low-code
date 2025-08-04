@@ -11,14 +11,13 @@ theme: e-builder
 
 报表中的放入关联e-Builder字段，如何能够像在表格视图台账中那样，点击能够穿透到被关联的数据，如下图所示，点击能够打开供应商名称：
 
-![](ba41108f229afd46cdafa3981d87a500.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ba41108f229afd46cdafa3981d87a500.jpg)
 
 **解决方式：**
 
 首先需要复制被关联表单的页面地址-显示布局，本场景中复制供应商信息表的显示布局：
 
-![](9d746beb1ff480363566f901f7f30758.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9d746beb1ff480363566f901f7f30758.jpg)
 
 复制完成之后，将地址中的$dataid$替换成{关联字段所在的单元格}：
 
-![](6a51569641493fd435197025237c8496.jpg)

@@ -9,13 +9,13 @@ theme: 业务表单
 
 在高级版表单编辑器中，通过“excel导入布局”功能，将已有表单或审批excel模板直接导入。
 
-![](5f88566c7aff79c227f29ad629487624.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5f88566c7aff79c227f29ad629487624.jpg)
 
 **操作示例**
 
 在导入布局弹窗中，上传exce文件，点击生成布局，可直接生成布局。生成布局后，可根据名称拖入对应的字段。如下图所示：
 
-![](ea063fd7debe22a5ecf4009f7a419ea0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ea063fd7debe22a5ecf4009f7a419ea0.jpg)
 
 注意事项：
 
@@ -43,4 +43,3 @@ theme: 业务表单
 
 （9）从其他编辑器复制过来的样式 不支持
 
-（10）合并的单元格线条 以重合最长的为准

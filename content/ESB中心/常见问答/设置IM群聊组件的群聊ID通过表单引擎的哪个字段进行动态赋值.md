@@ -1,8 +1,8 @@
 ---
 aliases: ["1970174328538857094"]
 title: 设置IM群聊组件的群聊ID通过表单引擎的哪个字段进行动态赋值
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -11,10 +11,9 @@ theme: ESB中心
 
 设置IM群聊组件的群聊ID通过表单引擎的哪个字段进行动态赋值
 
-![](39ef65feb7cc5855997d321255564604.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/39ef65feb7cc5855997d321255564604.jpg)
 
 **问题解答：**
 
 可以通过【人员组织多选】字段进行赋值，且需启用单选
 
-![](f2de3e5ea739bf49ac2f18903590884d.jpg) ![](c3075b34d46067183fad9af50df1cb1c.jpg)

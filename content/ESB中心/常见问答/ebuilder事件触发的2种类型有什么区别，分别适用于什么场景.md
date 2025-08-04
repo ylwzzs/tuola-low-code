@@ -1,8 +1,8 @@
 ---
 aliases: ["1970174365701457098"]
 title: ebuilder事件触发的2种类型有什么区别，分别适用于什么场景
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -11,7 +11,7 @@ theme: ESB中心
 
 ebuilder事件触发的2种类型有什么区别，分别适用于什么场景？
 
-![](c26c153fd8c9cbdca2d2b13546afc416.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c26c153fd8c9cbdca2d2b13546afc416.jpg)
 
 **问题解答：**
 
@@ -19,8 +19,7 @@ ebuilder事件触发点击按钮触发和表单数据触发两种。
 
 前者（点击按钮时）可以在系统按钮操作执行之前触发动作流，常用于需要在按钮操作执行前进行数据校验或者明确执行动作仅发生在按钮点击之后的场景；
 
-![](b281ab11eb31c061dda4594b8275cfc8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b281ab11eb31c061dda4594b8275cfc8.jpg)
 
 后者（表单数据触发）不能在数据操作执行前触发，但是可以监听到多种渠道导致的数据变更，包括点击编辑保存按钮、行动作编辑字段值、或者动作流等多种方式导致的数据变更，常用于多种操作都会对数据产生变更的场景。
 
-![](6b03d0d16ad2b5025a274e8d00648c8d.jpg)

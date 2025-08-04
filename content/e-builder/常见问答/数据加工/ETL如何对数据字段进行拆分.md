@@ -15,6 +15,5 @@ theme: e-builder
 
 使用字段拆分组件，选择需要拆分的字段，设置拆分分隔符
 
-![](9e7e5fc23eff6c2d301b14915959ac3f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9e7e5fc23eff6c2d301b14915959ac3f.jpg)
 
-![](285c0c587e90157a0f8bbad0b1ceb1e2.jpg)

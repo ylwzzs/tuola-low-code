@@ -9,10 +9,9 @@ theme: 工作流程
 
 1、流程存为文档设置中，当文档附件选择离线表单pdf时，则支持设置是否要生成横版，功能入口如下图所示
 
-![](46d5e448ebd7d75032b161b0a05b9ff3.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/46d5e448ebd7d75032b161b0a05b9ff3.jpg)
 
 2、开启后仅对wk插件有效，并且只能选择网页版打印模板作为附件来源。
 
 3、前台生成横版的效果如下图所示
 
-![](902f12bd8dfa929398ad58be9e850680.jpg)

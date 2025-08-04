@@ -11,15 +11,15 @@ theme: 业务表单
 
 Excel设置模板非常灵活，打印时样式完全根据excel来，我们只需要在打印的时候根据数据源将实际用户填写的数据填充到excel中，如下图所示：
 
-![](f807307bb44aa5a98f334efc7a9ea16b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f807307bb44aa5a98f334efc7a9ea16b.jpg)
 
 支持设置模板名称，适用范围、开启状态和上传模板（下载系统提供的模板）
 
-![](5d2415198b548194b964dcaa45469f9e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5d2415198b548194b964dcaa45469f9e.jpg)
 
 如果对制作过程不是很了解的，可点击右上角"制作模板介绍”，介绍一共分为两个步骤，下载模板和制作模板，如下图所示：
 
-![](6ed9245646205ba277eaeaeddba2c86a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6ed9245646205ba277eaeaeddba2c86a.jpg)
 
 系统会提供设置模板所需要的所有数据源写法，数据源是对应到表单中的每个控件的，即通过数据源获取该控件的值，Excel模板中必须严格按照系统提供的数据源写法，否则系统无法获取数据到模板中，如下图所示：
 
@@ -30,17 +30,17 @@ Excel设置模板非常灵活，打印时样式完全根据excel来，我们只�
 （3）对于系统默认的字段（如提交人）,关联控件,系统提供固定写法,请参考下面的数据源列表;  
 （4）对于评论,系统提供两种打印方式,其中#horizontalcommenttable#表示评论纵向打印
 
-![](a945fe9bdba221a1730c2465dc8f935a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a945fe9bdba221a1730c2465dc8f935a.jpg)
 
 如果有多条打印规则适用，则在打印时，可选择要使用的模板，如下图：
 
-![](3769574dfe99ace9097f626c55f0ced1.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3769574dfe99ace9097f626c55f0ced1.jpg)
 
 ## ◦评论纵向打印设置
 
 word和excel中，审批意见及评论支持横向打印，可进行选择插入横向评论或纵向评论。如下图所示：
 
-![](4c3b45b0369c29015667eb341bb31157.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4c3b45b0369c29015667eb341bb31157.jpg)
 
 设置excel打印模板时，插入#transverseCommentTable#表示横向打印。如下图所示：
 
@@ -50,20 +50,19 @@ word和excel中，审批意见及评论支持横向打印，可进行选择插�
 
 ③当评论过多超过一行时，换行显示评论。
 
-![](5225c279ea0f7fa30e60e2685a2c0a83.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5225c279ea0f7fa30e60e2685a2c0a83.jpg)
 
 打印预览效果，每条评论占两个单元格。如下图所示：
 
-![](daa61febdaa5ebb1a611edffb6cdb50d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/daa61febdaa5ebb1a611edffb6cdb50d.jpg)
 
 ## ◦打印数字默认两位小数
 
 word和excel中模板中，数字类型的字段默认保留两位小数。
 
-![](595c5f7b4eef64964dcc473a3032b5af.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/595c5f7b4eef64964dcc473a3032b5af.jpg)
 
 **Word版打印模板设置**
 
 word模板的设置方式和excel类似，请参考excel。
 
-![](f91b742c76f5c4e192a02ccc58a13fdf.jpg)

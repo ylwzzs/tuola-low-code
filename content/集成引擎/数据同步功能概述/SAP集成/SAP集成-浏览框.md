@@ -37,13 +37,13 @@ theme: 集成引擎
 
 **除购买SAP集成外，还必须购买ESB中心**
 
-![](0149945d29b7784f471393aa992dff55.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0149945d29b7784f471393aa992dff55.jpg)
 
 权限：
 
 除需要SAP集成权限外，还需要有ESB连接器权限
 
-![](041e3838a256a7f3fff51bf6bb830943.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/041e3838a256a7f3fff51bf6bb830943.jpg)
 
 ##
 
@@ -51,7 +51,7 @@ theme: 集成引擎
 
 云上环境可跳过此步骤，私有化部署环境第一次需要安装
 
-![](442ad5d06a3558552f17232484016e3c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/442ad5d06a3558552f17232484016e3c.jpg)
 
 ## **数据源**
 
@@ -76,13 +76,13 @@ theme: 集成引擎
 | 集群系统标识 | 咨询SAP供应商获取 |
 | SAP集群组 | 咨询SAP供应商获取 |
 
-![](3cf8d1de2db1e28849028a523bcf750d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3cf8d1de2db1e28849028a523bcf750d.jpg)
 
 ## **注册服务**
 
 定义SAP函数有那些请求和响应【返回】参数，此处配置的请求参数可作为浏览框的搜索条件，响应【返回】参数可作为浏览框展示的数据。
 
-![](af5ede89e1f33dd8db9e59dcac01d8c6.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/af5ede89e1f33dd8db9e59dcac01d8c6.jpg)
 
 |  |  |
 | --- | --- |
@@ -96,15 +96,15 @@ theme: 集成引擎
 
 请求参数有哪些，取决于SAP函数的请求参数要求有哪些，建议开启自动参数，选择对应数据源，点击下一步，可自动带出请求参数
 
-![](133ab7bf648e22f49a0a6445ea090050.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/133ab7bf648e22f49a0a6445ea090050.jpg)
 
 响应参数有那些，取决于SAP函数，建议开启自动参数，选择对应数据源，点击下一步，可自动带出响应参数
 
-![](0b1946a7ff4e5cd558b34416c6ad169e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0b1946a7ff4e5cd558b34416c6ad169e.jpg)
 
 请求和响应配置完成后，可发布此注册服务，发布后，浏览框才可以选择此注册服务
 
-![](aa4da6df97843daade1b58fb0c090dc9.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/aa4da6df97843daade1b58fb0c090dc9.jpg)
 
 ## **注册浏览框**
 
@@ -120,7 +120,7 @@ theme: 集成引擎
 | 备注 | 任意 |
 | 所属机构 | 根据实际 |
 
-**![](7d58ad46964672626026eee4430c96f8.jpg)**
+**![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7d58ad46964672626026eee4430c96f8.jpg)**
 
 ### 2、**字段设置**
 
@@ -134,37 +134,37 @@ theme: 集成引擎
 | 标题栏 | 选中浏览框展示名称，不可重复 |
 | 主键字段 | 浏览按钮唯一标识，不可重复 |
 
-![](c4828b885631e4e401225e7a3decb4c7.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c4828b885631e4e401225e7a3decb4c7.jpg)
 
 #### 3、**快捷搜索字段**
 
 如图，输入内容后回车可搜索数据
 
-![](1b8dfa8eb003ca3fd1342d3123745176.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1b8dfa8eb003ca3fd1342d3123745176.jpg)
 
 #### **4、常用条件**
 
 设置后打开浏览框可在浏览框高级搜索看到被勾选常用条件的字段
 
-![](c73b7783dece0a282ac33a1621b9844c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c73b7783dece0a282ac33a1621b9844c.jpg)
 
 #### **5、查询字段默认显示**
 
 勾选后，打开浏览框，无需打开高级搜索，即展示此搜索项
 
-![](81b5bbfb94b4332373dc61cb7a28366d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/81b5bbfb94b4332373dc61cb7a28366d.jpg)
 
 #### **6、查询条件必填**
 
 勾选后，高级搜索项必须填写内容才可以搜索
 
-![](a131162801a8e923481b9dc1f24450d3.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a131162801a8e923481b9dc1f24450d3.jpg)
 
 ## **表单联动**
 
 工作流程表单或EB表单中添加关联浏览类型字段，浏览框类型选择SAP集成注册好的浏览框
 
-![](a6afacfb98f4d15cc7da225832fcfd3e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a6afacfb98f4d15cc7da225832fcfd3e.jpg)
 
 添加后可设置此浏览框与表单字段的联动效果
 
@@ -174,23 +174,23 @@ theme: 集成引擎
 
 示例选中**两行**数据：
 
-![](27a7505a53bdd856f35d484e6a1556c9.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/27a7505a53bdd856f35d484e6a1556c9.jpg)
 
 选中后效果：
 
 联动到表单字段，值显示最后一行浏览框数据
 
-![](9429e1e49bfd21611f198a1bdbe44874.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9429e1e49bfd21611f198a1bdbe44874.jpg)
 
 开启“完整钻取”，选中两条数据
 
-![](2a7004000da5b683907d3df0e262c9ea.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2a7004000da5b683907d3df0e262c9ea.jpg)
 
 选中后效果：
 
 选中的多条浏览框数据，以逗号分割的形式显示在表单上
 
-![](0bb1c191716c7ebbcf7929916cedf586.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0bb1c191716c7ebbcf7929916cedf586.jpg)
 
 ### 2、**高级搜索条件设置**
 
@@ -200,11 +200,11 @@ theme: 集成引擎
 
 此搜索项不显示
 
-![](8f438d8ced9a1ceec741e73afc4f9e2e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8f438d8ced9a1ceec741e73afc4f9e2e.jpg)
 
 取消禁用效果：
 
-![](b2af8048f725aca198ab2e908ca93b8c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b2af8048f725aca198ab2e908ca93b8c.jpg)
 
 #### 2.2**常用条件**
 
@@ -212,28 +212,27 @@ theme: 集成引擎
 
 常量，例如给Country Grouping搜索项设置常量“CN”，浏览框打开时，默认赋值“CN”
 
-![](fa28b32acefe3e2bc5df5019b22c80ff.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fa28b32acefe3e2bc5df5019b22c80ff.jpg)
 
 变量：
 
 可选择表单字段
 
-![](fb49bde347c6455203b871937c9fa0b1.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fb49bde347c6455203b871937c9fa0b1.jpg)
 
 效果：
 
 将表单字段值带到浏览框高级搜索中
 
-![](b615de92779e02d549731a62707c1dff.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b615de92779e02d549731a62707c1dff.jpg)
 
 #### 2.3**隐藏**
 
 勾选隐藏后，高级搜索不展示此搜索项
 
-![](4124c56d2a0493aa307e91011c6eca20.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4124c56d2a0493aa307e91011c6eca20.jpg)
 
 #### 2.4**只读**
 
 勾选只读，不可手动输入值
 
-![](82bb318835e1c70078f2c26e27788057.jpg)

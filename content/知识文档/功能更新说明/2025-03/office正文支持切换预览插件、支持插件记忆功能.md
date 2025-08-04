@@ -33,11 +33,11 @@ theme: 知识文档
 
 2. 没有插件的情况下，也展示打开本地文件按钮，支持上传本地文件作为正文
 
-![](c21ab58207878af640f019d66a78541f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c21ab58207878af640f019d66a78541f.jpg)
 
-![](f1a192c9fb70e303dae8a3d9cbeabe8f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f1a192c9fb70e303dae8a3d9cbeabe8f.jpg)
 
-![](38f5be4a39e1fbdad30593d383b1e257.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/38f5be4a39e1fbdad30593d383b1e257.jpg)
 
 ## **替换正文**
 
@@ -45,20 +45,19 @@ theme: 知识文档
 
 2. 自动保存： 在保存按钮右侧新增“替换正文”按钮，点击后打开本地文件，允许选择相同格式的文件，在本地文件浏览框点击确定后开始上传，上传成功后刷新正文区域，若用户未点击保存，则替换不生效
 
-![](3d3c68507ff27cd7fe41f2b73775a392.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3d3c68507ff27cd7fe41f2b73775a392.jpg)
 
 3. 手动保存：进入文档编辑状态，在保存按钮右侧新增“替换正文”按钮，其他逻辑同上
 
-![](276493829fca63ccad14779d247e2398.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/276493829fca63ccad14779d247e2398.jpg)
 
 ## **正文切换插件**
 
 Office正文预览页面，增加切换预览插件功能，点击切换按钮，即可选择现有插件进行预览
 
-![](cdb00e6b5769dc89cfe96260cf78f227.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/cdb00e6b5769dc89cfe96260cf78f227.jpg)
 
 ## **插件记忆**
 
 1. 用户预览文件时，优先根据后台设置的插件优先级调用插件
 
-2. 若用户在预览时切换插件，后续再次预览时，将优先调用上次切换的插件进行预览

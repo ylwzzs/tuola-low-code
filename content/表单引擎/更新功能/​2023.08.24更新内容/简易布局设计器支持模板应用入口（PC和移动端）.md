@@ -13,8 +13,7 @@ theme: 表单引擎
 
 悬浮模板上，可点击“使用”，将模板覆盖至当前表单，可点击“预览”查看模板效果。
 
-![](76f8938ecf5055a72fdb5fec328ebc9c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/76f8938ecf5055a72fdb5fec328ebc9c.jpg)
 
-![](725872d30a298add07eb476d7e888d05.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/725872d30a298add07eb476d7e888d05.jpg)
 
-![](520a6afbd9cb92ba308d0e238464a0b8.jpg)

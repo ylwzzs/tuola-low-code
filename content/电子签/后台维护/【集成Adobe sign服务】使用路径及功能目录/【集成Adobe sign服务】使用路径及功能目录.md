@@ -9,7 +9,7 @@ theme: 电子签
 
 **电子签集成Adobe sign**服务 使用路径**
 
-**![](3ddefbee0c2305f1bf49e66067b6e1c6.jpg)**
+**![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3ddefbee0c2305f1bf49e66067b6e1c6.jpg)**
 
 **功能**目录**
 
@@ -29,4 +29,3 @@ theme: 电子签
 
 [[四、签署文件管理|四、签署文件管理]]
 
-[[五、其他|五、其他设置]]

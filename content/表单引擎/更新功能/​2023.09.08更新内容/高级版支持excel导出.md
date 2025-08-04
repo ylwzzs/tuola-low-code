@@ -13,25 +13,25 @@ theme: 表单引擎
 
 1．Excel布局设计器入口：格式-excel导出
 
-![](42f331ef958f230f3a109ed9d0df7f85.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/42f331ef958f230f3a109ed9d0df7f85.jpg)
 
 2．布局管理入口：布局列表-Excel布局-更多-导出 excel
 
-![](1cf76ba21c070a3d9319ab07ffed3c4d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1cf76ba21c070a3d9319ab07ffed3c4d.jpg)
 
 一、功能流程
 
 1．点击【excel导出】，弹出excel导出弹窗
 
-![](fdcb6204a5409e1a083464cc663766ab.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fdcb6204a5409e1a083464cc663766ab.jpg)
 
 2．点击【导出】，下载excel文件，提示“导出成功”
 
-![](fdf655047ae6c8e2d8ad103718d24436.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fdf655047ae6c8e2d8ad103718d24436.jpg)
 
 3．导出文件展示，如图
 
-![](403d6fdf0cb28caa169065a45412367c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/403d6fdf0cb28caa169065a45412367c.jpg)
 
 二、功能规则说明
 
@@ -39,7 +39,7 @@ theme: 表单引擎
 
 2．导出规则与Excel导入功能一致，具体可见弹窗描述
 
-![](5575a85f5c6b90d29709f20cd688c63e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5575a85f5c6b90d29709f20cd688c63e.jpg)
 
 3．异常处理：
 
@@ -49,4 +49,3 @@ theme: 表单引擎
 
 （3）下列配置导出后不保留：单元格属性、行自定义属性，列自定义属性
 
-（4）设置为固定像素列宽导出后正常显示，非固定像素列宽导出后会转化为默认固定列宽

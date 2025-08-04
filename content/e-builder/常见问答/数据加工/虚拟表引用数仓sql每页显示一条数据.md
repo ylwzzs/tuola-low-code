@@ -11,9 +11,9 @@ theme: e-builder
 
 表单使用虚拟表引用数仓sql数据源，表单每页仅显示一条数据
 
-![](https://www.e-cology.com.cn/api/file/preview?type=redirect&fileId=100500139030881682)![](749fed07ac08ee0e52ae80c61926e1a8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/749fed07ac08ee0e52ae80c61926e1a8.jpg)
 
-![](a96d6f11b96286d9955463eb8b242c46.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a96d6f11b96286d9955463eb8b242c46.jpg)
 
 **解决方式：**
 
@@ -23,4 +23,3 @@ theme: e-builder
 
 2、id不能重复
 
-3、数据库列名不能用中文

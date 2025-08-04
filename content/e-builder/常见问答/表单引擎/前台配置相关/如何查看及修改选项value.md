@@ -19,12 +19,11 @@ theme: e-builder
 
 ，即可进入选项设置页面修改选项value(选项id)
 
-![](2844c63a49588022897546e30abc98a1.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2844c63a49588022897546e30abc98a1.jpg)
 
 第二种：进入应用后台管理中心，找到对应的表单，在基础信息里选择表单设置-字段管理
 
-![](ab52a85f51d09401377ed6f3ffa47bc7.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ab52a85f51d09401377ed6f3ffa47bc7.jpg)
 
 点击选项类型字段，进入编辑字段页面点击选择设置小齿轮，即可更改选项value
 
-![](7ee713c73d9a8d8d0569c3c7a7136396.jpg)

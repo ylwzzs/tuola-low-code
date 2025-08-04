@@ -15,4 +15,4 @@ sql视图如何引用系统变量或者自定义的变量参数
 
 在sql编辑器左上角，点击图标即可获取系统变量、自定义变量等参数引用
 
-![](abd2747fb4447b2817ad0e8f338fb6b5.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/abd2747fb4447b2817ad0e8f338fb6b5.jpg)

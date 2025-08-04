@@ -9,6 +9,5 @@ theme: 权限管理
 
 可配置在app上浏览器打开页面上，长按时显示哪些菜单
 
-![](668e2d0aa01d9011c2be5ca777ef7462.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/668e2d0aa01d9011c2be5ca777ef7462.jpg)
 
-![](853b7facf6b5a2483cf38cac92ebc4d9.jpg)

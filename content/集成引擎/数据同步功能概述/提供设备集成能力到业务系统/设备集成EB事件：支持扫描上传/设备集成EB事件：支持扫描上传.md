@@ -17,7 +17,7 @@ theme: 集成引擎
 
 功能入口：e-Builder-EB组件-事件-扫描上传
 
-![](e206eeb3961d4e3f9a6bcd72507f33da.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e206eeb3961d4e3f9a6bcd72507f33da.jpg)
 
 1）动作：选择【扫描上传】会联带出具体配置信息
 
@@ -57,8 +57,7 @@ theme: 集成引擎
 
 合并开关开启：可选择合并上传或单张上传多个图片
 
-![](ecc08fdba81e56e1b70dfc2cc38103eb.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ecc08fdba81e56e1b70dfc2cc38103eb.jpg)
 
 多设备选择：可选择需要使用的设备
 
-![](98f6bc4dc972da558651d5d9e3f70444.jpg)

@@ -11,7 +11,7 @@ Excel创建表单对接字段管理以及识别数据格式
 
 **一、**字段类型对接字段管理，支持更多字段类型（仅对接业务表单）**
 
-![](373161c35208ab52f9a2d0976d9614b5.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/373161c35208ab52f9a2d0976d9614b5.jpg)
 
 二、**识别Excel格式**
 
@@ -21,7 +21,7 @@ Excel创建表单对接字段管理以及识别数据格式
 
 识别规则：从第二列、第一行开始，识别非空行单元格
 
-![](291b53134f07e59ed85003659bc65987.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/291b53134f07e59ed85003659bc65987.jpg)
 
 2. 识别日期格式
 
@@ -29,6 +29,5 @@ Excel创建表单对接字段管理以及识别数据格式
 
 识别规则：从第二列、第一行开始，识别非空行单元格
 
-![](d87a7a8c289c6c00101f2fb46fd073d6.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d87a7a8c289c6c00101f2fb46fd073d6.jpg)
 
-![](2419ffc4e3485bc4cf82fe29f7d706ee.jpg)

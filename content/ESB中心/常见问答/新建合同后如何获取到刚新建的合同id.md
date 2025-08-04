@@ -1,8 +1,8 @@
 ---
 aliases: ["1970281693036857646"]
 title: 新建合同后如何获取到刚新建的合同id
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -15,4 +15,4 @@ theme: ESB中心
 
 新建合同后下文的执行组件可以从新建合同组件->响应参数->合同ID获取到刚新建的合同id
 
-![](177ef00c53fd9d5a2ecb4bf9a4e947ac.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/177ef00c53fd9d5a2ecb4bf9a4e947ac.jpg)

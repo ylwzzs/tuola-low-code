@@ -21,11 +21,11 @@ theme: 云桥
 
 进入后台管理中心-云桥（或从更多应用-企业微信入口进入），设置企业微信的应用授权托管和组织架构等信息的托管授权，如下图。
 
-![](47f25f1eb9afc21c9fc0f7e0c5180465.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/47f25f1eb9afc21c9fc0f7e0c5180465.jpg)
 
 “从企业微信同步到eteams”、“eteams到企业微信未同步人员”和“更新企业微信对外成员展示'与我协作'属性”三个操作，需要在授权通讯录套件后才显示。
 
-![](95603f9678ca2cb0a1561a161acc665a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/95603f9678ca2cb0a1561a161acc665a.jpg)
 
 **授权托管应用**
 
@@ -43,15 +43,15 @@ theme: 云桥
 
 授权通讯录套件后，可开启开关。开启开关后，将自动清除目前eteams中所有的人员上级关系，自动同步企业微信的上级关系到eteams中，后续全量同步时人员上级关系将以企业微信为准，eteams中无法设置上级和下属。若未开启按钮，不同步企业微信中的上级关系到eteams中。
 
-![](81c8ff29b5675e210e4566f4c606615a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/81c8ff29b5675e210e4566f4c606615a.jpg)
 
 若在企业微信中设置了两个及以上个部门上级，在同步到eteams时，将随机取其中一个作为部门其他成员的直接上级，其他几个部门上级将添加为该成员的其他上级，如下图：
 
-![](0a25604f7bf25569d51ce998678a2f06.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0a25604f7bf25569d51ce998678a2f06.jpg)
 
 同步到eteams后如下图：
 
-![](cd3aef3ede356b1f7db50bcd742c4311.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/cd3aef3ede356b1f7db50bcd742c4311.jpg)
 
 另外，目前无法将eteams中的上级关系同步到企业微信中。
 
@@ -91,10 +91,9 @@ theme: 云桥
 
 如果部门成员不同步时,请联系客服解决！
 
-![](0c820b1cbcb68f78c2360289ac849b9f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0c820b1cbcb68f78c2360289ac849b9f.jpg)
 
 **更新企业微信对外成员展示“与我协作”属性**
 
 在团队授权了通讯录套件的情况下，eteams团队新增成员时，无需进行任何操作，系统自动添加“与我协作”专属链接；若企业微信新增成员时，需要在eteams后台管理中心-企业微信下点击“同步”按钮。
 
-具体配置和说明请参考[[企业微信成员对外信息展示外部联系人首页|链接]]。

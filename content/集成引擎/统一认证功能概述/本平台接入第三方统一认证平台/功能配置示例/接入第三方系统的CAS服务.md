@@ -35,7 +35,7 @@ CAS服务提供接口地址：
 
 开启统一认证接入管理，设置CAS集成，配置认证服务参数，账号规则设置电子邮箱：
 
-![](b5238297e14d1f215a7c8d9d2059c65a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b5238297e14d1f215a7c8d9d2059c65a.jpg)
 
 **E10中需注册CAS服务白名单**
 
@@ -45,12 +45,11 @@ CAS服务提供接口地址：
 
 界面配置中心-登录页设置中设置企业登录地址：
 
-![](72157a2d1abe73b3849a951cf5f5bf1d.jpg)访问企业登录地址https://passport.yunteams.cn/jytcaslogin 可跳转CAS服务：
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/72157a2d1abe73b3849a951cf5f5bf1d.jpg)访问企业登录地址https://passport.yunteams.cn/jytcaslogin 可跳转CAS服务：
 
-![](3dff1d67c23ff7af41625409aba91745.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3dff1d67c23ff7af41625409aba91745.jpg)
 
 输入账号密码认证登录后即可回调登录OA：
 
-![](2a5eb2ee9370585edf8c145c82c73fcb.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2a5eb2ee9370585edf8c145c82c73fcb.jpg)
 
-点击退出也是会退出到CAS服务。

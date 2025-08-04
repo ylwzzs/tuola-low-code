@@ -11,45 +11,45 @@ Offiice365国内版与国际版均需参照以下步骤获取目录(租户) ID�
 
 **Offiice365注册应用**
 
-1、应用注册点击“新注册”![](10dcf9f79dce40296fef503065a53e55.jpg)
+1、应用注册点击“新注册”![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/10dcf9f79dce40296fef503065a53e55.jpg)
 
 2、“名称”任意命名点击注册
 
-![](da9abd4241160f7fd49aeef19fbc81af.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/da9abd4241160f7fd49aeef19fbc81af.jpg)
 
 3、注册后可获取“应用程序(客户端)ID”、“目录(租户)ID”复制记录即可
 
-![](4093ea16ad1f53fd74676a94a3e80d23.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4093ea16ad1f53fd74676a94a3e80d23.jpg)
 
 4、点击“客户端凭据”中的“添加证书或机密”
 
-![](26d665a14bbd5cf5d775d0eef58a93a1.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/26d665a14bbd5cf5d775d0eef58a93a1.jpg)
 
 5、点击“新客户端密码”，“说明”任意命名即可【注意此密码截止期限】
 
-![](2864471464fbfa6710dfc9b9952044fc.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2864471464fbfa6710dfc9b9952044fc.jpg)
 
 6、图中“值”请复制，此值即为基本信息中“客户端凭据”
 
-![](c4637607aecdbac736e2bb7859e9bc03.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c4637607aecdbac736e2bb7859e9bc03.jpg)
 
 7、API权限中点击“添加权限”，选择“Microsoft Graph”
 
-![](8f7136da1c1a0dbba395d3ff1615f154.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8f7136da1c1a0dbba395d3ff1615f154.jpg)
 
 8、选择“应用程序权限”
 
-![](a85ae3fadaf50734f7a3f91a1348ac8e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a85ae3fadaf50734f7a3f91a1348ac8e.jpg)
 
 9、搜索到权限项“Calendars.Read、Calendars.ReadWrite”check框选中，点击添加
 
-![](436a51caaaa726365221884c828b4dad.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/436a51caaaa726365221884c828b4dad.jpg)
 
 10、点击“代表\*\*\*\*授予管理员同意”
 
-![](b4ac12dd12d6674afc74e2aa143b387a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b4ac12dd12d6674afc74e2aa143b387a.jpg)
 
-11、状态为绿色对号即为增加权限成功![](ea38408cbede84f748a037996edc26cc.jpg)
+11、状态为绿色对号即为增加权限成功![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ea38408cbede84f748a037996edc26cc.jpg)
 
 **维护**维护配置所选绑定字段值**
 
@@ -57,4 +57,3 @@ Offiice365国内版与国际版均需参照以下步骤获取目录(租户) ID�
 
 入口：个人设置 - 个人资料
 
-![](84018f7c69f6aeb48761009b53ae1256.jpg)

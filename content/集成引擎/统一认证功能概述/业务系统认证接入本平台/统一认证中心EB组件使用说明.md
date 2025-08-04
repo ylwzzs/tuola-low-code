@@ -25,7 +25,7 @@ theme: 集成引擎
 
 2、后台管理中心-低代码平台e-Builder-应用（打开需要展示元素的页面）
 
-![](0dcbb7998f3e21c1e49d8963597335e4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0dcbb7998f3e21c1e49d8963597335e4.jpg)
 
 将组件拖入页面中并进行设置：
 
@@ -49,4 +49,3 @@ theme: 集成引擎
 
 **前端元素展示效果**
 
-![](338a49f6269f16f19fcbbf6bd21f02e7.jpg)

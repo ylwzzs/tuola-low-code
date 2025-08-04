@@ -11,4 +11,4 @@ theme: 表单引擎
 
 导入excel生成表单时，设置字段列时，由默认“不导入”调整为“文本输入框”。
 
-![](c6c2d4daef4f16414d89ce06bd7e4d49.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c6c2d4daef4f16414d89ce06bd7e4d49.jpg)

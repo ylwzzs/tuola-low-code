@@ -13,21 +13,21 @@ theme: 集成引擎
 
 在千里聆前端，“执行器-机器人执行规则-添加执行规则”中添加API触发，“启用密钥”按钮开启会自动生成应用标识appId和应用密钥appSecrect，设置后保存。
 
-![](2349bb3d14e48a98ffaa497eddb2bde5.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2349bb3d14e48a98ffaa497eddb2bde5.jpg)
 
 注意：千里聆中需维护人员账号密码，与E10系统中人员账号密码匹配（账号需确保唯一性）。
 
 **集成登录配置**
 
-![](59e287c2fa6a7df655fe8f84c30b74be.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/59e287c2fa6a7df655fe8f84c30b74be.jpg)
 
 点击套件模板的使用按钮， 进入简易版新建集成登录页面：
 
-![](3803fd59851c31d054a80e3af285a76c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3803fd59851c31d054a80e3af285a76c.jpg)
 
 配置说明：
 
-![](53c6bc8344d67d63ae5c0b03b0682496.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/53c6bc8344d67d63ae5c0b03b0682496.jpg)
 
 其中，
 
@@ -47,4 +47,3 @@ password：客户端密码，根据实际需求填写
 
 新建完成后，若要进行单点登录，则需进入编辑集成登录设置页面，点击共享范围，设置允许单点登录的人员（共享范围默认为空，所有人均无权限）。
 
-![](c23152aba759d4b9662a8d064c9169a7.jpg)

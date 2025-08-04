@@ -1,8 +1,8 @@
 ---
 aliases: ["1975090939608998861"]
 title: AI智能生成连接器接口
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -11,9 +11,9 @@ AI智能生成连接器接口，利用大模型文档、文本解析的能力提
 
 使用前提:开通AI连接器相关功能、并开通**火山引擎**
 
-![](e5cc74044f882c5889c651849b8c834c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e5cc74044f882c5889c651849b8c834c.jpg)
 
-![](e7021722300c41a5e5d236b2540458a9.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e7021722300c41a5e5d236b2540458a9.jpg)
 
 ESB连接器使用示例：
 
@@ -29,21 +29,21 @@ ESB连接器使用示例：
 
 **文本识别导入：**
 
-![](5f35a8c0183ced2951bfaac4052e2e83.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5f35a8c0183ced2951bfaac4052e2e83.jpg)
 
 **文档识别导入：**
 
-**![](49460c152e2aad34c4a0e6a15cf70ef6.jpg)**
+**![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/49460c152e2aad34c4a0e6a15cf70ef6.jpg)**
 
 **cURL识别导入：**
 
-![](969006a1872b41b83023c68afe1912e8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/969006a1872b41b83023c68afe1912e8.jpg)
 
 解析预览：
 
-![](3d6365048d574f45468c821023eab37f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3d6365048d574f45468c821023eab37f.jpg)
 
-![](780427bc7e92c4b154d8b66eb99fac28.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/780427bc7e92c4b154d8b66eb99fac28.jpg)
 
 **使用注意事项**：
 
@@ -51,4 +51,3 @@ ESB连接器使用示例：
 
 2、AI解析属于辅助生成，不能保证绝对的精准，用户需要再预览的地方根据实际情况对比下调整。
 
-3、解析内容不要使用无关接口信息的文本、造成无效解析资源浪费。

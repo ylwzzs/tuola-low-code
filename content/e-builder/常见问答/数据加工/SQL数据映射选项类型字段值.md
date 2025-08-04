@@ -11,7 +11,7 @@ theme: e-builder
 
 通过数据加工配置的sql视图查询的下拉框、人员选择此类选项类型显示的值为一串数字id，并非具体的文本值，如何能够在sql视图中正确的显示选项类型文本值？
 
-![](24fc0cb6a87284068c8451c352150624.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/24fc0cb6a87284068c8451c352150624.jpg)
 
 **解决方式：**
 
@@ -19,4 +19,3 @@ theme: e-builder
 
 第二步：下拉框类型设置选项值映射：进入表单设计器内获取该字段的选项value值和选择值对应关系，手动一一一对应即可。
 
-![](caba4b62dc7d88404996698b7632eb0b.jpg)

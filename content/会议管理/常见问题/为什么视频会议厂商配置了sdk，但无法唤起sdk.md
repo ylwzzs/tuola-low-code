@@ -11,4 +11,4 @@ theme: 会议管理
 
 需要检查下入会人员是否维护邮箱信息，唤起sdk需要根据邮件同步人员数据
 
-![](4d630e9adfb156896063dd552453ba3e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4d630e9adfb156896063dd552453ba3e.jpg)

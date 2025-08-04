@@ -1,8 +1,8 @@
 ---
 aliases: ["1967877325070432043"]
 title: 动作流数据动态赋值时eb组件和选项组件存在字段和字段（名称）两种变量，有什么区别
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -19,4 +19,4 @@ theme: ESB中心
 
 下拉菜单存储的是表单设计器中下拉菜单选项设置时定义的value值，而下拉菜单（名称）存储的是选项值。
 
-![](b9722e5419b78dbe947c5e54a84f42c0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b9722e5419b78dbe947c5e54a84f42c0.jpg)

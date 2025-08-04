@@ -19,4 +19,4 @@ theme: e-builder
 
 具体操作步骤可见下图：
 
-![](beb76a128dcf5f883c279f54135960e9.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/beb76a128dcf5f883c279f54135960e9.jpg)

@@ -15,7 +15,7 @@ theme: e-builder
 
 实现效果如下图：
 
-![](65cd59506629335e24f618353bedc7f8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/65cd59506629335e24f618353bedc7f8.jpg)
 
 **2.思路分析**
 
@@ -27,29 +27,29 @@ theme: e-builder
 
 1）物料分类上级分类需要开启单选
 
-![](feb2d19d2e10460d9b4bb7feb29650b9.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/feb2d19d2e10460d9b4bb7feb29650b9.jpg)
 
 2）物料信息关联物料分类，物料BOM关联物料信息
 
-![](7bbeb0707c4e63db725befd60f53ff57.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7bbeb0707c4e63db725befd60f53ff57.jpg)
 
-3）工艺计划采用了框架组件，将页面划分成了不同的区域，折叠显示信息![](3681142c028db96f0d7ef92fe7a1e5a5.jpg)
+3）工艺计划采用了框架组件，将页面划分成了不同的区域，折叠显示信息![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3681142c028db96f0d7ef92fe7a1e5a5.jpg)
 
 4）利用关联表字段属性，数据过滤设置以及关联表字段选择、函数公式等，实现物料选择唯一，自动带出bom，自动计算实际用量
 
-![](2d37e082a4564d62ea163707cf963b87.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2d37e082a4564d62ea163707cf963b87.jpg)
 
-![](815d2d04aed24961a157766ab833bef1.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/815d2d04aed24961a157766ab833bef1.jpg)
 
-![](d6821534d2507c3783c09a3ad9df8a3e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d6821534d2507c3783c09a3ad9df8a3e.jpg)
 
 2、页面搭建实现左树右列表，一个页面统一管理生产工艺。
 
 1）新建页面，布局样式选择左边栏布局，左侧拖入树组件、列表组件，分别配置相关数据源。
 
-![](568adf57e7ce9e8f54de137edb58ff39.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/568adf57e7ce9e8f54de137edb58ff39.jpg)
 
-2）配置树组件，根节点名称，根节点动作。即点击根节点时，刷新右侧物料列表![](b6f6d6dae27f74cb99bc0b0f52ed2f50.jpg)
+2）配置树组件，根节点名称，根节点动作。即点击根节点时，刷新右侧物料列表![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b6f6d6dae27f74cb99bc0b0f52ed2f50.jpg)
 
 3）配置树节点，展示物料上下级关系，同时，点击树节点，自动刷新右侧物料列表只展示当前分类的物料。
 
@@ -59,14 +59,13 @@ theme: e-builder
 - 上级：上级分类字段（该字段在表单中必须单选）
 - 节点动作：刷新右侧列表组件，过滤条件为：物料分类（物料信息表中物料分类关联字段=原物料表中数据id）
 
-![](f9982e02f1980cc0a8495e46d72728b6.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f9982e02f1980cc0a8495e46d72728b6.jpg)
 
 4）物料列表配置事件动作，点击任一行的时候，刷新生产工艺列表，只展示与自己相关的生产工艺计划
 
-![](5554ead2539a047370ac5fcd2a74ba35.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5554ead2539a047370ac5fcd2a74ba35.jpg)
 
 5）生产工艺列表配置快捷按钮，右上角增加自定义按钮“新增计划”，点击打开新建工艺布局；行上增加自定义按钮“更新工艺”，点击打开编辑工艺布局。
 
-![](f05866ba6f1b2d53b12f9a8d60c634c1.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f05866ba6f1b2d53b12f9a8d60c634c1.jpg)
 
-![](247ce5ee20efb75651608af4a59c814f.jpg)

@@ -15,7 +15,7 @@ theme: 权限管理
 
 注：【e-builder应用】选项需要购买eb，且无“e-builder后台使用权限”才可见
 
-![](983e7d50107cb272aca8390b5209ec5e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/983e7d50107cb272aca8390b5209ec5e.jpg)
 
 图1
 
@@ -23,19 +23,19 @@ theme: 权限管理
 
 组合菜单方式构建应用共有三个步骤，分别为：1选择应用类型→2应用设置→3菜单设置，如图2所示：
 
-![](8d6f9477fcbd739dc1dc0ec090296652.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8d6f9477fcbd739dc1dc0ec090296652.jpg)
 
 图2
 
 其中步骤2【应用设置】同原“构建菜单”功能，用于配置应用的基本信息、所属机构、适用端、及使用范围等信息：这里对字段做些微调，将必要信息移至前面，如图3所示：
 
-![](7ac1afc4565039df97a49e5d85c56995.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7ac1afc4565039df97a49e5d85c56995.jpg)
 
 图3
 
 步骤3【菜单设置】，如图 4所示：
 
-![](f7cb922ea818d3016d8b5ee96d5f1a31.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f7cb922ea818d3016d8b5ee96d5f1a31.jpg)
 
 图4
 
@@ -51,13 +51,13 @@ theme: 权限管理
 
 （3）对于移动端菜单，可配置移动端导航方式，是“菜单导航”还是“底部导航”，如图5所示：
 
-![](717f8ba9af10b8e6aa24ccd700a2d35c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/717f8ba9af10b8e6aa24ccd700a2d35c.jpg)
 
 图5
 
 3、单页面内容：即原来“构建无菜单应用”的模式，可需要定义一个页面内容，打开应用即打开该页面，同样可根据适用端配置菜单链接：
 
-![](587d073476a334b0064b029ff253bd72.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/587d073476a334b0064b029ff253bd72.jpg)
 
 图6
 
@@ -67,17 +67,17 @@ theme: 权限管理
 
 构建e-builder应用为新增功能，如图7所示，共三个步骤：1选择应用类型→2选择e-builder应用→3应用设置：
 
-![](2f0f9fcc773f0e80fc73ed5e4036ed31.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2f0f9fcc773f0e80fc73ed5e4036ed31.jpg)
 
 图7
 
 其中步骤2【选择e-builder应用】，如图8所示，可选当前用户有权限管理的“启用”状态的eb应用，支持搜索，滚动加载；如列表中未找到应用，还可通过【新建应用】按钮，新页签或新窗口打开eb平台，并打开新建应用窗口，如图9所示
 
-![](01a168c6060dc946e301ffb240ad3b03.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/01a168c6060dc946e301ffb240ad3b03.jpg)
 
 图8
 
-![](f4ca3217c8561191f13662ce6aa6a152.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f4ca3217c8561191f13662ce6aa6a152.jpg)
 
 图9
 
@@ -89,7 +89,7 @@ theme: 权限管理
 
 如图10所示，【更多应用】有多个入口构建应用：
 
-![](576a4a34342623ee3f0a122b0d086dc8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/576a4a34342623ee3f0a122b0d086dc8.jpg)
 
 图10
 
@@ -101,7 +101,7 @@ theme: 权限管理
 
 如图 11所示，普通用户可在此页面看到【构建个人应用】菜单；有“构建应用”权限的用户可在此页面看到【构建应用】和【构建个人应用】菜单：
 
-![](97ec6b4647a8d7f58b895233073f6328.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/97ec6b4647a8d7f58b895233073f6328.jpg)
 
 图11
 
@@ -109,11 +109,11 @@ theme: 权限管理
 
 前台【构建应用】菜单，都是有“构建应用”权限的用户才有的，点击后打开构建应用窗口同后台构建应用，均可用“组合菜单”和“e-builder应用”2种方式，如图 12、图13所示，切换2种方式，导航菜单需要对应方式步骤，具体细节可参考后台构建应用，这里不详述：
 
-![](93fb6979a85d1c2508dca74d577de5b2.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/93fb6979a85d1c2508dca74d577de5b2.jpg)
 
 图12
 
-![](8d478360d49b4c554c357d6c795e542a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8d478360d49b4c554c357d6c795e542a.jpg)
 
 图13
 
@@ -121,7 +121,7 @@ theme: 权限管理
 
 构建个人应用只有“组合菜单”方式，如图 14所示，不需要选择应用类型，故只有两个步骤：
 
-![](96514a474efb17179b2aa39adc6dee8d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/96514a474efb17179b2aa39adc6dee8d.jpg)
 
 图14
 
@@ -131,11 +131,11 @@ theme: 权限管理
 
 移动端增加【构建个人应用】功能，如图15所示，只有“组合菜单”一种方式，如图16所示：
 
-![](e863b43d5d0d99ce42d10128e235428a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e863b43d5d0d99ce42d10128e235428a.jpg)
 
 图15
 
-![](e7b5649063ed965aacb3bc1b76fa5bbf.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e7b5649063ed965aacb3bc1b76fa5bbf.jpg)
 
 图16
 
@@ -147,8 +147,7 @@ theme: 权限管理
 
 【菜单设置】，同PC端支持配置“菜单模式”及“移动端导航方式”，菜单模式默认为“菜单列表”，选择“单页面内容”时，如图17所示，可直接设置移动端链接：
 
-![](651f3f2cc46654c025fdad8772736812.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/651f3f2cc46654c025fdad8772736812.jpg)
 
 图17
 
-设置完菜单点击【完成】即可完成构建，完成构建后将自动打开该应用。

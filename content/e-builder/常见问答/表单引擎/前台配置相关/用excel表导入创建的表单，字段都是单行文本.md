@@ -15,8 +15,7 @@ theme: e-builder
 
 在用excel表单导入创建表单时，系统无法自动判断字段类型，默认为单行文本，因此我们需要手动对字段的类型进行调整：
 
-![](4ca50f7c8d88bf2481729f77530199d8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4ca50f7c8d88bf2481729f77530199d8.jpg)
 
 目前支持的字段类型如下图所示，其他字段类型用户可以在导入excel之后，在表单设计器中添加新的字段：
 
-![](26efd35ae0a19b9d35ac9329e24fbefc.jpg)

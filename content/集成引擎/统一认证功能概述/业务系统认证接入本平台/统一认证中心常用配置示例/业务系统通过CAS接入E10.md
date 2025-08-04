@@ -93,7 +93,7 @@ CAS认证过程简述
 
 认证流程图如下：
 
-![](6ce8b59f1455841ccdc71601d43ac54e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6ce8b59f1455841ccdc71601d43ac54e.jpg)
 
 二、认证集成
 
@@ -101,7 +101,7 @@ CAS认证过程简述
 
 统一认证中心-认证应用管理，注册应用系统的CAS认证应用。
 
-![](bddad59c408e80d75eec0ed71f60cb67.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/bddad59c408e80d75eec0ed71f60cb67.jpg)
 
 其中，应用标识对应appid的参数值。
 
@@ -115,7 +115,7 @@ CAS认证过程简述
 
 统一认证中心-认证协议管理-CAS认证，直接开启认证，提供CAS认证接口地址。
 
-![](a97bdd276feca54f2938f0299f5893a3.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a97bdd276feca54f2938f0299f5893a3.jpg)
 
 3、统一认证地址
 
@@ -160,7 +160,7 @@ CAS认证过程简述
 
 会跳转提示页面。可能跳转的提示页面可参考[[业务系统通过OAuth2接入E10|附录1：提示页面信息]]。
 
-![](29bd21bc4d2c45adcc4e1caa779a34ee.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/29bd21bc4d2c45adcc4e1caa779a34ee.jpg)
 
 4、校验ticket，获取用户信息
 
@@ -234,7 +234,7 @@ CAS认证过程简述
 
 维护应用系统与E10系统之间的人员关系。
 
-访问应用系统，调用E10系统授权接口进行登录授权（应用系统自行实现），E10认证登录授权后，携带ticket回调应用系统， 应用系统进行登录。![](bacf6507cc3fce05c6cdcf390de22093.jpg)
+访问应用系统，调用E10系统授权接口进行登录授权（应用系统自行实现），E10认证登录授权后，携带ticket回调应用系统， 应用系统进行登录。![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/bacf6507cc3fce05c6cdcf390de22093.jpg)
 
 **附录1：提示信息页面**
 
@@ -263,4 +263,3 @@ CAS认证过程简述
 | 80021 | 接口请求超时异常，请稍后重新登录 |  |
 | 80022 | 认证登录异常，请稍后重新登录 |  |
 | 80023 | 认证应用未启用，请联系管理员启用应用 | OAuth2认证还是关闭状态 |
-| 80026 | 认证登录异常，请稍后重新登录 | rpc接口异常，需要等待 |

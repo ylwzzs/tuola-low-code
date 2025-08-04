@@ -17,6 +17,5 @@ theme: e-builder
 
 按钮类型可选：文字按钮、图标按钮、文字和图标按钮。配置对应的事件动作，配置链接地址即可
 
-![](d456ffb569d7aacd4693d7981a46c7e8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d456ffb569d7aacd4693d7981a46c7e8.jpg)
 
-![](9c81b321b5ff1462929d804e03a522d3.jpg)

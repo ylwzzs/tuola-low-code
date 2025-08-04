@@ -17,4 +17,4 @@ sql视图查询时如何设置语句查询变量
 
 例如：select id from table [where id = {id}]
 
-![](390de603253f434f67d72fd490c84a6c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/390de603253f434f67d72fd490c84a6c.jpg)

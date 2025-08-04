@@ -19,15 +19,15 @@ theme: 业务表单
 
 （1）新建表单，填写标题和描述，切换至高级版表单编辑器，如下图：
 
-![](56bb640eb1f9622165211f078f7c0266.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/56bb640eb1f9622165211f078f7c0266.jpg)
 
 （2）点击“excel导入布局”，上传本地excel表格，点击“生成布局”，如下图：
 
 （3）调整样式，添加入所需控件，即可完成表单设计；
 
-![](9704779935876e35d5621b847a2cb64b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9704779935876e35d5621b847a2cb64b.jpg)
 
-![](132f5ee96642ab6278dc1cba85e5f038.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/132f5ee96642ab6278dc1cba85e5f038.jpg)
 
 **2. 示例二：“成本核算表”样式导入**
 
@@ -37,6 +37,5 @@ theme: 业务表单
 
 （3）调整样式，添加入所需控件，即可完成表单设计；
 
-![](0ef0852a5b6c76e50bce19bc98c7f697.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0ef0852a5b6c76e50bce19bc98c7f697.jpg)
 
-![](806687adfaf3377912ce16c60cb64906.jpg)

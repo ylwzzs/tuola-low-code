@@ -9,8 +9,7 @@ theme: 工作消息
 
 当遇到一些问题时，可直接右键通过小E问答来获取答案（暂只开放部分租户）
 
-![](af71bc110d78e54d925a0c744c447665.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/af71bc110d78e54d925a0c744c447665.jpg)
 
 会根据问题，自动反馈出相关答案，并推荐相关知识文档等
 
-![](481b225ade692fc757cf4f04c44438d5.jpg)

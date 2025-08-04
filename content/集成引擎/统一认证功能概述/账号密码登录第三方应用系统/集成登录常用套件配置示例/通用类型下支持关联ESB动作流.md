@@ -35,19 +35,19 @@ theme: 集成引擎
 
 新建集成登录，通用套件关联动作流：
 
-![](03cd72abba691ff8830528266cf1d853.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/03cd72abba691ff8830528266cf1d853.jpg)
 
 关联动作流：若已有配置好的动作流，鼠标移动至 + 号按钮可快捷搜索对应动作流，或点击 + 号进入可选动作流列表页面选择对应动作流；若未配置相关动作流，可点击：点击进入动作流 至动作流页面新建动作流；
 
-![](acea5a7b224142901274ec7db017e595.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/acea5a7b224142901274ec7db017e595.jpg)
 
 内/外网地址：默认为文本输入框，选择关联动作流后切换为下拉框，可选择：自定义地址/自定义参数，当选择自定义参数时，需在自定义参数中将对应的动作流输出参数勾选登录内/外网地址；
 
-![](971111cde52421c01aea4503ef238155.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/971111cde52421c01aea4503ef238155.jpg)
 
 动作流输入参数：选择关联动作流后，带出动作流输入参数，对应选中动作流配置的输入参数；
 
-![](ca3b1b6e37eba485cdcef1b2f60c4422.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ca3b1b6e37eba485cdcef1b2f60c4422.jpg)
 
 动作流输出参数：选择关联动作流后，自定义参数值中增加 动作流输出参数 可选项，选择后，点击浏览框可选择对应动作流配置的输出参数；（关联动作流需配置动作流输出参数生效，若关联了动作流但未配置动作流输出参数，则不执行关联动作流操作。）
 
@@ -55,15 +55,15 @@ theme: 集成引擎
 
 1、ESB中心新建连接器
 
-![](85aabc4261208455ab012ec034a798cd.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/85aabc4261208455ab012ec034a798cd.jpg)
 
-![](ead9eceff045898833dbb4159d22fde4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ead9eceff045898833dbb4159d22fde4.jpg)
 
 配置接口信息
 
 1）基础：
 
-![](6c889abafa7bf3dd479549820f3150cd.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6c889abafa7bf3dd479549820f3150cd.jpg)
 
 a）接口地址：/oauth2/get\_logintoken
 
@@ -71,7 +71,7 @@ b）请求方式：POST
 
 2）请求：
 
-![](1592f301973c1901ee777116747fe3e2.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1592f301973c1901ee777116747fe3e2.jpg)
 
 Params参数：
 
@@ -83,9 +83,9 @@ c）account：账号参数
 
 3）响应：
 
-![](f4c4440b7a4f59e6c4a7982e623a573c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f4c4440b7a4f59e6c4a7982e623a573c.jpg)
 
-![](28d0f884facf3faa315600a92c4483b1.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/28d0f884facf3faa315600a92c4483b1.jpg)
 
 a）etLoginToken：E10获取Token接口返回的Token值
 
@@ -95,27 +95,27 @@ c）errmsg：E10获取Token接口返回的errmsg
 
 4）成功失败（根据接口返回的数据设置成功条件【必填】和失败提示）
 
-![](13203be25d23ea7c6b97e6ba7a6fc4f0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/13203be25d23ea7c6b97e6ba7a6fc4f0.jpg)
 
 E10获取Token接口返回的errmsg 等于 success 时说明获取token成功，故此处配置成功条件为：(errmsg 等于 'success')
 
 2、新建动作流，触发类型选择：自定义事件触发-自定义触发
 
-![](2dc419464699aba2831cec3e24303f84.jpg)自定义触发输入参数设置：
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2dc419464699aba2831cec3e24303f84.jpg)自定义触发输入参数设置：
 
-![](4a633263f38ce0a01460fb274ecd8d75.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4a633263f38ce0a01460fb274ecd8d75.jpg)
 
 选择配置的连接器，配置输入请求参数动态赋值：
 
-![](ebfded10aa204c634001d5bcfa60ae06.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ebfded10aa204c634001d5bcfa60ae06.jpg)
 
 配置输出参数，参数值选择动态赋值，对应获取token接口获取到的etLoginToken 值
 
-![](e7b24bbe2b65c39dc541d5675038b72c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e7b24bbe2b65c39dc541d5675038b72c.jpg)
 
 3、新建集成登录关联动作流
 
-![](e20641902e5be92acc2b7fefa0f44435.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e20641902e5be92acc2b7fefa0f44435.jpg)
 
 1）动作流输入参数：
 
@@ -137,8 +137,7 @@ oauthType：固定值：singlesign
 
 测试预览，可以看到已经获取到了token，拼接了单点登录地址
 
-![](631d2127814198ad6d148cb3b07c2dbb.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/631d2127814198ad6d148cb3b07c2dbb.jpg)
 
 门户元素单点，或点击测试、访问预览获取到的单点登录地址，可单点至对应e10
 
-![](541c9761d32c838a7c42186f4e904ab7.jpg)

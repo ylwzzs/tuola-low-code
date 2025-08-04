@@ -15,4 +15,4 @@ theme: e-builder
 
 在eb表单中，我们支持设置多个表单布局，每个表单布局内的表单样式、字段读写属性等都可以个性化设置。设置完成后，在表单的创建权限、共享权限中对于不同的人设置不同的表单布局即可：
 
-![](d3165abf3c9a96b8a9f31841c2d3e395.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d3165abf3c9a96b8a9f31841c2d3e395.jpg)

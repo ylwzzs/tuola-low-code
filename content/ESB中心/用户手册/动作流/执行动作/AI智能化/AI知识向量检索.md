@@ -1,8 +1,8 @@
 ---
 aliases: ["1974054170770390521"]
 title: AI知识向量检索
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---

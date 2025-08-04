@@ -11,11 +11,11 @@ theme: e-builder
 
 报表写了条件格式，用的“文本包含”，预览时候条件格式正常，导出excel不生效了
 
-![](fa2a77e29baa15775747fad161d3e831.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fa2a77e29baa15775747fad161d3e831.jpg)
 
-![](fe8b9b6907d0f79b7f38ebc439201837.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fe8b9b6907d0f79b7f38ebc439201837.jpg)
 
-![](5011c582e5b42d855ca4340d3e79cf08.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5011c582e5b42d855ca4340d3e79cf08.jpg)
 
 **解决方式：**
 
@@ -23,4 +23,3 @@ theme: e-builder
 
 如果报表无分页，可能是受撰写的代码块影响，提流程给开发写代码解决；
 
-如果报表分页了，建议避免用文本的条件格式 ，或者导出excel后在excel中重新设置下颜色显示。

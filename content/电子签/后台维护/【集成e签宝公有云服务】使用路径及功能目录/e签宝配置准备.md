@@ -15,34 +15,33 @@ theme: 电子签
 
 <https://open.esign.cn/sandbox>
 
-![](1fdfc1562cf753a2fc9c78271098c230.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1fdfc1562cf753a2fc9c78271098c230.jpg)
 
 2.进入沙箱服务
 
-![](9249b06997c92c58b3511cb2c6b261ea.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9249b06997c92c58b3511cb2c6b261ea.jpg)
 
 3.新建第三方平台应用
 
-![](9d13867204680766be9057739e9e7f11.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9d13867204680766be9057739e9e7f11.jpg)
 
 4.获取应用id和应用secret
 
-![](57d3c974161c25a835de59fee422b9e7.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/57d3c974161c25a835de59fee422b9e7.jpg)
 
-![](4e06523559dc24867a8f466e206b5467.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4e06523559dc24867a8f466e206b5467.jpg)
 
 注：应用id和应用secret将用于在电子签中、绑定e签宝服务时粘贴填写。
 
 5.配置OA地址
 
-![](05481c7c3da02ffb1b9f9b535868f444.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/05481c7c3da02ffb1b9f9b535868f444.jpg)
 
 需将“OA地址”进行替换
 
 6.设置订阅事件
 
-![](602826b83e427400b9a6f1982f30dfdc.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/602826b83e427400b9a6f1982f30dfdc.jpg)
 
 勾选V3版签署服务的所有选项
 
-![](70d7ed939d5e07bdbb9204c04c50680c.jpg)

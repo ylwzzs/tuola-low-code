@@ -11,4 +11,4 @@ theme: e-builder
 
 其中需要注意布局显示的优先级：权限关联的布局优先级高于自定义默认布局高于系统默认布局）（标签显示会根据上述默认布局的优先级进行展示）
 
-![](f767ab7881109d9427d7b2e9693b3540.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f767ab7881109d9427d7b2e9693b3540.jpg)

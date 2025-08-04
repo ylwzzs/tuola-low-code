@@ -1,8 +1,8 @@
 ---
 aliases: ["1963239197777648571"]
 title: SAP凭证列表
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -15,7 +15,7 @@ theme: ESB中心
 
 2、合并后，下载的文件为合并后的文件。
 
-![](a449e7ae8af1147bf85386e77b7f0132.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a449e7ae8af1147bf85386e77b7f0132.jpg)
 
 1、SAP流程应用名：选择流程，显示相应流程下的SAP凭证；
 
@@ -39,4 +39,3 @@ theme: ESB中心
 
 5、合并之后，点击其中任意一行“生成凭证”，即可上传SAP财务凭证，且多行数据都会变为“已上传”/“上传失败”，并且每行都产生操作记录。
 
-![](04811efa06b5dbdec24d64fe678f7c89.jpg)

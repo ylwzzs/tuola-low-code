@@ -17,19 +17,19 @@ theme: 业务表单
 
 注：转为PDF打印仅支持新表单的网页高级模板
 
-![](bbbda0d2592df36bb5f00daa0c742c4b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/bbbda0d2592df36bb5f00daa0c742c4b.jpg)
 
 2、设置模板
 
 注:与之前设置网页高级模板步骤一致
 
-![](8bcaf5d18e8548661a482a9893b294ae.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8bcaf5d18e8548661a482a9893b294ae.jpg)
 
 3、打印数据
 
 注：打印页面是pdf页面
 
-![](e1a2a07dfe72b1f0605463ba4a5cbc8f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e1a2a07dfe72b1f0605463ba4a5cbc8f.jpg)
 
 二、附件拼接
 
@@ -37,16 +37,15 @@ theme: 业务表单
 
 支持新表单网页高级高级模板，新表、老表的excel、word模板
 
-![](91dd74222803d8bbf563e34124b56683.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/91dd74222803d8bbf563e34124b56683.jpg)
 
-![](b8cc088c3b1b58bd8dfa6d027b714610.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b8cc088c3b1b58bd8dfa6d027b714610.jpg)
 
 2、打印效果页面
 
 网页高级模板：
 
-![](2b3003d26cb7df4502b1821b17163f15.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2b3003d26cb7df4502b1821b17163f15.jpg)
 
 excel模板：
 
-![](5c6b57fc30ffae8b53abefb2991e3d0a.jpg)

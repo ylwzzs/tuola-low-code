@@ -1,8 +1,8 @@
 ---
 aliases: ["1966521821165317420"]
 title: RabbitMQ监听触发
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -11,7 +11,7 @@ theme: ESB中心
 
 一、**新建连接信息**：在连接器页面建立rabbitmq相关的连接器，配置对应的连接信息
 
-![](297d5a1fe537140245563b48d1ee154f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/297d5a1fe537140245563b48d1ee154f.jpg)
 
 **连接信息参数：**
 
@@ -33,7 +33,7 @@ IP地址：RabbitMQ的服务器地址
 
 二、**新建RabbitMQ消费方**：在已新建连接信息的连接器中创建RabbitMQ消费者
 
-![](40e40ca2200998f51623fd39efbdd946.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/40e40ca2200998f51623fd39efbdd946.jpg)
 
 **1、基础信息配置**
 
@@ -49,21 +49,21 @@ ExChange配置
 
 是否持久化：配置Exchange持久化 则在Exchange tab列表中会有对应的D标识,作用和队列持久化意思相同，表示交换机在重启后还会存在
 
-![](ba2cd7dcc2e064c87cdaa8a309b55dad.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ba2cd7dcc2e064c87cdaa8a309b55dad.jpg)
 
 是否自动删除：配置Exchange持久化 则在Exchange tab列表中会有对应的AD标识,表示断开连接会自动删除
 
-![](b9c3dbf439b4f3507b0021f4e360b193.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b9c3dbf439b4f3507b0021f4e360b193.jpg)
 
 队列配置
 
 是否持久化：如果队列配置了持久化在队列tab页列表里 Features 栏中 会有个 D 标识即持久化（durable）首字母，该字段作用是在rabbitmq重启之后队列还会存在
 
-![](d218433f81fec2fa02ca274e6453931c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d218433f81fec2fa02ca274e6453931c.jpg)
 
 是否自动删除：在Features栏会有个AD标识代表自动删除（auto-delete），该字段作用是连接关闭时候自动删除队列
 
-![](c1a91838c1d82570465ef7794740b438.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c1a91838c1d82570465ef7794740b438.jpg)
 
 注意：如果队列为设置自动删除  再添加同样队列名的队列 必须和原先配置（持久化，自动删除，独占）相同，否则会报错
 
@@ -71,4 +71,3 @@ ExChange配置
 
 是否独占队列：在Features栏会有个Excl标识代表独占队列（exclusive），该配置作用是该队列只能有一个消费者，如果再启动相同队列的消费者 则会报错
 
-![](979dd54f1ea458dbd9973168b7f27c30.jpg)

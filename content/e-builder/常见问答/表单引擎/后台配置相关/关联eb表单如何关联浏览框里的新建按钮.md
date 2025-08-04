@@ -11,10 +11,9 @@ theme: e-builder
 
 关联eb表单字段配置后，选择数据时新建数据的按钮图标如何去掉
 
-![](18b601a58d9dae6a70f71f11daa938ac.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/18b601a58d9dae6a70f71f11daa938ac.jpg)
 
 **解决方式：**
 
 关联eb表单字段的新建图标按钮是根据源表的新建权限获取的。需要在源表的创建权限中去掉对应人员的创建权限即可实现关闭字段新建按钮
 
-![](11c54607985c52033151df29c62d4f08.jpg)

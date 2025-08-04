@@ -15,4 +15,4 @@ theme: e-builder
 
 使用字段选择组件，对字段进行移除、重命名调整
 
-![](d422cc6921d42de0b34aa879e5d91cec.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d422cc6921d42de0b34aa879e5d91cec.jpg)

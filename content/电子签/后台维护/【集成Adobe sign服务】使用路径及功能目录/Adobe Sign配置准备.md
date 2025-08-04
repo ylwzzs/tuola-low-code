@@ -15,21 +15,21 @@ theme: 电子签
 
 <https://secure.adobesign.com/>
 
-![](d2776fa4c23d316a7518453850483296.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d2776fa4c23d316a7518453850483296.jpg)
 
-![](f266d6165b17bb353e8dcdea46a50b49.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f266d6165b17bb353e8dcdea46a50b49.jpg)
 
 定位建议选择美国
 
-![](e74f00bc80aed74e696f7085a1168e22.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e74f00bc80aed74e696f7085a1168e22.jpg)
 
-![](1d00c5fcb29a583d48a71645b46f5b3f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1d00c5fcb29a583d48a71645b46f5b3f.jpg)
 
 2.获取Integration Key
 
-![](00e98e2f00a78ae1a8abae70c8a53346.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/00e98e2f00a78ae1a8abae70c8a53346.jpg)
 
-![](0131485bfc6a95a3d21566f8651ac23d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0131485bfc6a95a3d21566f8651ac23d.jpg)
 
 1）自定义命名
 
@@ -37,19 +37,19 @@ theme: 电子签
 
 3）点击保存
 
-![](191348ae0413c8b300a8716371e24c15.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/191348ae0413c8b300a8716371e24c15.jpg)
 
 4）保存成功后，点击刚刚创建的应用
 
-![](84538b086fbfd93220901d1b795e3ff8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/84538b086fbfd93220901d1b795e3ff8.jpg)
 
 5）点击左上角【Intergration Key】按钮
 
-![](ab8ebc5b969193a7be596041b487e415.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ab8ebc5b969193a7be596041b487e415.jpg)
 
 6）复制弹窗中的 Intergration Key
 
-![](45777ba8a4f4d8beef028e2a5209a828.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/45777ba8a4f4d8beef028e2a5209a828.jpg)
 
 3.在E10电子签中新建、并完成服务绑定后，再次进入Adobe Sign配置回调地址
 
@@ -61,4 +61,3 @@ theme: 电子签
 
 填写后保存即可。
 
-![](6159131119e2fe54da7c19f93ed45de6.jpg)

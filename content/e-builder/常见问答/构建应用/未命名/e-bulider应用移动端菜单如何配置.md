@@ -11,7 +11,7 @@ theme: e-builder
 
 eb应用创建完成之后移动端菜单该如何配置
 
-![](b194f5a6c7251ec7777af50356ffd283.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b194f5a6c7251ec7777af50356ffd283.jpg)
 
 **解决方式：**
 
@@ -21,4 +21,3 @@ eb应用创建完成之后移动端菜单该如何配置
 
 2、手动新建菜单设置菜单连接地址进行配置
 
-![](7e9cce6a1e47de1f0c841161c74cb3cf.jpg)

@@ -15,16 +15,15 @@ theme: 门户引擎
 
 1：点击log,进入后台管理中心
 
-**![](38743ae595b2f51b72e637e76818796a.jpg)**
+**![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/38743ae595b2f51b72e637e76818796a.jpg)**
 
 2：后台管理中心所有服务—全局基础—界面配置中心—企业log设置
 
-![](667e1622293808394062fdbcdf168da4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/667e1622293808394062fdbcdf168da4.jpg)
 
 3：找到对应设置，上传图片即可（需要注意必须上传16\*16像素的jpg、png格式的图片），支持恢复默认图片
 
-![](ab352e799294f3abcae02d4ee9218f66.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ab352e799294f3abcae02d4ee9218f66.jpg)
 
 效果展示
 
-![](0b44aca9b78a87ea68def8a690c3b206.jpg)

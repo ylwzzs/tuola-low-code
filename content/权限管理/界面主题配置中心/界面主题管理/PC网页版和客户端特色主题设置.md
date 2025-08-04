@@ -13,15 +13,15 @@ theme: 权限管理
 
 **功能入口（网页版）:**
 
-![](148628b25e98c1c61f241bd998c72a0e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/148628b25e98c1c61f241bd998c72a0e.jpg)
 
 **功能入口（客户端）:**
 
-![](c92511309b07c683a4ae5e24d9de1891.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c92511309b07c683a4ae5e24d9de1891.jpg)
 
 **1、使用页面设计器搭建特色主题**
 
-![](4d99129581d8d21d6793103eafa2a991.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4d99129581d8d21d6793103eafa2a991.jpg)
 
 1、开发方式选择页面设计器
 
@@ -31,7 +31,7 @@ theme: 权限管理
 
 4、点击保存并进入样式设置后进入页面设计器页面进行主题设计
 
-![](fe643bb790d0c8fd136c410e7bc5c994.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fe643bb790d0c8fd136c410e7bc5c994.jpg)
 
 5、使用页面设计器搭建主题的要义是：
 
@@ -41,18 +41,17 @@ theme: 权限管理
 
 6、特色主题还支持绑定eb组件样式，当内页是使用页面设计器搭建时，内页中的所有组件样式也会随着主题的变化而变化，如下图所以，此主题下绑定了组件的外观样式，列表组件绑定了蓝色悬浮及文字颜色跟随主题色样式，切换至此主题时，内页样式也会发生变化
 
-![](e8f579833f494a537242ba30f8a7e5fa.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e8f579833f494a537242ba30f8a7e5fa.jpg)
 
-![](da779ced9fbc912b8da2c84b4a8c1fc7.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/da779ced9fbc912b8da2c84b4a8c1fc7.jpg)
 
-![](c7e797b204cf43d418801fb957c9281f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c7e797b204cf43d418801fb957c9281f.jpg)
 
 **2、使用ecode搭建特色主题**
 
-![](60bb87dad577b710e47fb0c5ef239a01.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/60bb87dad577b710e47fb0c5ef239a01.jpg)
 
 1、开发方式选择ecode
 
 2、可以选择已有的ecode项目，也可以新建一个ecode
 
-![](63cd70f1ee5047e98a139b314b04e114.jpg)

@@ -15,10 +15,9 @@ theme: e-builder
 
 进入应用后台管理-流程，点击右上角打开流程设置，需先配置监控类型，在配置监控设置。配置完成之后前台的监控设置即可展示以监控的流程表单数据。
 
-![](cdca45976da9942e40e38cb376ed1fa6.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/cdca45976da9942e40e38cb376ed1fa6.jpg)
 
-![](044e04362b8ac57b74b5bed374c6feb3.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/044e04362b8ac57b74b5bed374c6feb3.jpg)
 
 效果图
 
-![](380fa0bb10d80ee978e1fc6feaa8b3cd.jpg)

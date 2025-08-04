@@ -1,8 +1,8 @@
 ---
 aliases: ["1972120486233337137"]
 title: 新建EB数据时，需要根据某个字段判断该值若存在则不新建且给予拦截提示，若不存在则新建保存数据成功
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -23,10 +23,9 @@ EB搭建的表单，新建的时候通过某个字段去验证该数据是否已
 
 页面交互：在分支判断大于0的下面添加页面交互组件，开启阻止，在提醒内容中配置提示信息即可
 
-![](9d033a0df60442ea9cc2104a22b81f74.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9d033a0df60442ea9cc2104a22b81f74.jpg)
 
-![](de512560ed582f937047b09c355eeb27.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/de512560ed582f937047b09c355eeb27.jpg)
 
 **实现效果：**
 
-![](39cd486fcd3fee291646cd95b91a20c7.jpg)

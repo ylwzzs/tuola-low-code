@@ -1,8 +1,8 @@
 ---
 aliases: ["1974036162033494680"]
 title: LDAP反向同步
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -11,13 +11,13 @@ theme: ESB中心
 
 1.新建esb动作流-触发事件设置
 
-![](982c458ba634b66c0800df6f9fd77ebf.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/982c458ba634b66c0800df6f9fd77ebf.jpg)
 
 2.ldap反向同步配置
 
-![](637ce78a069b0b532dcab26678cab4df.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/637ce78a069b0b532dcab26678cab4df.jpg)
 
-![](30f4104e32fab6c05a726bece9963b3b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/30f4104e32fab6c05a726bece9963b3b.jpg)
 
 参数说明：
 
@@ -33,4 +33,3 @@ theme: ESB中心
 | 字段映射 | 与数据来源联动展示，非OA数据源展示，字段映射可配置字段与所选LDAP集成字段映射中的字段联动，若需要额外增加字段，请现在多选LDAP集成配置字段映射中添加后，再配置动作流执行组件字段映射 |
 | 同步域 | 与数据来源联动展示，非OA数据源展示，将数据同步至AD中的那个位置下 |
 
-注意：传递的组织id得是已经同步过的组织信息，比如全量同步OA组织的话需要先后台同步一遍组织后，再通过esb实时新增或者更新下级组织

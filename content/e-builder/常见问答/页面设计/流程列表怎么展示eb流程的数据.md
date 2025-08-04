@@ -11,10 +11,9 @@ theme: e-builder
 
 如下图所示，页面中放入流程列表组件，展示的只有工作流程的流程信息，如何展示其他模块的流程信息呢？
 
-![](a341eea718a7ba08c0b46dc691d79e5e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a341eea718a7ba08c0b46dc691d79e5e.jpg)
 
 **解决方式：**
 
 如下图所示，点击选择工作流，即可选择到需要的流程类型，包含eb流程、公文流程等：
 
-![](99582ac928e9e848c2872861e1116082.jpg)

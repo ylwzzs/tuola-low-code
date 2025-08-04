@@ -1,23 +1,23 @@
 ---
 aliases: ["1965312263868033376"]
 title: 发送IM消息
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
 
 1、【发送IM消息】组件可以实现给系统人员发送IM消息，如可通过简单定时器触发组件，每天早上8点30发送IM消息给用户提醒签到。
 
-![](658fda661c539d8e4d31771b7d6edfa3.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/658fda661c539d8e4d31771b7d6edfa3.jpg)
 
 2、在动作流设计器中，选择简单定时器触发组件以及发送IM消息的执行动作组件进行配置，配置如下：
 
-![](a82bd2eef132f9984813d24f85716228.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a82bd2eef132f9984813d24f85716228.jpg)
 
 3、动作流配置完成后，当触发事件执行时，会给对应的用户发送IM消息
 
-![](6fa803ebb2b73847c1ff31e4fd105ccb.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6fa803ebb2b73847c1ff31e4fd105ccb.jpg)
 
 4、发送IM消息组件介绍：
 
@@ -31,7 +31,7 @@ theme: ESB中心
 
 消息内容：给群组发送的文本消息内容
 
-![](7f189375bf91bb61ef8569611ecae9ce.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7f189375bf91bb61ef8569611ecae9ce.jpg)
 
 **卡片消息字段**
 
@@ -47,8 +47,7 @@ PC端链接：PC端打开消息卡片时跳转的地址，标准事项无需指�
 
 移动端链接：移动端打开消息卡片时跳转的地址，标准事项无需指定
 
-![](ae0c35fbcdc70344e99cf9941ae53607.jpg)![](95834bbef4051ddd2a29cdf40208ad1a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/95834bbef4051ddd2a29cdf40208ad1a.jpg)
 
 发送效果如下：
 
-![](92df2babe9a2e36325e6dfd681f03778.jpg)

@@ -1,8 +1,8 @@
 ---
 aliases: ["1965310270006533359"]
 title: ESB中心动作流总体路径指导
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -13,7 +13,7 @@ theme: ESB中心
 
 **2、动作流权限控制**
 
-**![](83783799a4d6487b7649e983ca4d3b76.jpg)**
+**![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/83783799a4d6487b7649e983ca4d3b76.jpg)**
 
 1、动作流功能受到系统权限项的控制
 
@@ -23,7 +23,7 @@ theme: ESB中心
 
 新建动作流：有新建动作流的权限
 
-![](52723dfe4a1935111da758ca75ad35a3.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/52723dfe4a1935111da758ca75ad35a3.jpg)
 
 2、单个动作流可设置查看权限和维护权限
 
@@ -39,20 +39,19 @@ b、选择触发事件
 
 c、选择执行动作
 
-![](6f01f297a7e33f6914b25e9e93183d87.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6f01f297a7e33f6914b25e9e93183d87.jpg)
 
-![](6eca1e66aff6e9a91ce3716d9186acef.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6eca1e66aff6e9a91ce3716d9186acef.jpg)
 
-![](9810fc2a8b91bb961b7060fccd2dbb6e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9810fc2a8b91bb961b7060fccd2dbb6e.jpg)
 
 **4、如何查看动作流执行的结果**
 
 当一个动作流配置完后，即可操作触发事件的执行，当触发事件开始执行时，这个动作路中的执行动作就会在触发事件的作用下执行，当整个动作流的所有组件执行完后，需要判断哪个组件是否执行成功以及失败原因时，可在动作流菜单页面中的实例进行查看
 
-![](fe1f4cb2088fa8ea10b017bc654b665a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fe1f4cb2088fa8ea10b017bc654b665a.jpg)
 
-![](7b099d8318f210721ceb1b74d4336b58.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7b099d8318f210721ceb1b74d4336b58.jpg)
 
-![](92cf3cd712ae7e6e1e144ad428f98a68.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/92cf3cd712ae7e6e1e144ad428f98a68.jpg)
 
-![](c9cd61f84ea0d85bc636e71918a04737.jpg)

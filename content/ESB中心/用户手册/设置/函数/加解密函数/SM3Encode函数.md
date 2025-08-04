@@ -1,8 +1,8 @@
 ---
 aliases: ["1975254935255647108"]
 title: SM3Encode函数
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -25,8 +25,12 @@ context 必需 加密文本
 
 outputFormat 必需 输出方式（Base64、Hex）
 
-示例：context：apple
+示例：
 
-originalformat : Hex
+context：apple
+
+outputFormat: Hex
+
+SM3Encode(apple,Hex)
 
 加密后内容：8f185300d28f4a6cbe212cfc2370d7f2a5c994e837ce67e3a6d1b63217fab5ed

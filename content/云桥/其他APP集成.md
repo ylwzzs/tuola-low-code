@@ -27,7 +27,7 @@ theme: 云桥
 
 集成其他APP需要配置外网域名地址，在【云桥】-【基础参数设置】配置当前系统的外网域名地址，配置好之后点击保存，位置如下图所示：
 
-![](424547910eba23b5d55eeceea2decec8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/424547910eba23b5d55eeceea2decec8.jpg)
 
 ## 2.云桥集成第三方APP
 
@@ -35,29 +35,29 @@ theme: 云桥
 
 在泛微云桥中配置一个第三方APP，如下图所示：
 
-![](95a2be40f33371d83206cf48f6915c1e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/95a2be40f33371d83206cf48f6915c1e.jpg)
 
 点击添加按钮，出现如下界面：
 
-![](66b5dd3a457a817e329e315042a1f2d8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/66b5dd3a457a817e329e315042a1f2d8.jpg)
 
 添加完成后，可以点击基础信息设置查看企业详情信息，如下图所示：
 
-![](ad61d71f069fde1c1f5d6897fd548816.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ad61d71f069fde1c1f5d6897fd548816.jpg)
 
-![](2eef40343ea175c4d4551897849800e4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2eef40343ea175c4d4551897849800e4.jpg)
 
 然后需要将第三方应用集成到云桥，就可以在第三方APP中，通过集成的应用使用oa系统的功能，首先在应用集成点击添加应用，在应用详情中填写应用名称、备注等，如下图所示：
 
-![](e9c0177c18e6010e41194a97ae655cb4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e9c0177c18e6010e41194a97ae655cb4.jpg)
 
 应用主页 是设置第三方APP应用的主页功能，调用模块默认为打开应用，选择应用中心已经存在的主页型应用，如下图所示：
 
-![](8f9813afab0d616091ab30aad4cbc3fb.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8f9813afab0d616091ab30aad4cbc3fb.jpg)
 
 也支持自定义链接地址，如下图所示：
 
-![](355cded7df7727f9dd403808cf2409f0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/355cded7df7727f9dd403808cf2409f0.jpg)
 
 将上一步生成的应用主页地址复制出来配置到您的APP应用打开地址中（具体如何配置要看APP本身）
 
@@ -65,7 +65,7 @@ theme: 云桥
 
 根据具体第三方APP用于获取当前访问云桥用户信息的接口，进行配置用户信息接口地址、接口参数信息等，如下图所示：
 
-![](440372a99895dd86b8d192c11b78d061.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/440372a99895dd86b8d192c11b78d061.jpg)
 
 **用户信息接口地址**：用户在APP中访问云桥的地址后，云桥会请求该地址获取用户信息，云桥会根据接口参数信息中配置的参数进行传递
 
@@ -115,9 +115,9 @@ theme: 云桥
 
 用户在第三方APP访问云桥应用后，会在云桥通讯录管理里插入一条单点数据，记录用户信息，位置如下图所示：
 
-![](a9a02f601b23892ab8f162c5440bca99.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a9a02f601b23892ab8f162c5440bca99.jpg)
 
-![](219337c650b18bf02e036fa73496eaa6.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/219337c650b18bf02e036fa73496eaa6.jpg)
 
 此时人员显示的关联关系是未关联状态，使用oa系统功能需要绑定oa账号，绑定oa账号成功后，会进入oa系统并打开应用详情的应用主页选择的调用模块。
 
@@ -125,35 +125,35 @@ theme: 云桥
 
 点击第三方APP应用，显示需要绑定，如下图所示：
 
-![](8091b1e88fef9062d18d57fa3b80e09f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8091b1e88fef9062d18d57fa3b80e09f.jpg)
 
 2. 点击人员卡片绑定/解绑
 
-![](53e0856912b6a6e28fe6a88cd378ecd5.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/53e0856912b6a6e28fe6a88cd378ecd5.jpg)
 
-![](faa1a07d530a5955d7eedcacae5e027e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/faa1a07d530a5955d7eedcacae5e027e.jpg)
 
 3. 关联导入
 
-![](c1b8d4852063a90c4860af78e392bc5f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c1b8d4852063a90c4860af78e392bc5f.jpg)
 
 将云桥本地的数据导出，并且将需要绑定的OA用户的对应字段写入到文档关联字段那一列，上传文档，点击导入按钮，即可将关联关系写入。
 
 例如：云桥用户A要绑定OA用户的A1，选择的关联字段是【手机号】，在导出的A这一栏的关联字段中，填写A1的手机号，保存后将文件再导入，并且关联字段选择【手机号】，然后点击导入按钮即可。
 
-![](a34ff5966866ab77d5600e1885073dcd.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a34ff5966866ab77d5600e1885073dcd.jpg)
 
-![](75e1cb234f59fd223206d70c4537f32d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/75e1cb234f59fd223206d70c4537f32d.jpg)
 
-![](0847b31604d4da8527ddc4ed2214d034.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0847b31604d4da8527ddc4ed2214d034.jpg)
 
-![](5c2c12fb10b65382f1dac2694a955f56.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5c2c12fb10b65382f1dac2694a955f56.jpg)
 
 ### 2.3 **消息推送**
 
 消息管理功能主要是将OA应用消息推送到第三方APP中，即实现在第三方APP中接收并处理业务系统的消息。消息正常推送的前提是，云桥用户要关联OA系统用户账号。需要在企业集成维度下，基础信息设置——消息推送，配置消息推送接口地址用于云桥推送消息给第三方APP，以及接口参数信息等配置，如下图所示：
 
-![](dab5e0e50e1f3e6cbf60afd386753bb0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/dab5e0e50e1f3e6cbf60afd386753bb0.jpg)
 
 **消息推送接口地址**：云桥会请求该地址传递消息推送相关参数
 
@@ -197,26 +197,25 @@ theme: 云桥
 
 ① 在【云桥】-【消息推送设置】-【消息推送规则】 页面，点击新建，如下图所示：
 
-![](a9c40ea0a4c9b52b633c86f40db232a5.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a9c40ea0a4c9b52b633c86f40db232a5.jpg)
 
 ② 例如将 日报 的消息推送到第三方APP：填写好规则名称，消息来源选择日报，如下图所示：
 
-![](020d1c28adc17f8229f1335844bfee02.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/020d1c28adc17f8229f1335844bfee02.jpg)
 
 在规则详情页面，点击【新建】，设置推送目标，第三方企业类型选择【第三方APP】，企业和应用根据实际需要，选择对应的企业团队和应用，如下图所示：
 
-![](e10b020941963ba6e71b2f2a57804c5f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e10b020941963ba6e71b2f2a57804c5f.jpg)
 
 注意：推送目标新建之后，要点击【保存】，如下图所示：
 
-![](d0bcaaaff8d16a17a4a2f4525f766a5e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d0bcaaaff8d16a17a4a2f4525f766a5e.jpg)
 
 消息推送规则新建之后，可以点击【编辑】按钮，对规则详情进行编辑，如下图所示：
 
-![](6532a93c19e030fe53c9d4aeb69e3f04.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6532a93c19e030fe53c9d4aeb69e3f04.jpg)
 
 ③ 将 日报 的消息推送到第三方APP：除了第二点中所述将消息来源选择日报之外，还可以将消息来源选择为全部，如下图所示：
 
-![](8aebe6db814ed81e86f34a17c7db0bc5.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8aebe6db814ed81e86f34a17c7db0bc5.jpg)
 
-注意：若消息来源选择全部，OA其他应用的消息（例如审批，出勤等）也会通过这条消息推送规则推送到第三方APP。

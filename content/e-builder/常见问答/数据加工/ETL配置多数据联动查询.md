@@ -15,4 +15,4 @@ theme: e-builder
 
 使用ETL自带的链接组件选择需要设置连接的两个步骤，设置连接类型及连接字段设置，进行数据关联设置
 
-![](60f50cc42de6b6600295a0b50520a560.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/60f50cc42de6b6600295a0b50520a560.jpg)

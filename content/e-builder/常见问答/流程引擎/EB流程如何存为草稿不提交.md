@@ -15,4 +15,4 @@ EB流程提交的时候如何存为草稿，不提交流程向下流转
 
 点击“暂存”将数据存为草稿即可，可重复编辑。
 
-![](d021af16a8ff2966177df346908cee88.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d021af16a8ff2966177df346908cee88.jpg)

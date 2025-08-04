@@ -11,4 +11,4 @@ theme: 表单引擎
 
 设计器增加悬浮栏操作，点击“样式”可快速定位到布局样式设置。
 
-![](f38ec4c061de65e162f255ae5bb6310d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f38ec4c061de65e162f255ae5bb6310d.jpg)

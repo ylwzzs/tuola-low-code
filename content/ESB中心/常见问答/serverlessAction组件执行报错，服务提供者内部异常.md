@@ -1,8 +1,8 @@
 ---
 aliases: ["1970260350561257569"]
 title: serverless/Action组件执行报错，服务提供者内部异常
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -11,7 +11,7 @@ theme: ESB中心
 
 serverless/Action组件执行报错，服务提供者内部异常
 
-![](8d1987ff5bbfff87acc6582f2dd784ea.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8d1987ff5bbfff87acc6582f2dd784ea.jpg)
 
 **问题解答：**
 
@@ -21,12 +21,11 @@ serverless/Action组件执行报错，服务提供者内部异常
 
 2、查看服务详情，查询二开接口所在的服务地址
 
-![](00d10df0ca75718406cfb16b629775bf.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/00d10df0ca75718406cfb16b629775bf.jpg)
 
 如标红所示为二开接口所在的服务器IP地址
 
-![](b2cf3935b5d0132c711455b9b0cf834c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b2cf3935b5d0132c711455b9b0cf834c.jpg)
 
 3、根据IP地址和动作流的触发时间，去运维平台下载对应的服务器日志，基于服务器日志排查具体异常原因。
 
-![](e98425fca1e62d3286c1fcf61972992d.jpg)

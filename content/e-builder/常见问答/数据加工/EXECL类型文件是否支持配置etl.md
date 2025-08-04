@@ -39,4 +39,4 @@ ETL是否支持调用execl格式文件作为数据源输入
 
 预览当前节点输出的数据。选择了第一行作为字段名称，总共有3列：
 
-![](072691da84d6ffdfff606d17eb613117.jpg)![](244975685f06eb0cc9d2515b01744350.jpg)
+![](072691da84d6ffdfff606d17eb613117.jpg)![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/244975685f06eb0cc9d2515b01744350.jpg)

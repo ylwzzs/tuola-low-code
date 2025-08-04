@@ -13,7 +13,7 @@ theme: 权限管理
 
 “PC网页版导航”用于配置PC网页版导航菜单，如图1所示：
 
-![](fbc45a06015cc0fb00a654ffd1c85be8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fbc45a06015cc0fb00a654ffd1c85be8.jpg)
 
 图1
 
@@ -25,7 +25,7 @@ theme: 权限管理
 
 图2
 
-![](eeaca6df95af871a92c6e8f982cd1e53.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/eeaca6df95af871a92c6e8f982cd1e53.jpg)
 
 图3
 
@@ -33,7 +33,7 @@ theme: 权限管理
 
 主导航中支持配置的菜单有“门户首页”、“工作消息”和“更多应用”，如图4所示：
 
-![](f0cb247dd30c2dae197761dec06dd940.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f0cb247dd30c2dae197761dec06dd940.jpg)
 
 图4
 
@@ -47,17 +47,17 @@ theme: 权限管理
 
 4、主导航中的菜单均不可设置打开方式。
 
-5、“门户”显示方式不勾选“显示菜单名称”时，前台门户只显示一个图标![](05160c2785d3cc54aec160c27f96306b.jpg)；勾选“显示菜单名称”时，可显示菜单名称![](4d1960554b9dc095e15abf54128d65cc.jpg)。
+5、“门户”显示方式不勾选“显示菜单名称”时，前台门户只显示一个图标![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4d1960554b9dc095e15abf54128d65cc.jpg)。
 
 6、“工作消息”显示方式可选“悬浮图标”、“主导航”或“主导航且默认显示”，如图5所示，同个人设置，后台设置用于系统全局控制，且只有后台勾选【允许用户修改】，前台个人设置才能修改“工作消息”显示方式：
 
-![](e6abf1db44675c94dfd3bfa6e7f7549f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e6abf1db44675c94dfd3bfa6e7f7549f.jpg)
 
 图5
 
 7、“更多应用”显示方式可选“浮动菜单”或“页面平铺”，如图6所示，同个人设置，后台设置用于系统全局控制，且只有后台勾选【允许用户修改】，前台个人设置才能修改“更多应用”显示方式：
 
-![](8b7a5e66b39ef11188dcebae8a02cd42.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8b7a5e66b39ef11188dcebae8a02cd42.jpg)
 
 图6
 
@@ -67,25 +67,25 @@ theme: 权限管理
 
 如图7所示，工具栏支持添加自定义菜单和分割线：
 
-![](35e6e33fed5696aad16c08dbafb8e363.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/35e6e33fed5696aad16c08dbafb8e363.jpg)
 
 图7
 
 添加自定义菜单效果如图8所示，默认不勾选启用，支持配置菜单图标、URL、打开方式和角标设置，菜单保存后支持设置使用限制：
 
-![](a3d07ab96018706f0a6bca0810e95fd0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a3d07ab96018706f0a6bca0810e95fd0.jpg)
 
 图8
 
 自定义菜单支持通过配置角标数据获取接口，来显示角标，角标形式支持“红点”、“数字”或自定义图标，如图9所示：
 
-![](530dafe30951e9af44a76c9b4413e4db.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/530dafe30951e9af44a76c9b4413e4db.jpg)
 
 图9
 
 分割线效果如图10所示：
 
-![](c65ac47fbabea5070bcb475a6061268a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c65ac47fbabea5070bcb475a6061268a.jpg)
 
 图10
 
@@ -93,12 +93,11 @@ theme: 权限管理
 
 如图11所示，更多中显示的菜单也支持添加自定义菜单和分割线，添加自定义菜单效果，同工具栏自定义菜单，这里不详述：
 
-![](1316ad86d3c26f3217c6bb70f33c3c2a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1316ad86d3c26f3217c6bb70f33c3c2a.jpg)
 
 图9
 
 分割线效果如图10所示：
 
-![](a3dec6b9682c5608a88d13968a6f76bc.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a3dec6b9682c5608a88d13968a6f76bc.jpg)
 
-图10

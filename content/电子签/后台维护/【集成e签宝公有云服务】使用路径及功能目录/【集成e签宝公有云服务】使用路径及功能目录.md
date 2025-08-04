@@ -9,7 +9,7 @@ theme: 电子签
 
 **电子签集成 e签宝公有云**服务 使用路径**
 
-**![](9e0db377d7c31291255c94fcc258c151.jpg)**
+**![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9e0db377d7c31291255c94fcc258c151.jpg)**
 
 **功能**目录**
 
@@ -29,4 +29,3 @@ theme: 电子签
 
 [[四、签署文件管理|四、签署文件管理]]
 
-[[五、其他|五、其他设置]]

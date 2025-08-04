@@ -11,12 +11,11 @@ theme: e-builder
 
 e-builder关联字段，浏览框不显示字段名称。
 
-![](f7fa06ace719a5efba3eae2cc1e31735.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f7fa06ace719a5efba3eae2cc1e31735.jpg)
 
 **解决方式：**
 
 表单设计页面左侧字段区 → 选择“标题栏”→ 选择需要展示的字段
 
-![](bcc5e1f38f905f397444a1eea1b391ab.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/bcc5e1f38f905f397444a1eea1b391ab.jpg)
 
-![](8958162c0edcd09febe3d94e2a4cbe4d.jpg)

@@ -11,7 +11,7 @@ theme: 门户引擎
 
 如何将多个组件精准到px一行显示，例如我们在搭建主题的时候想要将上边栏的组件精准到px一行显示
 
-![](1d16fff67f6c972bd396832564b402cb.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1d16fff67f6c972bd396832564b402cb.jpg)
 
 **解决方案：**
 
@@ -25,4 +25,3 @@ theme: 门户引擎
 
 想要精确到px或百分且一行显示，我们可以使用容器嵌套容器，开启被嵌套容器的布局为fiex（弹性布局），方向选择Horizontal（横向分布），将组件拖拽到容器中，设置具体宽度即可
 
-![](8dabcf3a76455a0aa17e3109f6cefb16.jpg)

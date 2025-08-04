@@ -27,6 +27,5 @@ theme: e-builder
 
 预览当前节点输出的数据。选择了第一行作为字段名称，总共有3列：
 
-![](28a5c2504b4885be6bb2bc03be71834f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/28a5c2504b4885be6bb2bc03be71834f.jpg)
 
-![](37f24b75ac0afe680bcec29fb6a296ab.jpg)

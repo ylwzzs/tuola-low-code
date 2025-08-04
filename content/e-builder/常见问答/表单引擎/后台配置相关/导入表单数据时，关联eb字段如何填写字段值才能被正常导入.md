@@ -17,4 +17,4 @@ theme: e-builder
 
 解决办法：在填写导入数据数据时，应将关联eb的显示名称改为关联数据的标题，此时便可以将数据进行导入。如下图
 
-![](b66192fe37c3f277e02dc8c197523716.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b66192fe37c3f277e02dc8c197523716.jpg)

@@ -9,4 +9,4 @@ theme: 权限管理
 
 如下图所示，点击【条件SQL语句】字段后面的“？”图标，可打开选择系统参数面板，直接点击可将系统参数插入到SQL语句中：
 
-![](5b0d339ae50fc8a0515d1e7b131b23b0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5b0d339ae50fc8a0515d1e7b131b23b0.jpg)

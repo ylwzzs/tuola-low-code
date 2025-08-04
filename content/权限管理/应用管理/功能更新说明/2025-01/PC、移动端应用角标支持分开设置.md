@@ -15,10 +15,9 @@ theme: 权限管理
 
 如图1所示，支持分开设置PC、移动端角标，PC应用角标和移动应用角标共用一个获取角标接口，只要PC或移动使用角标即显示该设置，如图：
 
-![](414b46bd988f821511c6b9aed7d21ff3.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/414b46bd988f821511c6b9aed7d21ff3.jpg)
 
 图1
 
-![](dba2e03eef838474a1d9af6c6849ea4e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/dba2e03eef838474a1d9af6c6849ea4e.jpg)
 
-图2

@@ -15,4 +15,4 @@ ETL输出时如何配置增加序号列字段
 
 使用增加序号列组件，配置字段名称、起始值、增长步长、最大值，保存预览即可
 
-![](7d97b357d7d2c85e67dd3c1c1f9db030.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7d97b357d7d2c85e67dd3c1c1f9db030.jpg)

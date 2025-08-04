@@ -29,13 +29,13 @@ theme: 电子签
 
 在Docusign主页中，点击My Apps & Keys，进入新建应用页面
 
-![](c8daa75f9ff6b3e272de0e842fa3da87.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c8daa75f9ff6b3e272de0e842fa3da87.jpg)
 
 **2.新建**
 
 为新建应用命名
 
-![](7c35a7e5496d6b83444f9cd110c70af5.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7c35a7e5496d6b83444f9cd110c70af5.jpg)
 
 **3.配置重定向地址**
 
@@ -47,25 +47,25 @@ theme: 电子签
 
 2）客户oa访问地址/sp/signcenter/closeCurrentPage（需将“客户oa访问地址”进行替换，如图中示例）
 
-![](2e3ec71348dfc4a06a49a6fc26cea72b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2e3ec71348dfc4a06a49a6fc26cea72b.jpg)
 
 **4.获取Private Key**
 
 在新建好的应用后方，鼠标移入【ACTIONS】按钮，点击下拉框中的【Edit】，进入应用编辑界面。
 
-![](2cb353fd997f44790a94b26fd06f2813.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2cb353fd997f44790a94b26fd06f2813.jpg)
 
 下滑至【Service Intergration】分组，点击【GENERATE RSA】，系统将自动生成Private Key，点击右侧复制按钮，即复制到剪贴板。
 
 注：Private Key用于在电子签中、绑定Docusign服务时粘贴填写。
 
-![](e29cecf7d355012182fe11ac20de98cf.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e29cecf7d355012182fe11ac20de98cf.jpg)
 
 **5.获取**Integration Keys**
 
 在上述第4步的应用编辑界面，找到Intergration Key，点击后方复制即可获取，也是用于在电子签中绑定服务配置使用。
 
-![](c1fa52b843bec33b3d90d34ac62752c6.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c1fa52b843bec33b3d90d34ac62752c6.jpg)
 
 **6.激活docusign接口调用权限**
 
@@ -79,7 +79,7 @@ docusign正式环境授权地址：
 
 <https://account.docusign.com/oauth/auth?response_type=code&scope=impersonation%20signature&client_id=4104beb4-1788-45a2-b8ae-bfdb4f9600dc&redirect_uri=https%3A%2F%2Fdevelopers.docusign.com%2Fplatform%2Fauth%2Fconsent>
 
-![](894d206ad344655ea2ebe0c44164c2fa.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/894d206ad344655ea2ebe0c44164c2fa.jpg)
 
 **7.配置回调事件**
 
@@ -87,12 +87,11 @@ docusign正式环境授权地址：
 
 然后在下面的Trigger Event中勾选对应的需要使用到的回调事件即可。
 
-![](85c7e6716461d56c68c4b614106ba964.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/85c7e6716461d56c68c4b614106ba964.jpg)
 
-![](8f51e6a019c0bc6f0c9dd409d6fddc76.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8f51e6a019c0bc6f0c9dd409d6fddc76.jpg)
 
-![](37947f902920e628c8d377af799fcc4f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/37947f902920e628c8d377af799fcc4f.jpg)
 
-![](b2561a702f5d62c69c4f01af205f74aa.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b2561a702f5d62c69c4f01af205f74aa.jpg)
 
-完成上述操作、了解上述参数所在位置后，即可进入Ecology系统，在电子签应用的绑定服务设置中，绑定当前Docusign服务。

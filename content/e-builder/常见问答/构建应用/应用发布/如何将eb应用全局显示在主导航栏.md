@@ -11,10 +11,9 @@ theme: e-builder
 
 个人应用设置可以将应用显示在主导航栏但是仅对个人生效，能否控制应用显示在主导航栏对全局生效？
 
-![](dcb3e9fb2706b96593d32f91b51e6539.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/dcb3e9fb2706b96593d32f91b51e6539.jpg)
 
 **问题解答：**
 
 在后台管理应用设置-应用展示默认设置中设置，会对全局成员生效
 
-![](6a0c8dbd736c80b2b8d44e7e22a31fac.jpg)

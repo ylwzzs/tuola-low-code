@@ -23,24 +23,23 @@ c. 考勤签到签退，外勤签到
 
 d. 默认显示当前定位地址，如不符，可点击进去修改
 
-![](89310b823c0fa54f32a9b9bdd124cd4e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/89310b823c0fa54f32a9b9bdd124cd4e.jpg)
 
 2. 修改定位显示地址：当前定位地点不符，点击定位，进入地址页面，如下图所示
 
-![](d979c6d02582f8c5b398a85fae7a8d11.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d979c6d02582f8c5b398a85fae7a8d11.jpg)
 
 ps：若移动端考勤打卡页面，当检测到定位失败时，可点击查看帮助提示查看解决方法。
 
-![](3e7b092d6c5cdacc24d421f536edbcd9.jpg)![](9175d52a245e075d371e336ac8e57b2b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9175d52a245e075d371e336ac8e57b2b.jpg)
 
 3. 外勤签到：如您有外出，请点击“外勤签到”，在外勤签到页面，填写相应的外出信息
 
-![](bd2500051af0d4c1e16a2928440b2679.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/bd2500051af0d4c1e16a2928440b2679.jpg)
 
 4. 查看外勤轨迹，点击今天的考勤情况；在外勤轨迹页面，可切换日期
 
-![](71724455ee4f4b705764ba81a7505c78.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/71724455ee4f4b705764ba81a7505c78.jpg)
 
 5. 查看月度异常考勤明细及出勤明细
 
-![](42ad166024c51298a9d84fb104947323.jpg)

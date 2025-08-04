@@ -11,7 +11,7 @@ CAS是Central Authentication Service的缩写，中央认证服务，一种独�
 
 功能入口：登录E10系统，点击进入后台管理中心【集成中心】--【统一认证中心】-【认证协议管理】-【CAS认证】
 
-![](d56439c52527ad7f97666b5931ddb22d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d56439c52527ad7f97666b5931ddb22d.jpg)
 
 配置说明：
 
@@ -21,4 +21,3 @@ CAS是Central Authentication Service的缩写，中央认证服务，一种独�
 | **启用** | 决定OAuth2应用是否启用。  若开启，业务系统可通过OAuth2进行接入；  若禁用，业务系统将不能通过OAuth2进行接入。 |
 | **服务地址** | 只读显示“当前系统访问地址+/papi/sso/cas” |
 | **登录地址** | 只读显示“当前系统访问地址+/papi/sso/cas/login”。业务系统请求登录地址，E10认证登录后，会回调业务系统，并携带ticket |
-| **退出地址** | 只读显示“当前系统访问地址+/sp/integration/cas/logout”，业务系统请求退出接口可注销E10认证登录会话 |

@@ -15,4 +15,4 @@ theme: e-builder
 
 业务组件模板库目前仅支持上传word类型的文件，不支持PDF或EXCEL文件。
 
-![](f465cd94040eda82784b0e9b69f124bc.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f465cd94040eda82784b0e9b69f124bc.jpg)

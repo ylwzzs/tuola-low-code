@@ -9,10 +9,9 @@ theme: e-builder
 
 **问题描述：**
 
-表单中进行字段联动配置，在选择SQL联动时，只能找到主表字段，取不到明细表字段？![](f125a16b4f3f2db0ffd849d238c2680e.jpg)
+表单中进行字段联动配置，在选择SQL联动时，只能找到主表字段，取不到明细表字段？![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f125a16b4f3f2db0ffd849d238c2680e.jpg)
 
 **解决方式：**
 
 需要先在触发动作值改变时选择明细表字段，之后才能在sql中取到明细表：
 
-![](fadaa5b81c94c718e1f2bb8f0d269829.jpg)

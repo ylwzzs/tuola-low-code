@@ -15,7 +15,7 @@ theme: 集成引擎
 
 2、后台管理中心-低代码平台e-Builder-应用（打开需要展示元素的页面）
 
-![](7545ee09f63ed6fff3385f6c5d156b4e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7545ee09f63ed6fff3385f6c5d156b4e.jpg)
 
 |  |  |
 | --- | --- |
@@ -33,4 +33,3 @@ theme: 集成引擎
 
 **前端元素展示效果**
 
-![](91995d10362610984cbd9339e0e32e70.jpg)

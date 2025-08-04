@@ -64,11 +64,11 @@ Linux:
 
 接入WelinkWelink接入功能主要是在E10后端管理云桥模块中建立Welink接入信息，将基本的企业名称写入到云桥里①点击后台管理中心，在所有服务中选择云桥或者平台引擎里点击云桥，即可进入云桥页面，如下图所示：
 
-![](b735716adfdc339a68c4708cdc83b9f3.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b735716adfdc339a68c4708cdc83b9f3.jpg)
 
 进入【Welink集成】页面，点击页面上方的下拉框，并点击【+新建Welink】，右侧弹出侧边栏，Welink配置页面，输入Welink企业名称，点击保存，如下图所示：
 
-![](cca8eb9e7cedd83afb734d7660041f80.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/cca8eb9e7cedd83afb734d7660041f80.jpg)
 
 # **2**.**应用集成**
 
@@ -76,35 +76,35 @@ Linux:
 
 请登录Welink开放平台<https://open.welink.huaweicloud.com，进入菜单【应用开发】-【轻应用】-【创建轻应用】，选择/上传应用图标，输入应用的中文和英文名称之后，点击【提交】，如下图所示：>
 
-![](b5fd1528e7a9734f63ef09a2666ca5d4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b5fd1528e7a9734f63ef09a2666ca5d4.jpg)
 
 应用创建之后点击【基本信息】，即可获取到应用的client\_id和client\_secret，如下图所示：
 
-![](0bd95fedc2847597ad703b65bb7ad946.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0bd95fedc2847597ad703b65bb7ad946.jpg)
 
 访问云桥【Welink集成】，在当前集成的Welink企业页面，点击【添加应用】，如下图所示：
 
-![](489a61d9b1f4e5ee9df694fc1a4ce8cb.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/489a61d9b1f4e5ee9df694fc1a4ce8cb.jpg)
 
 进入应用详情页面，填写Welink应用的client\_id和client\_secret【步骤2中获取到的应用信息】，如下图：
 
-![](4ee60a5b2cd5ecdbc444acc7666f6844.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4ee60a5b2cd5ecdbc444acc7666f6844.jpg)
 
 应用主页 是设置Welink应用的主页功能，调用模块默认为打开应用，选择应用中心已经存在的主页型应用，如下图所示：
 
-![](0f7ca428116fdd48abd8f636e896373d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0f7ca428116fdd48abd8f636e896373d.jpg)
 
 也支持自定义链接，如下图所示：
 
-![](2734296b46092f5da15c6ec646c97af6.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2734296b46092f5da15c6ec646c97af6.jpg)
 
 点击应用主页地址后面的复制按钮，到Welink开放平台【开发指引】-【应用开发】-【设置首页地址】，点击前往设置，如下图所示：
 
-![](7e91419e1ac223f50cb33be288d03dd9.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7e91419e1ac223f50cb33be288d03dd9.jpg)
 
-![](1a65c8ef6eae88d89e111e58eef7e766.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1a65c8ef6eae88d89e111e58eef7e766.jpg)
 
-![](28a8527f1dcb0084594e102310711a32.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/28a8527f1dcb0084594e102310711a32.jpg)
 
 将复制的链接，填到手机端和PC端，点击确定。
 
@@ -112,7 +112,7 @@ Linux:
 
 访问Welink开放平台【版本管理】点击发布版本，选择管理员进行审核，点击确定，发布应用到Wlink，如下图：
 
-![](0181d18f886c11753f6b743ae9b2ed02.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0181d18f886c11753f6b743ae9b2ed02.jpg)
 
 管理员审核应用的时候需要选择可见范围，可根据需求选择可见范围。
 
@@ -122,29 +122,29 @@ Linux:
 
 访问Welink开放平台选择菜单【开发指引】-【开发准备】-【申请应用权限】点击右侧申请权限，如下图：
 
-![](f9a43c70e6c6ac24fd4779278ac6305f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f9a43c70e6c6ac24fd4779278ac6305f.jpg)
 
 找到第一项【身份与鉴权】，将里面的两个权限都开启，如下图：
 
-![](506476d290a91e72f192c8d9b0ef161b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/506476d290a91e72f192c8d9b0ef161b.jpg)
 
 【通讯录管理相关】执行从Welink同步
 
 找到【通讯录】，选择获取等相关的权限申请授权，如下图：
 
-![](82ae14510f6abee29cb414ebd5e5ba55.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/82ae14510f6abee29cb414ebd5e5ba55.jpg)
 
 【通讯录管理相关】执行从ecology同步
 
 选择名称为通讯录同步的权限，申请授权，如下图：
 
-![](92641fc77244c6b1537dab5dd08964db.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/92641fc77244c6b1537dab5dd08964db.jpg)
 
 【消息推送相关】推送待办
 
 找到名为待办通知的权限，申请授权，如下图：
 
-![](347f668a3cbd6b4debedf579dcab6359.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/347f668a3cbd6b4debedf579dcab6359.jpg)
 
 # **3**.**消息推送**
 
@@ -152,31 +152,31 @@ Linux:
 
 在【云桥】-【消息推送设置】-【消息推送规则】页面，点击新建，如下图：
 
-![](a1f1a8d9c307af934d3c966174c6c8d7.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a1f1a8d9c307af934d3c966174c6c8d7.jpg)
 
 例如将待办流程推送到Welink：填好规则名称，消息来源选择待办，如下图：
 
-![](397086579e2a1e6f063c065cc61c620a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/397086579e2a1e6f063c065cc61c620a.jpg)
 
 在规则详情页面，点击【新建】，设置推送目标，第三方企业类型选择【Wlink】，企业和应用根据实际需要，选择对应的企业团队和应用，如下图：
 
-![](113d3a675a618561c774fad2ef928b2a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/113d3a675a618561c774fad2ef928b2a.jpg)
 
 消息类型有：通知、待办、普通卡片，可根据需求选择相应的消息类型
 
-![](c5f1a95336fdebb1c64758327c1e882f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c5f1a95336fdebb1c64758327c1e882f.jpg)
 
 注意：推送目标新建之后，要点击【保存】，如下图：
 
-![](a205148297e666f3e9080ac0dad99ac8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a205148297e666f3e9080ac0dad99ac8.jpg)
 
 消息推送规则新建之后，可点击【编辑】按钮，对规则详情进行编辑，如下图：
 
-![](7c803783a35a891b4fca2c81b0d92960.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7c803783a35a891b4fca2c81b0d92960.jpg)
 
 将 待办 的消息推送到Welink，除了第二点中所描述的将消息来源选择待办之外，还可以将消息来源选择为全部，如下图所示：
 
-![](99b3e05e40b39f354f181632d1539b65.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/99b3e05e40b39f354f181632d1539b65.jpg)
 
 注意：若消息来源选择全部，OA其他应用的消息（例如审批，出勤等）也会通过这条消息推送规则推送到Welink。
 
@@ -188,17 +188,17 @@ Linux:
 
 将Welink的组织架构同步到云桥（不修改OA的组织架构）云桥组织架构同步分两种：
 
-![](81381cdde79713c8bb29ee676b69ba81.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/81381cdde79713c8bb29ee676b69ba81.jpg)
 
 Ø将OA的组织架构同步到云桥，同时同步到Welink（默认再同步前会先执行“从企业号同步“，以保证从OA同步的时候正确比对人员和部门信息）
 
-![](1919e6a08fae79db75c714f2e0838f12.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1919e6a08fae79db75c714f2e0838f12.jpg)
 
 ## **4**.2**同步功能相关配置**
 
 执行同步前，需要先配置接口参数设置
 
-![](56e01c5d443a43f809e62665c3d49783.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/56e01c5d443a43f809e62665c3d49783.jpg)
 
 从集成的应用里选择一个（前提是选择的应用要开启权限，全量同步的话应用的可见范围要给到所有人）。
 
@@ -210,7 +210,7 @@ l选择应用：选择同步依赖的应用。
 
 ### **4**.2.1**从Welink同步配置项**
 
-![](9f7b9b46b3e62d71ea04b36eaf4d0dc1.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9f7b9b46b3e62d71ea04b36eaf4d0dc1.jpg)
 
 l新用户关联系统：设置本次同步过来的新成员（即云桥中不存在对应账号的成员）是否要自动建立与OA组织架构中人员的关联关系。具体使用见4.3.1章节
 
@@ -222,7 +222,7 @@ l是否同步到eteams：可参考文档[[#/main/cs/app/86421e44bf26440ca951b35c
 
 1.基本设置
 
-![](9b54ebf891aa891bcae6672d3a0e8a35.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9b54ebf891aa891bcae6672d3a0e8a35.jpg)
 
 l顶级部门：执行【从OA同步】，会将选择的部门以及人员，挂载到选择的顶级部门下面。
 
@@ -238,7 +238,7 @@ l用户字段对应关系：设置从OA同步过来的成员与welink中已有�
 
 系统默认会将系统中的所有部门及人员数据同步到welink的通讯录中，同步范围不需要做任何设置。 如果有特殊的需要只将一部分部门及人员同步到welink的通讯录中，则可以设置需要同步的部门及人员范围（也可以部门和人员分开设置） 不在此范围内的并且已经与系统建立关联关系的部门或人员将会被从welink中删除，并且删除操作不可逆转，所以请谨慎选择范围。
 
-![](6479e2b3c34ac00e5593d15f55174759.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6479e2b3c34ac00e5593d15f55174759.jpg)
 
 分部/部门范围：不选择特定分部/部门，默认为全部
 
@@ -250,7 +250,7 @@ l用户字段对应关系：设置从OA同步过来的成员与welink中已有�
 
 3.安全设置和定时设置
 
-![](e78786b01992a1dea3ad92233b1e30f7.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e78786b01992a1dea3ad92233b1e30f7.jpg)
 
 l用户减少数量阈值：本次同步的OA用户数量和上一次相比，减少的数量超过x，将停止同步OA用户信息。x可以自己设置
 
@@ -264,9 +264,9 @@ l定时设置：设置是否开启定时自动执行从OA系统同步操作。
 
 用户完成应用集成之后，可以直接访问应用，然后输入正确的系统账号密码后，对应集成的welink-通讯录中会记录用户的welink账号信息以及绑定关系。
 
-![](c857813e8a7b168e1ff35fdd0ad2662d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c857813e8a7b168e1ff35fdd0ad2662d.jpg)
 
-![](bade130e746910d07ff913993870190d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/bade130e746910d07ff913993870190d.jpg)
 
 2.自动绑定设置
 
@@ -276,33 +276,33 @@ l定时设置：设置是否开启定时自动执行从OA系统同步操作。
 
 从OA同步->用户绑定（使用见4.3.2）
 
-![](c3320be3f1f88ce50046a4901578ef38.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c3320be3f1f88ce50046a4901578ef38.jpg)
 
 根据配置的条件，比如：welink手机号匹配OA手机号，如果匹配上了就会自动将关联关系写入，如下图所示：
 
-![](8c024871ce558b9cca503535a323ce7e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8c024871ce558b9cca503535a323ce7e.jpg)
 
 3.关联导入
 
-![](c6d6798695b90584fcdb10e4a1c93523.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c6d6798695b90584fcdb10e4a1c93523.jpg)
 
 将已经同步到云桥本地的数据（单点写入或者从welink同步写入）导出，并且将需要绑定的OA人员的对应字段写入到文档中，上传文档，点击导入按钮，即可将关联关系写入。
 
 例如：welink人员B要绑定OA人员的B1，选择的关联字段是【手机号】，在导出的B这一栏的关联字段中，填写B1的手机号，保存后将文件再导入，并且关联字段选择【手机号】，然后点击导入按钮即可。
 
-![](6a305d48e0424edda093711de7f22fae.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6a305d48e0424edda093711de7f22fae.jpg)
 
 4.人员卡片绑定/解绑
 
-![](81c630435908dec81c9e73ef853019f7.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/81c630435908dec81c9e73ef853019f7.jpg)
 
-![](7745133b6bd863760d67c7b9a22b5674.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7745133b6bd863760d67c7b9a22b5674.jpg)
 
 5.批量解绑
 
 解除云桥本地所有人员和OA人员的关联关系
 
-![](eedcb0740631a9243702b701daaa81d4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/eedcb0740631a9243702b701daaa81d4.jpg)
 
 ## **4**.3**同步功能使用说明**
 
@@ -314,7 +314,7 @@ l定时设置：设置是否开启定时自动执行从OA系统同步操作。
 
 后续可以在 【从welink同步组织用户绑定关系】时，开启定时同步，每隔一段时间将welink的组织架构的变动更新到云桥。
 
-![](8f12a06eeb4901849c246c1502cae037.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8f12a06eeb4901849c246c1502cae037.jpg)
 
 如果不希望在云桥菜单中修改组织架构影响到welink的组织架构，可以开启通讯录的只读模式：只允许welink的修改同步到云桥本地。
 
@@ -330,7 +330,7 @@ l定时设置：设置是否开启定时自动执行从OA系统同步操作。
 
 2.执行【从OA同步】，执行完成后，云桥会把OA的人员创建到welink，并且自动把人员在welink中的身份和在OA系统中的身份关联上。在创建welink人员时，可配置对应字段的值：
 
-![](038cd00db187e39d5ce185938db94332.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/038cd00db187e39d5ce185938db94332.jpg)
 
 #### **4**.3.2.2** **welink有组织架构**
 
@@ -340,7 +340,7 @@ l定时设置：设置是否开启定时自动执行从OA系统同步操作。
 
 方法二：自动关联，在执行同步的时候配置人员匹配字段，如下图：
 
-![](330311736c528eca02ea503d86d8a927.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/330311736c528eca02ea503d86d8a927.jpg)
 
 注：如果自动绑定无法满足将welink人员和OA人员关联，可以在从OA同步前先使用手动绑定关联这些人员。
 
@@ -352,35 +352,35 @@ l定时设置：设置是否开启定时自动执行从OA系统同步操作。
 
 举例说明：没有设置顶级部门，默认同步OA整体组织架构
 
-![](4ad4a6801af48f3de02cdf2c7b4671cd.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4ad4a6801af48f3de02cdf2c7b4671cd.jpg)
 
 如下图所示，根据层级和名称首先进行顶级部门匹配，则OA顶级部门【演示部门】去匹配云桥顶级部门【演示部门】，可以匹配。一级部门能够匹配上的只有【部门A】，则其他没有匹配上的部门，会在云桥和welink新建。
 
-![](285dfd34e223248969ca2b23298db030.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/285dfd34e223248969ca2b23298db030.jpg)
 
 同步后效果（可以先同步模拟同步查看效果）：橘色为匹配，紫色为新增
 
-![](757b136224f9f0535e0f07986be24aa5.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/757b136224f9f0535e0f07986be24aa5.jpg)
 
 注：如果顶级部门的名称不相同，例如【Re部门】和【演示部门】名称不同，则顶级部门无法匹配，同步立刻中止。
 
-![](9cf1fc21d626e658712b42d9ee3a976c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9cf1fc21d626e658712b42d9ee3a976c.jpg)
 
 提示如下：
 
-![](2ef3d8b3bf0baf96bf4612233091a589.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2ef3d8b3bf0baf96bf4612233091a589.jpg)
 
 l设置了顶级部门，默认同步OA整体组织架构。选定【其他部门】为此次同步的顶级部门：
 
-![](221fb34b4d00e9a2231a44045672df32.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/221fb34b4d00e9a2231a44045672df32.jpg)
 
 如图所示，组织架构层级对应如下：
 
-![](b392d0a488ed79d5370783c09d63076f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b392d0a488ed79d5370783c09d63076f.jpg)
 
 执行同步，会将OA【Re部门】及其下级部门，同步到云桥【其他部门】下，作为顶级部门。 根据部门匹配的原则，OA一级部门【Re部门】和顶级部门下的一级部门没有名称相同的，直接新建。 同步效果如图：
 
-![](a18d35e38664625bfc8409a42ba68ad6.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a18d35e38664625bfc8409a42ba68ad6.jpg)
 
 ### **4**.3.3**其他注意事项**
 
@@ -396,32 +396,31 @@ l设置了顶级部门，默认同步OA整体组织架构。选定【其他部�
 
 系统首页的二维码进行登录OA系统，具体位置如下图：
 
-![](85733700a6919c5320f8404777e0b739.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/85733700a6919c5320f8404777e0b739.jpg)
 
 如果在未集成企业和应用的情况下，直接点击后面的【设置】按钮，会提示“请先添加welink”，故配置扫码登录功能前，请先集成企业和应用，参考手册第1、2点。
 
 点击扫码登录功能后面的【设置】按钮，进入配置页面，先点击开启按钮，再选择集成的应用后保存，如下图所示：
 
-![](810b5a0ff80f2b9abfefb7978bc7ae2e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/810b5a0ff80f2b9abfefb7978bc7ae2e.jpg)
 
 打开OA系统登录首页，扫码入口在右上角，如下图所示：
 
-![](88481e737ffa9c4db10757666d0b3b69.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/88481e737ffa9c4db10757666d0b3b69.jpg)
 
 使用手机端welink自带的扫一扫功能，扫OA系统登录首页二维码，如下图所示：
 
-![](b830bd51e3fa8222b8683f6a52a5a2ba.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b830bd51e3fa8222b8683f6a52a5a2ba.jpg)
 
 扫完之后，需要选择租户（也就是团队名称）及集成的企业名称，如下图所示：
 
-![](e41d5b80843ebc5d25ce5b049b6bb74b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e41d5b80843ebc5d25ce5b049b6bb74b.jpg)
 
 选择完企业之后，如果人员在集成企业的通讯录里无关联关系且未开启自动关联（如下图1），则会出现此界面（如下图2）：
 
-![](76770e4c31842a2e5540009a4d2d01d5.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/76770e4c31842a2e5540009a4d2d01d5.jpg)
 
-![](b3869db04c86cb02d2a41c1a29d3eb8d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b3869db04c86cb02d2a41c1a29d3eb8d.jpg)
 
 需要人员建立了关联关系后才可正常登录oa系统，具体建立关联的操作方法可参考4.2.3（开启了关联设置，此时用户访问应用，也可通过关联设置自动关联）④用户卡片绑定；扫码选择完企业后，若建立了关联关系，就能正常登录oa系统页面，效果如下图所示：
 
-![](e77db8a7421f3722099e4ce05acb9e44.jpg)

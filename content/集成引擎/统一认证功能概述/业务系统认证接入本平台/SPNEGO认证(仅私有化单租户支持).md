@@ -9,7 +9,7 @@ theme: 集成引擎
 
 SPNEGO(SPNEGO: Simple and Protected GSS-API Negotiation)是微软提供的一种使用GSS-API认证机制的安全协议。SPNEGO认证是基于CAS认证和OAuth2认证的自动登录，必须先开启CAS认证或OAuth2认证：
 
-![](c2e1f418c7dfc3a43c3238c38de90016.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c2e1f418c7dfc3a43c3238c38de90016.jpg)
 
 功能入口：**私有化单租户环境**，点击进入后台管理中心【集成中心】--【统一认证中心】-【认证协议管理】-【SPNEGO认证】
 
@@ -30,4 +30,3 @@ SPNEGO(SPNEGO: Simple and Protected GSS-API Negotiation)是微软提供的一种
 | 域IP地址 | 域服务地址 |
 | 域名 | 域名 |
 | 域管理员账号 | 域服务的管理员账号 |
-| 域管理员密码 | 域服务的管理员密码 |

@@ -31,11 +31,11 @@ E9系统中开启CAS认证：
 
 （E9系统中需配置weaversso，确保CAS认证能测试通过）
 
-![](dfc0efae9367aade967af16d5c8a6ff2.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/dfc0efae9367aade967af16d5c8a6ff2.jpg)
 
 E9系统注册E10的CAS认证应用，提供应用标识：**9eb50b1f-06e2-4b77-a637-74f290a153d1**
 
-![](859a493715151353fb196fe615afd7ff.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/859a493715151353fb196fe615afd7ff.jpg)
 
 则此E9系统提供CAS服务接口地址：
 
@@ -48,7 +48,7 @@ E9系统注册E10的CAS认证应用，提供应用标识：**9eb50b1f-06e2-4b77-
 
 开启统一认证接入管理，设置CAS集成，配置认证服务参数，账号规则设置手机号码：
 
-![](1cb04a719dfde22c97faf15b40a48a8b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1cb04a719dfde22c97faf15b40a48a8b.jpg)
 
 **E10中需申请注册E9系统白名单**
 
@@ -58,31 +58,31 @@ E9系统注册E10的CAS认证应用，提供应用标识：**9eb50b1f-06e2-4b77-
 
 前提：启用认证接入管理功能，开启PC端认证。
 
-![](91301c468970ea7f89d9f16af631adda.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/91301c468970ea7f89d9f16af631adda.jpg)
 
 在界面配置中心-登录页设置-PC端登录页中设置自定义登录地址：
 
-![](239ad20c3adfa79f3cdae15aacd090a7.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/239ad20c3adfa79f3cdae15aacd090a7.jpg)
 
 PC认证登录效果：
 
 访问自定义登录https://passport.yunteams.cn/customlogin/mysqlzzz可跳转E9系统：
 
-![](621b8b04e122fc340d8d7424495471b7.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/621b8b04e122fc340d8d7424495471b7.jpg)
 
 输入用户名密码可登录E10：
 
-![](2a5eb2ee9370585edf8c145c82c73fcb.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2a5eb2ee9370585edf8c145c82c73fcb.jpg)
 
 **移动端登录效果**
 
 前提：启用认证接入管理功能，开启移动端认证。
 
-![](f5df2eecc4018e3dacbc4082bf3b477f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f5df2eecc4018e3dacbc4082bf3b477f.jpg)
 
 界面配置中心-登录页设置-移动端登录页中设置自定义登录地址：
 
-![](ce391b4ffebdec8a8517dd9eaa268450.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ce391b4ffebdec8a8517dd9eaa268450.jpg)
 
 移动端APP-配置移动端服务器地址：
 
@@ -108,7 +108,7 @@ https://passport.yunteams.cn/customlogin/mobilezzz
 
 http://10.12.106.141/release/second/customlogin/mobilezzz
 
-![](853875ff9e6776748fcd22a32bcb9215.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/853875ff9e6776748fcd22a32bcb9215.jpg)
 
 由于移动端APP本身无法识别，移动端服务器地址需讲移动端个性化地址的二级域名修改成后端接口的二级域名releaseWeaver，即：
 
@@ -120,12 +120,11 @@ http://10.12.106.141/releaseWeaver/customlogin/mobilezzz
 
 https://passport.yunteams.cn/customlogin/mobilezzz
 
-![](b3760d152180bc701283ffbffa3a7d4d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b3760d152180bc701283ffbffa3a7d4d.jpg)
 
 进入认证登录页（适配H5页面）：
 
-![](fac58a699e3a284d3c74dad907e86cab.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fac58a699e3a284d3c74dad907e86cab.jpg)
 
 输入账号密码后，可登录E10，进入E10移动端登录后页面：
 
-![](ca3a22a4075b66abc36596a6fc1d9388.jpg)

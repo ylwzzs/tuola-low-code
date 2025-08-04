@@ -35,7 +35,7 @@ theme: 集成引擎
 
 【后台管理中心】-【集成中心】-【HR同步】
 
-![](1884cc2e5fa8bf5a2472fb46aaedaa43.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1884cc2e5fa8bf5a2472fb46aaedaa43.jpg)
 
 入口权限:
 
@@ -48,7 +48,7 @@ theme: 集成引擎
 
 【后台管理中心】-【平台引擎】-【数据源】（地址：https://域名/sp/datasource/connection）
 
-新建数据连接：![](ea66646284d9a47b028f8b5dda1c2f7f.jpg)
+新建数据连接：![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ea66646284d9a47b028f8b5dda1c2f7f.jpg)
 
 **数据接口库**
 
@@ -58,21 +58,21 @@ theme: 集成引擎
 
 其中数据来源接口是用来连接外部数据库和数据源的, 数据目标接口是用来同步OA的组织架构表
 
-![](e806009558bfd009444085c15f2610c6.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e806009558bfd009444085c15f2610c6.jpg)
 
 新建需要填写必填信息, 设置接口类型（数据目标/数据来源），目前数据来源支持数据库连接、数据源连接
 
-![](f8b825258b81845481404d31fadd3e4f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f8b825258b81845481404d31fadd3e4f.jpg)
 
 **动作流**
 
 前端调用ESB中心提供的组件展示动作流，增加后端接口用来获取到HR同步相关的触发组件标识，传参给ESB中心展示HR同步相关动作流
 
-![](d0aee59a12767518da75e90dc835f91f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d0aee59a12767518da75e90dc835f91f.jpg)
 
 **数据过滤规则库**
 
-![](c3d1e36931512802fae66f26cfce8783.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c3d1e36931512802fae66f26cfce8783.jpg)
 
 HR同步新增【数据过滤规则库】相关菜单,菜单内展示 HR同步 的所有相关数据，在同步设置的映射与过滤处配置过滤规则,对满足过滤条件的数据不进行同步（支持正向同步、反向同步）
 
@@ -112,17 +112,17 @@ HR同步新增【数据过滤规则库】相关菜单,菜单内展示 HR同步 �
 
 函数库内展示HR同步的所有相关数据
 
-![](1f7f9354f737a4946f92012f002eb493.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1f7f9354f737a4946f92012f002eb493.jpg)
 
 页面可新建公式及自定义函数,新建的数据会展示在列表里,HR同步选择函数公式时,可选到相对应的函数公式设置
 
-![](94ef2b936214877c8e9b77c004c7f3cb.jpg)![](250c6bf1e49e2013783a545bc7724552.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/250c6bf1e49e2013783a545bc7724552.jpg)
 
 **同步设置**
 
 1、基础设置
 
-![](cf53762a85d79a178f07943ca9f8c022.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/cf53762a85d79a178f07943ca9f8c022.jpg)
 
 名称：随意，但不可重复，必填文本框。不能是纯数字，支持设置多语种
 
@@ -144,13 +144,13 @@ a.手动同步：需要配置完成后手动在第五步点击同步
 
 b.自动同步：选择自动同步, 显示corn表达式, 根据配置的频率进行同步(需要注意: 当前表达式暂不支持秒级别的配置)
 
-![](2d3d760fd2ccc0e48551aaf4bdd7a929.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2d3d760fd2ccc0e48551aaf4bdd7a929.jpg)
 
 同步频率：默认值为0 0 1 \* \* ? 表示每天凌晨一点自动执行同步; 点击【设置】按钮出现设置窗，设置完成后，需点击【确定】按钮
 
 注意：
 
-**如果客户环境是私有化部署，需要在【系统管理】-【任务调度中心】-【回调管理】处新增配置（只需配置一次即可）**![](bcf5d31f75639cec28f88f128c8cfeb4.jpg)**
+**如果客户环境是私有化部署，需要在【系统管理】-【任务调度中心】-【回调管理】处新增配置（只需配置一次即可）**![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/bcf5d31f75639cec28f88f128c8cfeb4.jpg)**
 
 1）控制自动同步
 
@@ -170,19 +170,19 @@ b.自动同步：选择自动同步, 显示corn表达式, 根据配置的频率�
 
 2、同步设置（以数据源方式为例）
 
-![](824e0c42af6f529dee06d84339c605fb.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/824e0c42af6f529dee06d84339c605fb.jpg)
 
 选择需要同步的数据来源和数据目标, 如同步分部, 数据来源选择数据源的接口, 数据目标选择分部的接口；**同步内容文本框不允许设置纯数字**
 
 需要注意的是：数据目标若要选择分部，需要在【组织架构设置】-【基础设置】处启用分部, 否则数据目标的浏览框选择不到分部的接口
 
-![](1cea1c18047917502f4263df258a3af7.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1cea1c18047917502f4263df258a3af7.jpg)
 
 3、接口参数
 
 配置数据源连接信息及数据来源的参数（表名）
 
-![](e9c81ca7df3f61b606cca08074b3f34a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e9c81ca7df3f61b606cca08074b3f34a.jpg)
 
 选择数据库表名, 增量标识字段目前只支持值为日期的字段
 
@@ -190,9 +190,9 @@ b.自动同步：选择自动同步, 显示corn表达式, 根据配置的频率�
 
 配置数据来源和数据目标的字段映射关系，相当于把外部表的数据某个字段同步到OA的某个字段
 
-![](042a9ff658d7210a9befbb899fe9865c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/042a9ff658d7210a9befbb899fe9865c.jpg)
 
-![](6d65a99052899e8d5044ee3a006cb018.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6d65a99052899e8d5044ee3a006cb018.jpg)
 
 来源字段选择的是接口参数里这组配置的表名里的字段或数据源设置字段；
 
@@ -204,49 +204,49 @@ b.自动同步：选择自动同步, 显示corn表达式, 根据配置的频率�
 
 1）字段映射支持字段排序，可拖拽进行排序
 
-![](c09fa22355e8aa77472df696f101924d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c09fa22355e8aa77472df696f101924d.jpg)
 
 2）字段映射处选择目标字段为人力接口,保存后可进行分部，部门，岗位，人员系统字段以及分部，部门，人员自定义字段的同步
 
 人事档案字段设置：
 
-![](01d18aacac84f96fa263791c463dafc9.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/01d18aacac84f96fa263791c463dafc9.jpg)
 
 自定义字段设置：
 
-![](c60b71d0812792641e8e1103d297cf8d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c60b71d0812792641e8e1103d297cf8d.jpg)
 
 分部、部门自定义字段设置：
 
-![](857845dbba5ace602b26147d6e339fe3.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/857845dbba5ace602b26147d6e339fe3.jpg)
 
 3）字段映射配置里，转换规则支持选择类型：转换规则、函数公式与固定值
 
-![](0426b7582d1476be2a7d41f5a1672dd0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0426b7582d1476be2a7d41f5a1672dd0.jpg)
 
 若转换规则选择【转换规则】，则后方为【转换规则选择浏览框】，内容为转换规则库中的内容，支持浏览框快速新建转换规则，点击跳转到新建转换规则页面
 
-![](b6ed77d3c32670640c97b3e39e4b9d9c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b6ed77d3c32670640c97b3e39e4b9d9c.jpg)
 
 若转换规则选择【固定值】，则后方为【输入框】，直接可输入固定值
 
-![](e1b78c909e048a3f63d8d4089184dba3.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e1b78c909e048a3f63d8d4089184dba3.jpg)
 
 若转换规则选择【函数公式】，则后方为【函数公式选择浏览框】，内容为函数库中公式列表的内容，支持浏览框快捷新建公式，点击新建公式跳转到新建函数公式页面,可新建函数公式及变量
 
-![](355da4db2dba746956d5524545e1a223.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/355da4db2dba746956d5524545e1a223.jpg)
 
 5、数据过滤
 
 数据过滤规则根据【同步设置】中配置的【同步内容】配置对应的数据过滤规则：
 
-![](2f11001dca8e576dfa0af7eca8984e17.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2f11001dca8e576dfa0af7eca8984e17.jpg)
 
-![](2ebcba167a029362da334c8e271d5f4c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2ebcba167a029362da334c8e271d5f4c.jpg)
 
 6、手动同步
 
-![](2b411c4ef752d7b7858f10c99ef8df6e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2b411c4ef752d7b7858f10c99ef8df6e.jpg)
 
 同步内容选择的是同步设置中开启的数据；
 
@@ -258,12 +258,11 @@ b.自动同步：选择自动同步, 显示corn表达式, 根据配置的频率�
 
 **同步日志管理**
 
-![](40b5861c59b7e0c99556b1ddbc804de8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/40b5861c59b7e0c99556b1ddbc804de8.jpg)
 
 分为两个页面，同步日志和定时清理：
 
-1、同步日志记录每次同步基本信息，点击查看可查看数据详情, 失败的数据会做出提示![](d837be554ba230a9b88512234fd51a83.jpg)
+1、同步日志记录每次同步基本信息，点击查看可查看数据详情, 失败的数据会做出提示![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d837be554ba230a9b88512234fd51a83.jpg)
 
 2、定时清理开启后通过配置保留日志天数，清理当前日期x天前的日志数据，清理动作每天零点执行
 
-![](d8274b01e59da116cb721b0ba86c9ea8.jpg)

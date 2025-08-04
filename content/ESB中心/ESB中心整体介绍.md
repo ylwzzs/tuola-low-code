@@ -1,8 +1,8 @@
 ---
 aliases: ["1969779333686851763"]
 title: ESB中心整体介绍
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---

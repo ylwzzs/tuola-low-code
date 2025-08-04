@@ -1,8 +1,8 @@
 ---
 aliases: ["1967818680064831999"]
 title: 查询eb表单数据
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -13,7 +13,7 @@ theme: ESB中心
 
 效果如下图所示
 
-![](81ef3c43cd6ec1a1af14e3bb9fa49e87.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/81ef3c43cd6ec1a1af14e3bb9fa49e87.jpg)
 
 **2.**功能简介**
 
@@ -23,36 +23,35 @@ theme: ESB中心
 
 1、设计专利转化申请表单，如图1所示：
 
-![](b8aa800972d39be4c57e3ec830baac52.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b8aa800972d39be4c57e3ec830baac52.jpg)
 
 图1 设计专利转化申请表单
 
 2、新建动作流，触发时机为新建保存操作**执行前**，如图2所示：
 
-![](3fc4c226f5d4c46790b6d618cefc368a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3fc4c226f5d4c46790b6d618cefc368a.jpg)
 
 图2 新建动作流
 
 3、新建**【内置-条件分支】**动作，通过条件分支实现仅当转化方式为转让专利或技术入股时对专利来源进行查询校验。如图3所示，当满足“转化方式等于转让专利OR转化方式等于技术入股”时，在条件分支下添加**【e-builder-表单查询】**动作，其中查询条件为“专利登记表的数据ID字段等于转化申请表的专利名称字段”，查询字段为专利来源：
 
-![](f888cac2f72c980e402d6e0644bead8b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f888cac2f72c980e402d6e0644bead8b.jpg)
 
 图3 新建条件分支和表单查询动作
 
 随后需要对查询到的结果进行校验。新建**【内置-条件分支】**动作，当“专利来源等于外部专利”时，新建**【内置-页面交互】**动作，阻止后续操作，并弹窗提示“外部专利不能许可或转让！”，如图4所示：
 
-![](1fe98631063828520909f1341c749a64.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1fe98631063828520909f1341c749a64.jpg)
 
 图4 专利来源为外部专利时阻止后续操作并弹窗提示
 
 **注意：**表单查询动作返回的是所有满足查询条件的数据的**集合**，校验专利来源时获取到的查询结果是集合类型，表现为：**专利登记表【全部】专利来源**。集合类型的数据不能和文本类型的数据进行比较，因此需要指定对返回集合中的哪一条数据进行校验。这里指定查询某一个专利的专利来源，因此只得到一条查询结果，所以条件判断对象指定为**专利登记表【0】专利来源**，如图5所示：
 
-![](f97acf44fe6a1eda70f0255d8d529643.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f97acf44fe6a1eda70f0255d8d529643.jpg)
 
 图5 指定对返回集合数据的第一条进行校验
 
 校验结果提醒效果如图6所示：
 
-![](19e43bc0b23ef71af29fc7c9b7d5507c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/19e43bc0b23ef71af29fc7c9b7d5507c.jpg)
 
-图6 校验提示效果

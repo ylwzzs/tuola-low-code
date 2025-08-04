@@ -1,8 +1,8 @@
 ---
 aliases: ["1970547893171501911"]
 title: HR同步触发
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---

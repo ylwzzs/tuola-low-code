@@ -1,8 +1,8 @@
 ---
 aliases: ["1964301196554114223"]
 title: LEN文本函数
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---

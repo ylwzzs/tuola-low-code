@@ -23,11 +23,11 @@ theme: 电子签
 
 进入电子签-设置-绑定设置，点击新建，弹出新建页。
 
-![](9f5c167fb91765e5592e89ad2155ae70.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9f5c167fb91765e5592e89ad2155ae70.jpg)
 
 在【服务商】字段中选择“e签宝”，【服务类型】中选择私有，并填写下列字段。
 
-![](99eb37b33bd2295145577297f224064b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/99eb37b33bd2295145577297f224064b.jpg)
 
 **字段填写说明：**
 
@@ -41,23 +41,23 @@ theme: 电子签
 
 项目ID：登录e签宝后台管理系统，在系统管理-项目管理中新建与E10集成的项目，获取项目的projectKey
 
-![](a571d49c352daeae30e51f783b9ea4f8.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a571d49c352daeae30e51f783b9ea4f8.jpg)
 
 项目密钥：登录e签宝后台管理系统，在系统管理-项目管理中新建与E10集成的项目，获取项目的projectSecret
 
-![](e76227d1fc3e1f1f61f65c29685077dd.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e76227d1fc3e1f1f61f65c29685077dd.jpg)
 
 注意：新建的项目，需要添加IP白名单，IP地址设置为\*
 
-![](8f32045cbbb2251bcee0242c31891873.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8f32045cbbb2251bcee0242c31891873.jpg)
 
 默认服务：如勾选，则在新建签署页面进行签署时，默认使用当前服务
 
-![](94f82ee1fc0524512da044f5125d741d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/94f82ee1fc0524512da044f5125d741d.jpg)
 
 签署回调地址：这个地址是新建时自动获取的，结构为E10地址/ /papi/signcenter/esign/3/1/租户key /globalCallback，注意E10地址和e签宝私有云之间网络必须要是通的，不然回调会失败
 
-![](96b43578516ca72cc25cb31d9d5b8ff4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/96b43578516ca72cc25cb31d9d5b8ff4.jpg)
 
 ## 2. 直接签署
 
@@ -81,19 +81,19 @@ theme: 电子签
 
 文件抄送：选填。可设置抄送给内部人员或外部人员。
 
-![](fcf80d1ccd36326722bef4ef80321cac.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fcf80d1ccd36326722bef4ef80321cac.jpg)
 
 ### 2.2. 签署过程
 
 1、在系统中直接跳转签署页、在签署文件管理中点击签署、或通过手机短信和邮件，找到待签署文件，点击【签署文件】和签署地址即可进入文件签署界面
 
-![](235fca3ae7b1f069195f39fceeec5871.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/235fca3ae7b1f069195f39fceeec5871.jpg)
 
-![](d335ddbbf5e6bf2c1d71fa1da6da467d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d335ddbbf5e6bf2c1d71fa1da6da467d.jpg)
 
 2.选择需要使用的印章，拖拽到文件上，点击【提交签署】即可。
 
-![](902fd85424dfc939d010f7f8160137bd.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/902fd85424dfc939d010f7f8160137bd.jpg)
 
 ## 2.3 集成签署
 
@@ -117,7 +117,7 @@ STEP3：可选功能设置
 
 STEP1：基本信息设置
 
-![](dfddf8aef864405b2b857257139c01dc.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/dfddf8aef864405b2b857257139c01dc.jpg)
 
 **工作流路径：**选择需要进行e签宝私有云集成的流程
 
@@ -130,9 +130,9 @@ STEP1：基本信息设置
 2.e签宝服务的可选范围为已在绑定设置中绑定过的服务
 
 STEP2：必填设置（电子用印所有配置项中，必填部分的指引说明）  
-![](45573f3c9bf586218e9f5eb2ec5c0c1f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/45573f3c9bf586218e9f5eb2ec5c0c1f.jpg)
 
-![](c05a7fa56ff7e9e6f217269ceb8488ef.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c05a7fa56ff7e9e6f217269ceb8488ef.jpg)
 
 **文件主题：**相当于文件标题，建议选择表单中会填写签署文件标题的字段
 
@@ -148,15 +148,15 @@ STEP2：必填设置（电子用印所有配置项中，必填部分的指引说
 
 STEP3：可选功能设置（电子用印所有配置项中，非必填部分功能的指引说明）
 
-![](a08d856b64e109d4259acfb267decb0d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a08d856b64e109d4259acfb267decb0d.jpg)
 
 **文件操作按钮显示字段：**工作流在签署节点、下载文件节点，在设置的表单字段上会显示相应的按钮，按钮的显示效果如下
 
-![](8b37de14988c67bc49450dd67d868393.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8b37de14988c67bc49450dd67d868393.jpg)
 
 **签署场景编号：**即e签宝系统中，签署管理中的签署场景编号
 
-![](f99d1681f166082c36e28c7e5e4d9a80.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f99d1681f166082c36e28c7e5e4d9a80.jpg)
 
 **流程备注：**标记在E签宝签署流程中的流程备注，并非E10工作流的备注
 
@@ -164,7 +164,7 @@ STEP3：可选功能设置（电子用印所有配置项中，非必填部分功
 
 **签署流程设置**
 
-![](3f0b803da16c0b3098c736f2a45f5926.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3f0b803da16c0b3098c736f2a45f5926.jpg)
 
 **添加签署方方式：**支持固定添加和动态添加的方式
 
@@ -186,7 +186,7 @@ STEP3：可选功能设置（电子用印所有配置项中，非必填部分功
 
 **高级配置设置**
 
-![](ea47eea89b16504e69db045faef1b401.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ea47eea89b16504e69db045faef1b401.jpg)
 
 **1. 文件签署设置**
 
@@ -214,7 +214,7 @@ STEP3：可选功能设置（电子用印所有配置项中，非必填部分功
 
 【回调动作流】字段将默认展示已新建的电子签相关回调动作流，也可点击新建快捷跳转。
 
-![](5fd1cd337f3ab50bb118adca10ce3580.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5fd1cd337f3ab50bb118adca10ce3580.jpg)
 
 **4.文件抄送设置**
 
@@ -234,13 +234,13 @@ STEP3：可选功能设置（电子用印所有配置项中，非必填部分功
 
 **其他设置**
 
-![](0b1324c79aeca57394c9f9b2f50db537.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0b1324c79aeca57394c9f9b2f50db537.jpg)
 
 **按钮显示设置：**签署文件相关操作按钮均可自定义按钮的显示名称，也可以进行多语言设置，即在使用其他语言操作系统时，也可展示对应名称。
 
 **文件附加操作**
 
-![](2bf2869e8eec5cc062c0bb8d73161a18.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2bf2869e8eec5cc062c0bb8d73161a18.jpg)
 
 **文件附加操作：**团队和个人均开启ESB权限后，可在此页面设置各工作流节点或出口的前后时间点、系统自动执行电子签相关的哪些操作。例如签署校验、下载文件等。
 
@@ -252,22 +252,21 @@ STEP3：可选功能设置（电子用印所有配置项中，非必填部分功
 
 待我处理的文件包含了所有当前人员需要处理的签署文件
 
-![](dae55bad166ee5f1d409615d5310c374.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/dae55bad166ee5f1d409615d5310c374.jpg)
 
 **我发起的文件列表**
 
 我发起的列表包含了所有当前人员发起的签署文件，包含各个状态，点击数据可看到不同状态对应的功能按钮
 
-![](b51e335a8974830d1626789417cc5d12.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b51e335a8974830d1626789417cc5d12.jpg)
 
 **我签署过的**
 
 我签署过的列表展示的是当前用户已经完成签署的文件，同样的，点击数据可查看详情卡片以及对应功能按钮。
 
-![](985e7599b9176d1b8b6b6b8dd8003b57.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/985e7599b9176d1b8b6b6b8dd8003b57.jpg)
 
 **全部文件**
 
 展示上述所有状态文件，不同签署状态的文件，操作不同，具体与上文每种签署状态下文件的功能一致。
 
-![](cffbad5fd639d79ae1127bf4f6eb558c.jpg)

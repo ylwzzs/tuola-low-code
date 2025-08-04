@@ -13,7 +13,7 @@ theme: e-builder
 
 表单字段-下拉菜单-选项value的位置如下图所示，注意：新建的下拉菜单可以自定义选项value值，但是点击保存后则无法二次编辑。
 
-![](6ff2248b5e32899f1c2cea3c52dd77f9.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6ff2248b5e32899f1c2cea3c52dd77f9.jpg)
 
 **2.** **功能简介**
 
@@ -27,34 +27,33 @@ theme: e-builder
 
 在我们完成报表的主体搭建之后，为了使报表数据检索更加方便，我们通常会设置报表的查询条件，在许多业务场景中，我们需要取下拉菜单字段作为查询条件。
 
-![](a98d4b401cc52266cdee04512fbe5b3f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a98d4b401cc52266cdee04512fbe5b3f.jpg)
 
 在配置条件时，我们需要配置选项以及其对应的value，在本场景中，我们以仪器类型这个下拉框为例，这里有两种方式：
 
 ① 点击选项获取快速获取，这样的好处是不用自己一个个输入，系统会自动检索已有的数据，查出选项名称以及value值，但是这个功能是基于表单中有包含该选项的数据，如果该选项没有实际数据，则检测不出来。例如仪器类型共有三个选项，但是表单数据里只有两种，所以选项获取时只有两个：
 
-![](fbfdde98630323d45873a1e929bb7dfb.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fbfdde98630323d45873a1e929bb7dfb.jpg)
 
 ② 手动输入，自己手动输入选项名称与value值，这样不会丢失选项，当然也可以先进行选项获取，之后自己再手动输入补齐选项。
 
-![](4ea596d91d614feae1d261eddbd7c6ca.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4ea596d91d614feae1d261eddbd7c6ca.jpg)
 
 2. 自定义按钮打开另一张表单并带入选项值
 
 在一些场景中，我们需要点击按钮打开另一张表单的新建布局，并将该表单内的某些字段信息带入。例如在仪器设备租借场景中，我们可以对空闲状态的仪器进行借用申请，首先我们在仪器设备信息表格视图行上设置自定义按钮
 
-![](a6370f3e37848caa0d7ebb0262bb31f0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a6370f3e37848caa0d7ebb0262bb31f0.jpg)
 
 之后设置动作，打开仪器设备借用表单的新建布局，将仪器名称以及仪器类型都传参过去。在这里注意两个地方：仪器名称对应数据ID是因为借用表中的仪器名称是关联eb字段，他其实是取信息表中的数据ID,仪器名称只是他的显示样式；其次要注意，为了使下拉框字段仪器类型能够传值，两个表单的仪器类型的选项value需要相同。
 
-![](e270ba0ec9683f1a95f8baacd29d35ca.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e270ba0ec9683f1a95f8baacd29d35ca.jpg)
 
 配置完成后，点击按钮“点击借用”，就能自动将信息表中仪器名称与仪器类型带入到借用表中，如下图所示：
 
-![](528d091f8f05f4b0e250661b10eba32e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/528d091f8f05f4b0e250661b10eba32e.jpg)
 
 3.动作流下拉框字段利用选项value赋值
 
 在动作流执行动作，例如修改表单数据，新增表单数据的时候，我们需要对表单字段进行动态赋值，其中下拉框字段有多种赋值方式，当我们选择“选项名称”时，则对应赋值该字段（名称）；当我们选择“选项value”时，则直接选择该字段，但是此时需要注意，两个下拉框选项的value值需要一致。
 
-![](8cd6f04d30693b48ebc969ee1b0ca241.jpg)

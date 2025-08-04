@@ -1,8 +1,8 @@
 ---
 aliases: ["1970554764659802243"]
 title: DML操作
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -13,12 +13,11 @@ theme: ESB中心
 
 自定义sql：配置sql语法的输入框。可添加一个动态动态赋值，赋值参数可通过上下文进行获取，实现查询数据的动态传值
 
-![](699a19c54b6666fd4119b136972dd912.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/699a19c54b6666fd4119b136972dd912.jpg)
 
 2、配置e-Builder按钮触发后，选择【DML操作】并配置，配置图如下
 
-![](b84b339d468e00c154706b22f21cfcd4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b84b339d468e00c154706b22f21cfcd4.jpg)
 
 3、动作执行
 
-如果配置的是查询语句，并且需要将查询结果保存在系统内，可以在下面添加一个新建动作，把数据保存在系统内部。

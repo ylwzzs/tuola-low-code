@@ -17,7 +17,7 @@ theme: 工作消息
 
 可在账号安全-安全设置-基础设置中配置pc端锁定的解锁方式，可勾选手机解锁（仅当用户有移动端消息权限时，才会支持该解锁方式）和登录密码解锁。
 
-![](0dbcd41a2c96155996c424891be06b61.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0dbcd41a2c96155996c424891be06b61.jpg)
 
 2.2锁定功能入口
 
@@ -29,19 +29,19 @@ theme: 工作消息
 
 2、在手机端已登录设备页面点击要锁定的PC终端右侧“未锁定”按钮，会弹出二次确认弹窗，点击“确定”之后就会锁定相应的PC终端，具体如图2所示；
 
-![](38354e97a9d3720d2f52ea2187e41674.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/38354e97a9d3720d2f52ea2187e41674.jpg)
 
 图2
 
 3、锁定之后手机端已登录设备页面相应的PC终端右侧按钮文字描述会显示为“已锁定”，且手机端消息列表顶部已登录设备显示处相应的PC终端后面会显示“已锁定”的描述，具体显示如图3所示；
 
-![](a62ce2615868394f210d86a9225b9b08.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a62ce2615868394f210d86a9225b9b08.jpg)
 
 图3
 
 4、锁定之后被锁定的PC终端则会显示锁定页面，且不再接收新消息、必达等推送，具体如图4所示；
 
-![](09de1e4b6f128ada88c2422dae265b11.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/09de1e4b6f128ada88c2422dae265b11.jpg)
 
 图4
 
@@ -49,18 +49,17 @@ theme: 工作消息
 
 1、可以在手机端已登录设备页面点击要解锁的PC终端右侧“已锁定”按钮，无论解锁成功与否都会弹出相应的提示，且解锁之后相应的PC终端也恢复正常使用，具体如图5所示；
 
-![](85e1afb4882f736fb29b66f28e85f9f6.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/85e1afb4882f736fb29b66f28e85f9f6.jpg)
 
 图5
 
 2、也可以通过在锁定的PC终端点击锁定页面中的解锁按钮，手机端会弹出相应的解锁页面，点击“解锁”之后相应的PC终端也会被解锁并恢复正常使用，具体如图6所示；
 
-![](737e9b047bdf15c0bcd63375e36ff105.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/737e9b047bdf15c0bcd63375e36ff105.jpg)
 
 图6
 
 2、也可以使用登录密码解锁，输入登录密码并验证成功后即可解锁，具体如图7所示
 
-![](64f6b75274bd591a87793c0c42c9a6e0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/64f6b75274bd591a87793c0c42c9a6e0.jpg)
 
-图7

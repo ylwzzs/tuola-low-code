@@ -11,7 +11,7 @@ theme: e-builder
 
 在我们设置了关联e-Builder字段关联其他表单数据之后，能否对表单数据进行一些过滤，只能选到特定条件下的数据。
 
-![](74c559cbde1c59121e7583847edb9be4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/74c559cbde1c59121e7583847edb9be4.jpg)
 
 **解决方式：**
 
@@ -19,4 +19,3 @@ theme: e-builder
 
 例如在仪器设备租用中，用户填写租用申请单并选择租用的仪器，此时我们可以利用数据过滤设置用户只能选择到“空闲”状态的仪器：
 
-![](97f5422a94f0049f16cfe13b3863dd84.jpg)

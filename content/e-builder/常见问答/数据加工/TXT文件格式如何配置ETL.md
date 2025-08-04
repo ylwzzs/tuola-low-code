@@ -15,7 +15,7 @@ TXT格式的文件如何配置etl作为数据源输入
 
 **列分割符**
 
-指定TXT文件中，每一列数据之间的分隔符。如上图所示的分割符是 ![](3d3b5073d81bbba3318a497ee9978b5a.jpg)
+指定TXT文件中，每一列数据之间的分隔符。如上图所示的分割符是 ![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3d3b5073d81bbba3318a497ee9978b5a.jpg)
 
 **字段设置**
 
@@ -25,6 +25,5 @@ TXT格式的文件如何配置etl作为数据源输入
 
 预览当前节点输出的数据。按照设置的4个字段，将文本中每一行数据拆分成4列：
 
-![](963c1b25822aa06a950340a25d996e65.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/963c1b25822aa06a950340a25d996e65.jpg)
 
-![](4b6dfc2ec051a69ecb54a82708dcc291.jpg)

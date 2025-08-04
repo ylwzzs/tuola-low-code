@@ -11,19 +11,19 @@ theme: 集成引擎
 
 1、点击【官方网站】，可跳转天润融通官网，在网站中可联系销售了解购买天润SaaS版呼叫中心。
 
-![](57e0e5516737198dd574548ae1a3aa6d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/57e0e5516737198dd574548ae1a3aa6d.jpg)
 
 2、购买后，进入厂商后台，在【系统设置】-【安全设置】-【接口密钥】中，即可获得用于集成的服务商秘钥。
 
-![](f69effc9a557503b465b0b2f545b2b1d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f69effc9a557503b465b0b2f545b2b1d.jpg)
 
 3、回到E10呼叫中心集成后台，填写购买获得的应用id和应用秘钥，在用户标识处、填写在天润申请时使用的企业编号 ，并启用服务商。
 
-![](f7e7a6a80b61854c57827c04258af58c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f7e7a6a80b61854c57827c04258af58c.jpg)
 
 4、进入【功能设置】-【外显号码设置】，点击【同步】，系统即可自动同步服务商代办申请好的外显号码。（外显号码，指的是呼出后、用户接听电话时，向用户展示的企业号码。通常需要向服务商提供一些企业资质证明，服务商会协助申请，申请完成后即可获得可用的外显号码）。
 
-![](c651f61fb61b6d5207fedc3cc9491251.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c651f61fb61b6d5207fedc3cc9491251.jpg)
 
 5、进入【坐席与呼叫设置】菜单，点击【添加座席】，可选择E10系统中的任意人员、添加为坐席人员。
 
@@ -37,10 +37,9 @@ theme: 集成引擎
 
 完成以上配置后，已经完成了集成所需的所有操作。
 
-![](9ffd2a035a6aceb4f10762781a30b597.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9ffd2a035a6aceb4f10762781a30b597.jpg)
 
 二、组件使用
 
 完成厂商集成后，请点击参照以下文档来使用呼叫中心组件 ：
 
-[[待下载-未知ID_1974012270747194559|EB呼叫中心组件使用说明]]

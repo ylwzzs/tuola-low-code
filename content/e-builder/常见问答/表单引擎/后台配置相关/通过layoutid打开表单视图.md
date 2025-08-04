@@ -17,8 +17,7 @@ theme: e-builder
 
 第一步：应用后台查看布局id
 
-![](3c47b1dc05a328f6136467fc74c4b165.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3c47b1dc05a328f6136467fc74c4b165.jpg)
 
 第二步：新建菜单，设置参数layoutid=布局id
 
-![](1f09cdd3016a1612433d8f0abe900b8a.jpg)

@@ -27,13 +27,13 @@ SCRM（Social Customer Relationship Management ）是社会化客户关系管理
 
 6.企微获客排行榜：按服务人员的获客数降序统计展示
 
-7.企微引流排行榜：按引流人员的引流数降序统计展示![](31f7fbf33768690219e467249ff1faba.jpg)
+7.企微引流排行榜：按引流人员的引流数降序统计展示![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/31f7fbf33768690219e467249ff1faba.jpg)
 
 **三 企微客户**
 
 此功能用于管理当前个人及团队的所有企微客户，支持维护企微标签、关联绑定至CRM客户/联系人、查看跟进人详情、追溯引流来源记录等，此外还支持营销人员在职/离职继承企微客户。
 
-![](b4cfe21a3b25b22bb47f5d87ff37620f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b4cfe21a3b25b22bb47f5d87ff37620f.jpg)
 
 **四 群发消息**
 
@@ -41,17 +41,17 @@ SCRM（Social Customer Relationship Management ）是社会化客户关系管理
 
 1. 新建群发任务：新建群发企微消息的任务，发送给指定条件、客户联系人的添加员工，员工在企微中确认即可发送。
 
-![](d7b77807da4e3b07844f8e36e9e2a50d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d7b77807da4e3b07844f8e36e9e2a50d.jpg)
 
 2. 已发消息：可查看已发送的群发任务记录和发送情况。
 
-![](af3978065b22bfc6579afea8312c337d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/af3978065b22bfc6579afea8312c337d.jpg)
 
 **五 企微朋友圈**
 
 与群发消息类似，可新建群发任务、通知所有员工发送企微客户朋友圈，并可查看发送记录。
 
-![](cc25486aeba2ccfe94880b0d0c0c0122.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/cc25486aeba2ccfe94880b0d0c0c0122.jpg)
 
 **六 营销内容**
 
@@ -59,14 +59,13 @@ SCRM（Social Customer Relationship Management ）是社会化客户关系管理
 
 产品推广时，营销人员会撰写很多文案，包括应用场景、案例分享和功能更新等，在这里您可以进行文案创建、修改和删除。也可以一键复制已有的文案卡片，快速新建修改。
 
-文案可以通过微信公众号进行推广，推广后，每个文案添加的客户也可以很清晰的查看。![](23ad840f422cb6097c2f4245eed878e6.jpg)
+文案可以通过微信公众号进行推广，推广后，每个文案添加的客户也可以很清晰的查看。![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/23ad840f422cb6097c2f4245eed878e6.jpg)
 
 **（二） 素材**
 
 素材中心可以日常收集到文本、网页和图片都保存这里，方便编写文案时使用。
 
-![](0268017d2fd78294180fe256f8bc868b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0268017d2fd78294180fe256f8bc868b.jpg)
 
 **（三）活码**
 
-活码是指在线生成企业微信名片二维码，将生成好的二维码发送出去，添加为企业微信客户后会同步到系统中，根据配置好的服务人员和字段映射，同步创建系统客户和联系人，减少以往要重复手动新建的情况；同时，可以设置客户添加好友后，系统自动推动的欢迎语，内容形式包括文字、网页、图片。同时支持从已添加素材中直接选取。![](10af578f4f45c24a983cb2a1ff6b7fe5.jpg)

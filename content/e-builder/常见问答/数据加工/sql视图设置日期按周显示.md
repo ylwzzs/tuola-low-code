@@ -27,4 +27,4 @@ DAY(字段名称) + WEEKDAY(字段名称 - INTERVAL DAY(字段名称) -1 DAY)
 
 第二步；运行查看结果
 
-![](d57f1e7d72f181c104b7e10de3b2f648.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d57f1e7d72f181c104b7e10de3b2f648.jpg)

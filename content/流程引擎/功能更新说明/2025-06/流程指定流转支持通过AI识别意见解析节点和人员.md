@@ -15,4 +15,4 @@ theme: 流程引擎
 
 1、用户输入意见内容后点击提交打开指定流转窗口，会根据意见内容解析出节点和人员，并自动填充，示例如下图所示：
 
-![](46afcdd0ee6ba6e8b2644be15f63c5cf.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/46afcdd0ee6ba6e8b2644be15f63c5cf.jpg)

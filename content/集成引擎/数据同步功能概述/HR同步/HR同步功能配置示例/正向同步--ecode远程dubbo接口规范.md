@@ -32,20 +32,19 @@ theme: 集成引擎
 
 1. 集成中心-HR同步-点击新建-从空白新建-集成方式选择Ecode正向同步
 
-![](88d456e78cd640c485aafaf41d2018e0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/88d456e78cd640c485aafaf41d2018e0.jpg)
 
 2. 数据来源选择ecode正向同步，数据目标选同步分部、部门、岗位、人员【根据实际需要配置，例如只同步分部也可以】
 
-![](cb7404fa9b6e69e75d885735fad365f6.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/cb7404fa9b6e69e75d885735fad365f6.jpg)
 
 3. 接口参数填写发布的dubbo接口的groupId分组标识以及版本号
 
 点击下一步时会调用test方法测试是否通过，若不通过展示接口返回的异常信息
 
-![](bf3fd969a4bb5abd65347b696a90418b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/bf3fd969a4bb5abd65347b696a90418b.jpg)
 
 4. 点击下一步-映射与过滤-字段映射填写对应的映射关系，来源字段列表调用getSourceDataField方法获取
 
-![](e83b26b7eb2ad7b3323faa09760deaba.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e83b26b7eb2ad7b3323faa09760deaba.jpg)
 
-5. HR同步中执行同步，调用ecode 接口Page方法进行同步

@@ -9,6 +9,5 @@ theme: 权限管理
 
 为确保连接的稳定性、消息的及时传递以及系统的性能优化，需要监控即时通讯（IM）相关服务中 WebSocket 和 Socket 的数据情况，包括在线连接数、在线用户数及用户请求数。
 
-![](476d1d7332c01deae3a8035b32324f27.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/476d1d7332c01deae3a8035b32324f27.jpg)
 
-![](8fb2b4675c93cc11121ffa48548b2845.jpg)

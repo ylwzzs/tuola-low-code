@@ -11,10 +11,9 @@ theme: e-builder
 
 ETL节点运行时提示操作列名不能为空或无意义字段，是什么原因导致的，该如何排查
 
-![](e992dba7edde0a6dc26242900ef2769c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e992dba7edde0a6dc26242900ef2769c.jpg)
 
 **解决方式：**
 
 检查已配置输出字段列，是否为中文、或是否包含了数字。中文和数字不符合字段规范，不可使用
 
-![](6bfa72af34f0be60bbf1c8c3c690e35a.jpg)

@@ -1,19 +1,19 @@
 ---
 aliases: ["1963239142774048568"]
 title: 新增SAP凭证
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
 
 后台管理中心->ESB中心->SAP凭证设置中，点击新增按钮，新增SAP凭证，根据新增页面的字段信息，输入相应的内容，其中关联的财务凭证流程，关联保存后会自动生成触发规则，且会在开放后台自动生成SAP的应用。
 
-![](a662c0fc366b14f35e680bcdb1c3d82c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a662c0fc366b14f35e680bcdb1c3d82c.jpg)
 
 点击新增：
 
-![](ebf1e5d9f81872a00629e4ee50565db0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ebf1e5d9f81872a00629e4ee50565db0.jpg)
 
 配置说明：
 
@@ -29,4 +29,3 @@ theme: ESB中心
 
 1) 设置为ON的时候，相关财务凭证流程审批完成后，会自动上传到SAP系统去；
 
-2) 设置为OFF的时候，相关财务凭证流程审批完成后，需要进入“sap凭证列表”页面，然后手动点击“生成凭证”。

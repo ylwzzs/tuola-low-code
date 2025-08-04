@@ -9,7 +9,7 @@ theme: 电子签
 
 **契约锁Ukey服务 使用路径概览**
 
-**![](89883f1aa0f771e54f1ea5b32ad656b5.jpg)**
+**![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/89883f1aa0f771e54f1ea5b32ad656b5.jpg)**
 
 **契约锁Ukey服务 电子签集成 功能**目录**
 
@@ -23,4 +23,3 @@ theme: 电子签
 
 [[二、签署文件管理|二、签署文件管理]]
 
-[[三、其他|三、其他设置]]

@@ -11,10 +11,9 @@ theme: e-builder
 
 在数据加工中配置了分支，表输出时只执行了其中一条分支，另外一条分支未执行
 
-![](611ee3cd49e872d7ffe50232116eda6d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/611ee3cd49e872d7ffe50232116eda6d.jpg)
 
 **解决方式：**
 
 ETL配置了分支，表输出的数量和分支数量成正比。即分支中配置了两条分支路线，则需要配置两个表输出动作进行对应。
 
-![](0f5cf0b8faa90a94f4c573321dcc1beb.jpg)

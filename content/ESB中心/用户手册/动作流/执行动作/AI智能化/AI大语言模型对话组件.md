@@ -1,8 +1,8 @@
 ---
 aliases: ["1974054066885690517"]
 title: AI大语言模型对话组件
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -14,7 +14,7 @@ theme: ESB中心
 - 可以直接使用已搭建的 AI智能体和 应用
 - 支持自定义参数配置，无需关联已有应用
 
-![https://weapp.eteams.cn/ecodestatic/txproduction/resources/975362755035045889/1733668651-image.png](237c95e2e46616122635bacd2840ee7d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/237c95e2e46616122635bacd2840ee7d.jpg)
 
 ### 二、配置项详细说明
 
@@ -61,4 +61,3 @@ theme: ESB中心
 | 最大消息数 | 限制对话历史中保留的消息条数（如最近10条）。 | 避免上下文过长导致模型性能下降。 |
 | 流式输出key | 指定流式返回数据的键名，用于对话组件获取流式结果。 | 对话组件中使用 |
 
----

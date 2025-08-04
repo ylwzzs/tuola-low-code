@@ -9,7 +9,7 @@ theme: 电子签
 
 **电子签集成 D**ocusign公有云服务 使用路径**
 
-**![](b3a36241d1365a34420502556a774afc.jpg)**
+**![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b3a36241d1365a34420502556a774afc.jpg)**
 
 **功能**目录**
 
@@ -29,4 +29,3 @@ theme: 电子签
 
 [[四、签署文件管理|四、签署文件管理]]
 
-[[五、其他|五、其他设置]]

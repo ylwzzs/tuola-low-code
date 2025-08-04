@@ -11,8 +11,7 @@ theme: 权限管理
 
 注意：上传的图片必须符合图片格式及像素的要求。
 
-![](faf8d9e4f2384fb549db45d397c9504a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/faf8d9e4f2384fb549db45d397c9504a.jpg)
 
 显示控制：LOGO支持两种显示设置，启用时为保证高清显示器清晰度，横向导航模式下LOGO区域最大高度为30px；关闭时，横向导航模式下最大显示高度为导航高度，纵向导航模式下最大显示宽度为导航宽度；切换开关可在预览区查看效果。
 
-横向导航LOGO和纵向导航LOGO可分开设置：默认纵向LOGO直接取横向LOGO；且横向LOGO支持同步到纵向LOGO。

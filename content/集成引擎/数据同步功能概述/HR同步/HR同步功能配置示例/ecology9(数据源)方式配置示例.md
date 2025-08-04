@@ -7,7 +7,7 @@ tags: ['集成引擎']
 theme: 集成引擎
 ---
 
-![](98475b8040c0a5868427ee2b127ff623.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/98475b8040c0a5868427ee2b127ff623.jpg)
 
 点击套件模板的使用按钮，进入简易版新建同步方案页面
 
@@ -113,15 +113,15 @@ theme: 集成引擎
 
 数据源注册功能入口:【后台管理中心】-【平台引擎】-【数据加工】-数据连接-新增连接
 
-![](62f948ec3acc78707046f77c71375b9a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/62f948ec3acc78707046f77c71375b9a.jpg)
 
-![](3ae2353bb43eb466ebfc12b6ced907dc.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3ae2353bb43eb466ebfc12b6ced907dc.jpg)
 
 2、配置参数说明
 
 功能入口:【后台管理中心】-【集成中心】-【HR同步】-基础设置-新建
 
-![](ef88549f0b152bed31a5f1b4091a9330.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ef88549f0b152bed31a5f1b4091a9330.jpg)
 
 1）基础设置
 
@@ -135,23 +135,23 @@ theme: 集成引擎
 
 ² 同步频率：默认值为0 0 1 \* \* ? 表示每天凌晨一点自动执行同步; 点击【设置】按钮出现设置窗，设置完成后，需点击【确定】按钮
 
-![](9d1067bef8ce0c2ebd5696bfdbf29e27.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9d1067bef8ce0c2ebd5696bfdbf29e27.jpg)
 
 2）同步设置：默认带出同步设置
 
 选择需要同步的数据来源和数据目标, 如同步分部, 数据来源选择数据源的接口, 数据目标选择分部的接口
 
-![](3b52ce59db320fb06d825e375d19987a.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3b52ce59db320fb06d825e375d19987a.jpg)
 
 需要注意的是：数据目标若要选择分部，需要在下面的【组织架构设置】中启用分部，否则数据目标的浏览框选择不到分部的接口
 
-![](8a3850bc7878907f310fb3c32fad38df.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8a3850bc7878907f310fb3c32fad38df.jpg)
 
 3）接口参数
 
 选择E9数据库所在数据源，其他参数默认带出
 
-![](9a46e819300f4d1e905100ff9ce5ada3.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9a46e819300f4d1e905100ff9ce5ada3.jpg)
 
 **注：增量标识只支持值为日期的字段**
 
@@ -161,7 +161,7 @@ theme: 集成引擎
 
 一些基础字段会默认带出，其他字段可自动手动添加
 
-![](b959f577bd10e6fc2abd82e98402dee4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/b959f577bd10e6fc2abd82e98402dee4.jpg)
 
 5）手动同步
 
@@ -169,6 +169,5 @@ theme: 集成引擎
 
 开启全量同步：不走增量标识，全量同步数据
 
-![](f9b471a9e65eab78578fd967d492bee5.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f9b471a9e65eab78578fd967d492bee5.jpg)
 
-注：初始化兼职信息，开启后，可将同步的兼职信息与系统内原有信息进行匹配

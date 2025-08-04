@@ -1,8 +1,8 @@
 ---
 aliases: ["1974036289979394787"]
 title: ServerlessAction组件
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---
@@ -33,17 +33,17 @@ theme: ESB中心
 
 实现com.weaver.esb.api.rpc.EsbServerlessRpcRemoteInterface接口 （注意： 此处已调整新的api, 不影响历史老接口调用，新建的动作流默认使用com.weaver.esb.api.rpc.EsbServerlessRpcRemoteInterface接口， 如果想要使用老的api 请在输入参数中添加 useOldVersion（useOldVersion = 1） 参数 ）
 
-![](603e1f479584b149c977b5f4fe1cbacc.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/603e1f479584b149c977b5f4fe1cbacc.jpg)
 
 例：
 
-![](d14ff79f5eea10dbb2d6c6b8499d98cf.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d14ff79f5eea10dbb2d6c6b8499d98cf.jpg)
 
 2.1.3 发布服务
 
 按照项目的架构体系，下面是通过xml文件去配置dubbo接口，发布对应服务。
 
-![](92c78ef3f7acea874b498ffbc805ed84.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/92c78ef3f7acea874b498ffbc805ed84.jpg)
 
 ref : 对应实现接口的bean实例名称。
 
@@ -57,19 +57,19 @@ version：可选参数，可用于后续多版本扩展，如果dubbbo提供者�
 
 【选择动作流】 - 【内置】-【 serverless/Action】
 
-![](34bf04bf0fdc964888f400b914092e01.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/34bf04bf0fdc964888f400b914092e01.jpg)
 
 填入发布服务时对应的分组标识（group） 和 版本号（version）（ 和dubbo提供者配置文件的 group 和 version 对应，如果没有版本号就不用填）
 
-![](a1df242fa29f31874e4b17debfac8127.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a1df242fa29f31874e4b17debfac8127.jpg)
 
 配置输入参数和输出参数
 
-![](fd28e09a2b7dd31e1f1c10b2555e9f94.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/fd28e09a2b7dd31e1f1c10b2555e9f94.jpg)
 
 相应参数参数可在上下文中获取。
 
-![](89bdc0e5c821a9db0b66ca43d1cb7533.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/89bdc0e5c821a9db0b66ca43d1cb7533.jpg)
 
 所需配置简述：
 
@@ -101,7 +101,7 @@ version：可选参数，可用于后续多版本扩展，如果dubbbo提供者�
 
 如果是二开服务二开修改xml统一到e-code监控管理平台里面改，访问地址 /ecode/monitor/loom/deploy/jar 配置文件编辑入口；如下图：
 
-![](c675d626340c82795ce218bb2e9fed92.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c675d626340c82795ce218bb2e9fed92.jpg)
 
 注意：
 
@@ -112,23 +112,23 @@ version：可选参数，可用于后续多版本扩展，如果dubbbo提供者�
 后端Java开发请走本地开发模式。参考文档：https://www.e-cology.com.cn/sp/doc/docDetail/8140901019737699195  
 开发好打jar上传部署到二开服务，如下图
 
-![](3431d714c54b71b6f24f6e675e30cbb2.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3431d714c54b71b6f24f6e675e30cbb2.jpg)
 
 **4).输入参数代码如何获取？**
 
 例如下图，如果在动作流中配置params 的参数key
 
-![](e3b569d051905a2d171c3111512cf575.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e3b569d051905a2d171c3111512cf575.jpg)
 
 则按照下面图中方法获取
 
-![](c13e1dd467c6b28a4e54e7afb960021f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c13e1dd467c6b28a4e54e7afb960021f.jpg)
 
 **5).接口超时时间如何修改**
 
 修改dubbo接口超时时间
 
-![](80f33375d20af8d4e8e6f5641c285ad0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/80f33375d20af8d4e8e6f5641c285ad0.jpg)
 
 修改naocs配置文件 weaver-esb-server-service.properties （部分合体项目可能需要到指定合体服务的配置文件去修改）
 
@@ -148,4 +148,3 @@ weaver.rest.web.restRpc.[esb\_test\_new/ com.weaver.esb.api.rpc.EsbServerlessRpc
 
 weaver.rest.web.restRpc.[esb\_test\_new/ com.weaver.esb.api.rpc.EsbServerlessRpcRemoteInterface/seconddev1.0].restProperties.readTimeOut =xxx
 
-修改完成后重启esb所在服务

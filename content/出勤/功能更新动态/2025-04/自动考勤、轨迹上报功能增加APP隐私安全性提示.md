@@ -17,7 +17,7 @@ theme: 出勤
 
 ## **三、业务流程图**
 
-![](2ae5cb1b394312e0f4c06b3bf36b5765.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2ae5cb1b394312e0f4c06b3bf36b5765.jpg)
 
 ## **四、功能概述及使用说明**
 
@@ -25,15 +25,15 @@ theme: 出勤
 
 当启用【上下班自动考勤】后，系统会弹出APP隐私安全性提示，告知员工启用后，系统将自动收集并上报用户的位置信息。
 
-![](658f682e9557c5d3b14aea765fad6371.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/658f682e9557c5d3b14aea765fad6371.jpg)
 
 若同意启用，则正常启用功能。设置项下方同样会回显对应的提示说明。
 
-![](undefined)![](8a213f2f7b61e19ad4ce2150d3b9de80.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8a213f2f7b61e19ad4ce2150d3b9de80.jpg)
 
 若不同意启用，则无法启用功能。
 
-![](undefined)![](9328e4ab6ea0c8fadbb072a3d4a33311.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/9328e4ab6ea0c8fadbb072a3d4a33311.jpg)
 
 ###
 
@@ -41,15 +41,15 @@ theme: 出勤
 
 当启用【开启外勤人员轨迹管理】后，系统会弹出APP隐私安全性提示，告知员工启用后，系统将自动收集并上报用户的位置信息。
 
-![](undefined)![](efa18a75f4e8bf5015eab7fd47d9c2a5.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/efa18a75f4e8bf5015eab7fd47d9c2a5.jpg)
 
 若同意启用，则正常启用功能。设置项下方同样会回显对应的提示说明。
 
-![](undefined)![](ed822de550f91b52c1888e06aa7eb052.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/ed822de550f91b52c1888e06aa7eb052.jpg)
 
 若不同意启用，则无法启用功能。
 
-![](undefined)![](2424bb84ee8a9dbfb55d5fe3b61b0215.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2424bb84ee8a9dbfb55d5fe3b61b0215.jpg)
 
 ##
 
@@ -57,7 +57,7 @@ theme: 出勤
 
 1、当后台启用【上下班自动考勤】后，移动端个人出勤设置中也支持控制是否启用。启用时同样也会弹出提示告知用户。
 
-![](undefined)![](59f781b1ad494d483da3674f0d402568.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/59f781b1ad494d483da3674f0d402568.jpg)
 
 2、上下班自动考勤功能不能与人员识别拍照打卡同时启用。
 
@@ -69,4 +69,3 @@ theme: 出勤
 
 1、上下班自动考勤功能启用后，若当前在允许考勤的范围内，系统将自动打卡，[[高级设置|点击此处查看具体功能]]。
 
-2、外勤人员轨迹上报功能，可以定时上报外勤人员的位置，[[轨迹管理设置|点击此处查看具体功能]]。

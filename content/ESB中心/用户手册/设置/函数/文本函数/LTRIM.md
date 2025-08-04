@@ -1,8 +1,8 @@
 ---
 aliases: ["1970676729714312645"]
 title: LTRIM
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---

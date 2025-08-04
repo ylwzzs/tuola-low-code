@@ -13,9 +13,9 @@ theme: e-builder
 
 展示效果如下：
 
-![](19c42d3b5152d524a82b20f92c01212b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/19c42d3b5152d524a82b20f92c01212b.jpg)
 
-**![](44d88a0383e98c7c6aadbe1b39704970.jpg)**
+**![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/44d88a0383e98c7c6aadbe1b39704970.jpg)**
 
 **2. **功能简介**
 
@@ -25,38 +25,37 @@ theme: e-builder
 
 1.在数据加工中选择-数据连接，创建和第三方数据库的链接动作。
 
-![](3a290db3cf522dcde729581b277d0583.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/3a290db3cf522dcde729581b277d0583.jpg)
 
 2. 通过数据加工首页的快捷入口自助ETL或数据开发，进入ETL创建一个新的空白ETL
 
-![](6fdc63df16223d056ce22cacca00e8c7.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/6fdc63df16223d056ce22cacca00e8c7.jpg)
 
 3. 拖入一个表输入组件，配置需要连接的数据库，获取连接表信息，点击预览，可在底部查看表内数据；
 
 此处拖入两个表输入组件，分别获取第三方库里的回款表、支出表
 
-![](a1975abf825ccab579375fee79b12ee4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/a1975abf825ccab579375fee79b12ee4.jpg)
 
 4.使用连接动作，配置两个输入表的关联关系，添加关联字段连接两个输入表
 
-![](5859bbe07d47987640a16d61e6e6ca13.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5859bbe07d47987640a16d61e6e6ca13.jpg)
 
 5.使用字段选择动作，获取全部字段，此步确定需要最终输出是需要获取的字段，多余无需展示的字段通过删除按钮去掉
 
-![](7dce4a518352b64bae4f6ff5dff8d715.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/7dce4a518352b64bae4f6ff5dff8d715.jpg)
 
 6.选择表输出动作，将配置好的数据，输出至指定的库中，配置一个表名，选择数据写入方式。保存后执行等待输出结果即可
 
-![](424f1ed11cd8090ad9cf4ff93bb77ca7.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/424f1ed11cd8090ad9cf4ff93bb77ca7.jpg)
 
 8.通过数据准备配置一个sql数据集，选择通过ETL输出之后的表名，对表进行查询操作进行数据二次加工操作
 
-![](efbdafa174b2b9a0999a3e70c848c075.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/efbdafa174b2b9a0999a3e70c848c075.jpg)
 
 9.通过页面引擎、或数据报表，选择数据加工-sql数据集，进行数据引用获取
 
-![](63e37860c58f62933e25920760902c1b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/63e37860c58f62933e25920760902c1b.jpg)
 
 最终可视化效果展示如下:
 
-![](af433abadd57e16a3f81ef32dd4c59eb.jpg)

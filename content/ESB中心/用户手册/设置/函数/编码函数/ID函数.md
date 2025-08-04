@@ -1,8 +1,8 @@
 ---
 aliases: ["1970701407611707193"]
 title: ID函数
-created: 2025-07-15
-modified: 2025-07-15
+created: 2025-07-29
+modified: 2025-07-29
 tags: ['ESB中心']
 theme: ESB中心
 ---

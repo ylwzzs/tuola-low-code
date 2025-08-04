@@ -27,21 +27,21 @@ theme: 知识文档
 
 设置入口：后台管理中心-平台引擎-ESB中心-连接器
 
-![](c65601a986b421778a03324b7efc019f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/c65601a986b421778a03324b7efc019f.jpg)
 
 ### 3.1.1. **创建连接器**
 
 点击右上角新建连接器按钮，弹出连接器设置框，连接类型选择FTP，其他信息根据实际情况填写，填写完成后点击保存
 
-![](cf758bd2f72506f0455943d0746d156b.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/cf758bd2f72506f0455943d0746d156b.jpg)
 
 打开刚才创建的连接器，点击新建按钮，弹出连接信息设置框
 
-![](f4d77c37dc55bc4124df29ebc9e9fcca.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/f4d77c37dc55bc4124df29ebc9e9fcca.jpg)
 
 弹框内填写相应的信息，连接方式选择PASV被动模式，填写完毕后点击保存即完成连接器创建
 
-![](8d622af9fb953462de1d7c61d45cbf4c.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/8d622af9fb953462de1d7c61d45cbf4c.jpg)
 
 ## 3.2. **动作流**
 
@@ -51,13 +51,13 @@ theme: 知识文档
 
 点击新建按钮下拉框中的动作流本地迁入按钮，选择文件采集动作流压缩包，完成动作流迁入
 
-![](d4878f300b09360a339ea13ff686b8f0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/d4878f300b09360a339ea13ff686b8f0.jpg)
 
 ### 3.2.2. **动作流设置**
 
 点击打开导入的动作流，再点击新建文档动作流组件，修改目标文件夹设置项为采集文件归档的文件夹，选择文档密级，完成后点击保存并启用
 
-![](0336e24ba403d30f1e2f37d6d5ea4567.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/0336e24ba403d30f1e2f37d6d5ea4567.jpg)
 
 ## 3.3. **文件采集设置**
 
@@ -67,7 +67,7 @@ theme: 知识文档
 
 点击有上角新建按钮，弹出新建窗口
 
-![](bac43a6a8a5a91fd956ebdf2f6870dc0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/bac43a6a8a5a91fd956ebdf2f6870dc0.jpg)
 
 启用：默认不启用，完成新建后需手动开始任务；若设置启用，完成新建保存后，立即开始任务
 
@@ -84,23 +84,23 @@ theme: 知识文档
 
 未启用的采集任务，点击启用按钮，开始文件采集。
 
-![](aaa964b3008002fdb8cf090426df461f.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/aaa964b3008002fdb8cf090426df461f.jpg)
 
 任务开始采集前会进行扫描，弹窗告知用户即将要采集多少文件数、大小及耗时
 
-![](5bce34bfff58dcd6d39595664bfc37b4.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/5bce34bfff58dcd6d39595664bfc37b4.jpg)
 
 点击开始采集按钮，开始执行采集任务，弹出采集进度弹窗，展示采集详情
 
-![](1a1f94ba1e13884f12f33f1008d97be7.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/1a1f94ba1e13884f12f33f1008d97be7.jpg)
 
 ### 3.3.3. **暂停**
 
 正在执行中的采集任务，可以在采集进度中点击【暂停采集】，或直接点击启用开关进行暂停
 
-![](507e51e2d65638e0ce5515ecc9506af0.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/507e51e2d65638e0ce5515ecc9506af0.jpg)
 
-![](2c46a81b2302a164e227d623651ef803.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/2c46a81b2302a164e227d623651ef803.jpg)
 
 暂停的任务可在任务进度中点击重新采集按钮，或者点击启用开关，继续执行采集任务
 
@@ -108,10 +108,9 @@ theme: 知识文档
 
 对于已存在的采集任务，可点击另存为按钮，生成一份新的采集任务，新的采集任务状态为未开始状态
 
-![](989a72a291e090cbb6dd4d983f14b979.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/989a72a291e090cbb6dd4d983f14b979.jpg)
 
 另存为的采集任务，可以编辑修改采集任务设置
 
-![](e296e9c40eb1cd098a6294ee4ea180ff.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e296e9c40eb1cd098a6294ee4ea180ff.jpg)
 
-###

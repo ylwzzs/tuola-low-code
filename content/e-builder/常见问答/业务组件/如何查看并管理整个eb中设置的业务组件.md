@@ -15,4 +15,4 @@ theme: e-builder
 
 在eb应用中心-开发-组件-业务组件中，点击相应的组件，就可看到该组件所有的配置使用情况：
 
-![](30a3d479b46d320dd0ba52d5e16db153.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/30a3d479b46d320dd0ba52d5e16db153.jpg)

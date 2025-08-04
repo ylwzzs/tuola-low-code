@@ -11,8 +11,7 @@ theme: e-builder
 
 启用在线模板后，点击设计模板显示WPS未启用，这个怎么解决？
 
-![](984b5045d1ba1f96958dde938be5cd76.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/984b5045d1ba1f96958dde938be5cd76.jpg)
 
 **解决方式：**
 
-目前表单字段替换模板文件中的字段有两种方式：一个是书签匹配，另一个是在线匹配，其中在线匹配更为方便，但是需要用户购买相应的WPS服务，具体购买事宜可以联系商务。

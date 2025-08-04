@@ -11,14 +11,13 @@ theme: e-builder
 
 在页面中存在流程列表组件，但是选不到eb流程，只能选择到工作流。
 
-![](cbacbfd78f69ea4669711dbae2c6b18e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/cbacbfd78f69ea4669711dbae2c6b18e.jpg)
 
 **解决方式：**
 
 这是由于该组件是工作流模块的组件，在页面中，若是想要展示eb流程信息，可以拖入列表组件，选择列表数据源时，将表单切换成流程，此时选择全部流程、待办流程，就是该eb应用下的流程信息：
 
-![](e046f0b1824afb3a37a999d65243607d.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/e046f0b1824afb3a37a999d65243607d.jpg)
 
 若只想展示该应用下的某些流程或单个流程，可以设置流程的范围：
 
-![](b4af26e9da20ad604e26775c091a6f05.jpg)

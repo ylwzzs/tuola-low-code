@@ -11,12 +11,11 @@ theme: e-builder
 
 同一自定义构建应用，菜单权限均一致，移动端显示菜单数量和PC端展示的不符；
 
-![](df7ec99f795548ba88ae2327c5abf413.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/df7ec99f795548ba88ae2327c5abf413.jpg)
 
-![](4dcd353b65910f36ebbfd95865e2367e.jpg)
+![](https://myhelpdoc.oss-cn-heyuan.aliyuncs.com/mdimages/4dcd353b65910f36ebbfd95865e2367e.jpg)
 
 **解决方式：**
 
 自定义应用设置页面-菜单设置-选择移动端菜单-点击“从PC端同步”
 
-![](7b7fb765c57080b21e8270408c72f9c4.jpg)

@@ -1,0 +1,15 @@
+{
+  "picBed": {
+    "current": "aliyun",
+    "aliyun": {
+      "accessKeyId": "LTAI5tL7M26csw6HQdZzkp3w",
+      "accessKeySecret": "Q3X9PB1ETWTOIFHvMDxVOCLSpGlElF",
+      "bucket": "myhelpdoc",
+      "area": "oss-cn-heyuan",
+      "path": "mdimages/",
+      "customUrl": "",
+      "options": ""
+    }
+  },
+  "picgoPlugins": {}
+} 
