@@ -20,3 +20,10 @@ public/
 dist/
 build/
 *.log
+
+# 忽略敏感配置文件
+content/picgo_config.json
+*.env
+.env.local
+.env.production
+.env.development

@@ -2,9 +2,9 @@
   "picBed": {
     "current": "aliyun",
     "aliyun": {
-      "accessKeyId": "LTAI5tL7M26csw6HQdZzkp3w",
-      "accessKeySecret": "Q3X9PB1ETWTOIFHvMDxVOCLSpGlElF",
-      "bucket": "myhelpdoc",
+      "accessKeyId": "YOUR_ACCESS_KEY_ID",
+      "accessKeySecret": "YOUR_ACCESS_KEY_SECRET",
+      "bucket": "YOUR_BUCKET_NAME",
       "area": "oss-cn-heyuan",
       "path": "mdimages/",
       "customUrl": "",
