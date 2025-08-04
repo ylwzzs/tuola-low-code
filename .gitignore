@@ -9,3 +9,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+node_modules/
+
+# 忽略attachments文件夹
+content/attachments/
