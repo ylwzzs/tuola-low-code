@@ -44,10 +44,20 @@ echo -e "${YELLOW}🔄 开始同步文件...${NC}"
 if command -v ossutil &> /dev/null; then
     echo -e "${GREEN}✅ 使用 ossutil 进行同步${NC}"
     
-    # 配置 ossutil
-    ossutil config -e "$ENDPOINT" -i "$ALIBABA_CLOUD_ACCESS_KEY_ID" -k "$ALIBABA_CLOUD_ACCESS_KEY_SECRET"
+    # 配置 ossutil - 使用完整的端点URL
+    if [[ "$ENDPOINT" == *"aliyuncs.com"* ]]; then
+        # 如果已经是完整URL，直接使用
+        OSS_ENDPOINT_FULL="$ENDPOINT"
+    else
+        # 否则构建完整URL
+        OSS_ENDPOINT_FULL="https://$ENDPOINT"
+    fi
+    
+    echo -e "${YELLOW}🔧 配置 ossutil 端点: $OSS_ENDPOINT_FULL${NC}"
+    ossutil config -e "$OSS_ENDPOINT_FULL" -i "$ALIBABA_CLOUD_ACCESS_KEY_ID" -k "$ALIBABA_CLOUD_ACCESS_KEY_SECRET"
     
     # 完全同步（删除目标端多余文件，上传本地文件）
+    echo -e "${YELLOW}📤 开始同步到 oss://$BUCKET_NAME/${NC}"
     ossutil sync public/ oss://$BUCKET_NAME/ --delete --force
     
     echo -e "${GREEN}✅ 同步完成！${NC}"
