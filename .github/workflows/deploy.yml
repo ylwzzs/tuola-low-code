@@ -67,8 +67,15 @@ jobs:
         ALIBABA_CLOUD_REGION_ID: ${{ secrets.ALIBABA_CLOUD_REGION_ID }}
         SITE_URL: ${{ secrets.SITE_URL }}
       run: |
-        chmod +x scripts/deploy.sh
-        ./scripts/deploy.sh
+        echo "🔧 配置ossutil..."
+        # 使用正确的端点配置
+        ossutil config -e "https://${{ secrets.OSS_ENDPOINT }}" -i "${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_ID }}" -k "${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_SECRET }}"
+        
+        echo "📤 开始同步到OSS..."
+        # 同步文件到OSS
+        ossutil sync public/ oss://${{ secrets.OSS_BUCKET_NAME }}/ --delete --force
+        
+        echo "✅ 同步完成！"
         
     - name: Deploy status
       run: |
